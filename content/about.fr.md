@@ -14,18 +14,12 @@ La liste des domaines de la biologie que j'ai abordés à un moment
 ou un autre de mes recherches est trop longue pour être donnée ici.
 Disons que je sais très peu de choses à propos de nombreux sujets.
 
-J'ai beaucoup de difficulté à me souvenir des visages et des noms.
-J'ai beaucoup de difficulté à me souvenir des choses en général.
-Il est possible d'en profiter en me faisant croire que j'ai dit ou
-accepté quelque chose, ce que je dois généralement accepter puisque
-je ne m'en souviendrais pas de toute façon.
-
 **Au quotidien:**
 J'ai toujours l'air très sérieux alors que je le suis très rarement.
 J'écoute de la musique partout et toujours. J'éternue fort et
 souvent - je vous offre mes excuses.
 
-**Croyances:**
+**À propos de mon travail:**
 Les congrès sont ce qu'il y a de mieux à propos de la recherche
 en milieu académique. On a la chance de voyager pour recontrer de
 nouveaux collègues, lancer des collaborations, en apprendre sur les

@@ -12,17 +12,14 @@ he/him; last name pronunciation: *"ken-el val-e-air"*
 #### Department of Immunology and Cell Biology, Université de Sherbrooke
 The list of biology fields that my research has involved at one point
 or another is too long to post here. Let's say I know very little about
-a lot of things. I have a hard time remembering faces and names. I have
-a hard time remembering other things as well. You can take advantage by
-pretending I said or agreed to something - I have to roll with it
-because I wouldn't remember anyway.
+a lot of things.
 
 **On the daily:**
 If you wonder whether I'm being serious, I'm not. Music always and
 everywhere. I sneeze often and loud - my apologies to those who spend
 time in my general vicinity.
 
-**Beliefs:**
+**About my job:**
 Conferences are the best part of what we do as academic
 researchers. You travel to meet new colleagues, start collaborations,
 get updated on the state of the art, promote your work. It's the best.
