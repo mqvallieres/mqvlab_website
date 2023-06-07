@@ -39,4 +39,4 @@ travaux. Y'a pas mieux.
 - B.Sc., Université de Montréal (2007)
 
 **CV:**
-[MQV_CV](/MQVallieres_CV.pdf)
+[MQV_CV](/content/MQVallieres_CV.pdf)
