@@ -1,35 +1,45 @@
-![MQVlab_logo](/img/lab_logo_main.png)
-### Interrogating the RNA to find new solutions to urgent needs
+![MQVlab_logo](/img/lab_logo_principal.png)
+### Interrogation de l'ARN pour répondre à des besoins urgents
 Notre labo utilise des données de séquençage à haut débit et des 
 validations expérimentales pour trouver des variations de l'ARN
 impliquées dans le développement de tissus normaux et de maladies.
 
-Using variations in RNA splicing patterns, it is possible to discover molecular
-signals missed with other approaches. Over the years, transcriptomic analyses
-have provided key insight on questions encompassing the fields of
-`autism spectrum disorders` and `cancer`. For example, transcriptomic
-analyses revealed that:
+En étudiant les variations d'épissage de l'ARN, il est possible de
+découvrir des signatures moléculaires ignorées par d'autres approches.
+Au cours des dernières années, l'analyse du transcriptome a permis
+d'apporter une lumière nouvelle sur des questions fondamentales
+dans les domaines des `troubles du spectre de l'autisme` et du
+`cancer`. Par exemple, nous avous trouvé que:
 &nbsp;
-- A program of alternative RNA splicing events is causally linked to a large
-fraction of autism spectrum disorder cases - see [Irimia et al. 2014](https://www.sciencedirect.com/science/article/pii/S0092867414015128?via%3Dihub), [Quesnel-Vallières et al. 2016](https://www.sciencedirect.com/science/article/pii/S1097276516308061?via%3Dihub)
-- A large array of diverse tumour types share common molecular patterns
-characterized by the deregulation of RNA processing - see [Jha, Quesnel-Vallières et al. 2022](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02681-3)
+- Un programme d'épissage alternatif de l'ARN est causelement lié
+à une large fraction des cas de troubles du spectre de l'autisme -
+voir [Irimia et al. 2014](https://www.sciencedirect.com/science/article/pii/S0092867414015128?via%3Dihub),
+[Quesnel-Vallières et al. 2016](https://www.sciencedirect.com/science/article/pii/S1097276516308061?via%3Dihub)
+- Une large gamme de tumeurs partage des signatures moléculaires
+communes caractérisées par la dérégulation des processus liés à
+l'ARN - voir [Jha, Quesnel-Vallières et al. 2022](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02681-3)
 
 
 ### Vision
-The lab will officially launch in September 2023. Our research is driven by a combination of
-computional analyses to generate hypotheses and experimental work to describe biological
-functions. We believe that studying RNA splicing will uncover new therapeutic avenues for
-cancer. We also believe that the role of RNA-binding proteins is heavily underestimated in
-immune cell development and function.
+Le laboratoire ouvrira officiellement en septembre 2023. Notre
+recherche repose sur une combinaison d'analyses bioinformatiques
+pour générer des hypothèses et des expériences en laboratoire
+pour décrire les fonctions biologiques. Nous croyons que l'étude
+de l'épissage ARN ouvrira de nouvelles voies thérapeutiques pour
+le traitement du cancer. Nous croyons aussi que le rôle de
+l'épissage alternatif dans le développement et les fonctions
+du système immunitaire est largement sous-estimé et que la
+caractérisation de ces processus permettra de mieux décrire et
+prendre en charge les cancers du sang.
 
-We actively seek [graduate students and postdocs](/positions/)
-to pursue [projects](/projects/) that will open new avenues for cancer treatment and
-advance our understanding of the immune system.
+Nous recherchons activement des [étudiants gradués et stagiaires
+postdoctoraux](/positions.fr/) pour mener des [projets](/projects.fr/)
+qui feront progresser les traitements contre le cancer et notre
+compréhension du système immunitaire.
 
-
-### Funding
-The lab is supported by a Next Generation of Scientists Award from the Cancer Research
-Society as well as startup funds from the Université de Sherbrooke and CRCHUS.
+### Financement
+Le laboratoire est financé par une Bourse pour la relève scientifique
+de la Société de recherche sur le cancer ainsi que des fonds de
+démarrage de l'Université de Sherbrooke et du CRCHUS.
 ![src-crs_logo](/img/SRC-CRS_logo.png)
 ![UdeS_logo](/img/UdeS_logo.png)

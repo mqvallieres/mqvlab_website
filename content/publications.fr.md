@@ -4,7 +4,7 @@ tags: []
 ---
 
 
-### Cancer transcriptomics and splicing in cancer
+### Transcriptomique et épissage dans le cancer
 
 **2023**
 
@@ -27,8 +27,8 @@ Tikhonenko A, Zarnack K, Legewie S, König J
 models.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02681-3)  
 Jha A\*#, **Quesnel-Vallières M**\*#, Thomas-Tikhonenko A, Lynch KW, Barash Y#  
 *Genome Biology*  
-\* co-first authors
-\# corresponding authors
+\* co-premiers auteurs
+\# auteurs de correspondance
 
 [Modulation of CD22 protein expression in childhood
 leukemia by pervasive splicing aberrations: implications for CD22-directed
@@ -49,7 +49,7 @@ Cherry S, Lynch KW
 
 
 
-### Alternative splicing in autism spectrum disorders
+### Épissage alternatif dans les troubles de l'autisme
 
 **2020**
 
@@ -67,8 +67,8 @@ JD, Gingras AC, Collingridge GL, Woodin MA, Cordes SP, Blencowe BJ
 **Quesnel-Vallières M**#, Weatheritt RJ, Cordes SP#, and Blencowe BJ#  
 *Nature Reviews Genetics*  
 \# corresponding authors  
-Cover article:
-![](/nrg_cover2.png)
+Article de couverture:
+![NRG cover](/img/nrg_cover2.png)
 
 **2016**
 
@@ -77,9 +77,9 @@ underlying autism spectrum disorders.](https://www.sciencedirect.com/science/art
 **Quesnel-Vallières M**, Dargaei Z, Irimia M, Gonatopoulos-Pournatzis T, Ip J, Wu M,
 Sterne-Weiler T, Nakagawa S, Woodin MA, Blencowe BJ, and Cordes SP  
 *Molecular Cell*  
-Article covered by The Globe and Mail:
-![](/globe_and_mail.png)
-[Globe and Mail article](https://www.theglobeandmail.com/technology/science/introverted-mice-reveal-clues-to-large-swath-of-autism-cases/article33343497/)
+Article couvert par The Globe and Mail:
+![Globe](/img/globe_and_mail.png)
+[article du Globe and Mail](https://www.theglobeandmail.com/technology/science/introverted-mice-reveal-clues-to-large-swath-of-autism-cases/article33343497/)
 
 **2015**
 
@@ -95,10 +95,10 @@ Irimia M, Weatheritt RJ, Ellis J, Parikshak NN, Gonatopoulos-Pournatzis T, Babor
 **Quesnel-Vallières M**, Tapial J, Raj B, O’Hanlon D, Barrios-Rodiles M, Sternberg MJ,
 Cordes SP, Roth FP, Wrana JL, Geschwind DH, and Blencowe BJ  
 *Cell*  
-Article highlighted in a Preview in Cell, an Editor's Choice in Science and a Research Highlights in Nature Genetics;
-covered by international media (e.g Toronto Star, The Scientist)
+Article souligné dans un Preview dans Cell, un Editor's Choice dans Science et un Research Highlights dans Nature Genetics;
+couvert part des média internationaux (e.g Toronto Star, The Scientist)
 
-### Other work
+### Autres
 
 **2022**
 
