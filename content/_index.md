@@ -1,4 +1,4 @@
-![MQVlab_logo](https://mqvallieres.github.io/mqvlab_website/static/img/lab_logo_main.png)
+![MQVlab_logo](mqvallieres.github.io/mqvlab_website/static/img/lab_logo_main.png)
 ### Interrogating the RNA to find new cancer treatments
 Our lab uses high-throughput sequencing data and experimental validations
 to find RNA variations involved in normal tissues development or in cancer.
