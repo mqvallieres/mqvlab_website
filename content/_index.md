@@ -23,7 +23,7 @@ cancer. We also believe that the role of RNA-binding proteins is heavily underes
 immune cell development and function.**
 
 We actively seek [graduate students and postdocs](/content/positions.md)
-to pursue [projects](/content/projects/) that will open new avenues for cancer treatment and
+to pursue [projects](/content/projects.md) that will open new avenues for cancer treatment and
 advance our understanding of the immune system.
 
 
