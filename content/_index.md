@@ -1,4 +1,4 @@
-![MQVlab_logo](img/lab_logo_main.png)
+![MQVlab_logo](/img/lab_logo_main.png)
 ### Interrogating the RNA to find new solutions to urgent needs
 Our lab uses high-throughput sequencing data and experimental validations
 to find `RNA variations` involved in normal tissues development or in disease.
@@ -30,5 +30,5 @@ advance our understanding of the immune system.
 ### Funding
 The lab is supported by a Next Generation of Scientists Award from the Cancer Research
 Society as well as startup funds from the Université de Sherbrooke and CRCHUS.
-![src-crs_logo](img/SRC-CRS_logo.png)
-![UdeS_logo](img/UdeS_logo.png)
+![src-crs_logo](/img/SRC-CRS_logo.png)
+![UdeS_logo](/img/UdeS_logo.png)
