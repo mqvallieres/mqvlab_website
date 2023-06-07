@@ -1,7 +1,8 @@
 ![MQVlab_logo](/img/lab_logo_main.png)
 ### Interrogating the RNA to find new solutions to urgent needs
-Our lab uses high-throughput sequencing data and experimental validations
-to find `RNA variations` involved in normal tissues development or in disease.
+Notre labo utilise des données de séquençage à haut débit et des 
+validations expérimentales pour trouver des variations de l'ARN
+impliquées dans le développement de tissus normaux et de maladies.
 
 Using variations in RNA splicing patterns, it is possible to discover molecular
 signals missed with other approaches. Over the years, transcriptomic analyses
@@ -30,5 +31,5 @@ advance our understanding of the immune system.
 ### Funding
 The lab is supported by a Next Generation of Scientists Award from the Cancer Research
 Society as well as startup funds from the Université de Sherbrooke and CRCHUS.
-![src-crs_logo](img/SRC-CRS_logo.png)
-![UdeS_logo](img/UdeS_logo.png)
+![src-crs_logo](/img/SRC-CRS_logo.png)
+![UdeS_logo](/img/UdeS_logo.png)

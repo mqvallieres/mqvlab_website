@@ -11,12 +11,12 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
-[Params]
+[languages.en.Params]
   homeTitle = "Quesnel-Vallières Lab" # Set a different text for the header on the home page
   subtitle = "Coming to Université de Sherbrooke, September 2023"
   mainSections = ["post","posts"]
-  logo = "img/lab_logo.png" # Expecting square dimensions
-  favicon = "img/lab_logo_nobckg.png"
+  logo = "/img/lab_logo.png" # Expecting square dimensions
+  favicon = "/img/lab_logo_nobckg.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
@@ -29,6 +29,23 @@ pygmentsCodefencesGuessSyntax = true
   showRelatedPosts = true
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+[languages.fr.Params]
+  homeTitle = "Laboratoire Quesnel-Vallières" # Set a different text for the header on the home page
+  subtitle = "Université de Sherbrooke, dès Septembre 2023"
+  mainSections = ["post","posts"]
+  logo = "/img/lab_logo.png" # Expecting square dimensions
+  favicon = "/img/lab_logo_nobckg.png"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
@@ -50,37 +67,76 @@ pygmentsCodefencesGuessSyntax = true
   linkedin = "https://www.linkedin.com/in/quesnel-vallieres/"
   mastodon = "https://genomic.social/@RNA_Ken"
 
-[[menu.main]]
+
+
+defaultContentLanguage = 'en'
+[languages]
+  [languages.en]
+    title = 'MQV Lab'
+    weight = 1
+    [languages.en.params]
+      linkedin = 'https://linkedin.com/quesnel-vallieres'
+  [languages.fr]
+    title = 'MQV Lab'
+    weight = 2
+    [languages.fr.params]
+
+[[languages.en.menu.main]]
     name = "Home"
     url = ""
     weight = 1
+[[languages.fr.menu.main]]
+    name = "Accueil"
+    url = ""
+    weight = 1
 
-[[menu.main]]
+
+[[languages.en.menu.main]]
     name = "Projects"
     url = "/projects/"
     weight = 2
+[[languages.fr.menu.main]]
+    name = "Projets"
+    url = "/projects/"
+    weight = 2
 
-[[menu.main]]
+
+[[languages.en.menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 3
+[[languages.fr.menu.main]]
     name = "Publications"
     url = "/publications/"
     weight = 3
 
-[[menu.main]]
+
+[[languages.en.menu.main]]
     name = "Positions"
     url = "/positions/"
     weight = 4
+[[languages.fr.menu.main]]
+    name = "Postes"
+    url = "/positions/"
+    weight = 4
 
-[[menu.main]]
+
+[[languages.en.menu.main]]
     name = "About"
     url = "/about/"
     weight = 5
+[[languages.fr.menu.main]]
+    name = "À propos"
+    url = "/about/"
+    weight = 5
 
-[[menu.main]]
-    name = "News"
-    url = "/news/"
-    weight = 6
 
-[[menu.main]]
+
+[[languages.en.menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 7
+[[languages.fr.menu.main]]
     name = "Contact"
     url = "/contact/"
     weight = 7
