@@ -22,8 +22,8 @@ functions. **We believe that studying RNA splicing will uncover new therapeutic 
 cancer. We also believe that the role of RNA-binding proteins is heavily underestimated in
 immune cell development and function.**
 
-We actively seek [graduate students and postdocs](/content/positions/)
-to pursue [projects](/content/projects/) that will open new avenues for cancer treatment and
+We actively seek [graduate students and postdocs](positions)
+to pursue [projects](projects) that will open new avenues for cancer treatment and
 advance our understanding of the immune system.
 
 
