@@ -1,4 +1,4 @@
-![MQVlab_logo](https://github.com/mqvallieres/mqvlab_website/blob/master/static/img/lab_logo_main.png)
+![MQVlab_logo](/img/lab_logo_main.png)
 ### Interrogating the RNA to find new cancer treatments
 Our lab uses high-throughput sequencing data and experimental validations
 to find RNA variations involved in normal tissues development or in cancer.
@@ -30,4 +30,4 @@ advance our understanding of the immune system.
 ### Funding
 The lab is supported by a Next Generation of Scientists Award from the Cancer Research
 Society as well as startup funds from the Université de Sherbrooke and CRCHUS.
-![funding](funding.png)
+![funding](/img/funding.png)
