@@ -1,4 +1,4 @@
-![MQVlab_logo](/img/lab_logo_main.png)
+![MQVlab_logo](img/lab_logo_main.png)
 ### Interrogating the RNA to find new solutions to urgent needs
 Our lab uses high-throughput sequencing data and experimental validations
 to find `RNA variations` involved in normal tissues development or in disease.
