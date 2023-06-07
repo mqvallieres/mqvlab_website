@@ -3,8 +3,6 @@
 Our lab uses high-throughput sequencing data and experimental validations
 to find RNA variations involved in normal tissues development or in cancer.
 
-FUCK OFF
-
 Using variations in RNA splicing patterns, it is possible to discover molecular
 signals missed with other approaches. Over the years, transcriptomic analyses
 have provided key insight on questions encompassing the fields of
@@ -24,8 +22,8 @@ functions. **We believe that studying RNA splicing will uncover new therapeutic 
 cancer. We also believe that the role of RNA-binding proteins is heavily underestimated in
 immune cell development and function.**
 
-We actively seek [graduate students and postdocs](/content/positions.md)
-to pursue [projects](/content/projects.md) that will open new avenues for cancer treatment and
+We actively seek [graduate students and postdocs](/content/positions/)
+to pursue [projects](/content/projects/) that will open new avenues for cancer treatment and
 advance our understanding of the immune system.
 
 
