@@ -10,4 +10,5 @@ Eastern Townships.
 Please direct all questions and inquiries to [Mathieu Quesnel-Vallières](mailto:mathieu.quesnel-vallieres@pennmedicine.upenn.edu).
 
 ![PRAC](/img/prac_arrow.png)
+![UdeS](/img/UdeS_logo.png)
 
