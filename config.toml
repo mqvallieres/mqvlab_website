@@ -1,4 +1,4 @@
-baseurl = "https://gitlab.com/mqvallieres/mqvlab-website"
+baseurl = "https://github.com/mqvallieres/mqvlab_website"
 DefaultContentLanguage = "en"
 title = "MQV Lab"
 theme = "beautifulhugo"
