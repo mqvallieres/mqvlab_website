@@ -7,27 +7,32 @@ date: 2023-06-05T22:34:08-04:00
 next challenge")
 
 ### Mathieu Quesnel-Vallières, Ph.D.
-he/him; last name pronunciation: *"ken-el val-e-air"*
-#### Incoming Assistant Professor
-#### Department of Immunology and Cell Biology, Université de Sherbrooke
-The list of biology fields that my research has involved at one point
-or another is too long to post here. Let's say I know very little about
-a lot of things. I have a hard time remembering faces and names. I have
-a hard time remembering other things as well. You can take advantage by
-pretending I said or agreed to something - I have to roll with it
-because I wouldn't remember anyway.
+il/lui
+#### Professeur adjoint
+#### Département d'immunologie et biologie cellulaire, Université de Sherbrooke
+La liste des domaines de la biologie que j'ai abordés à un moment
+ou un autre de mes recherches est trop longue pour être donnée ici.
+Disons que je sais très peu de choses à propos de nombreux sujets.
 
-**On the daily:**
-If you wonder whether I'm being serious, I'm not. Music always and
-everywhere. I sneeze often and loud - my apologies to those who spend
-time in my general vicinity.
+J'ai beaucoup de difficulté à me souvenir des visages et des noms.
+J'ai beaucoup de difficulté à me souvenir des choses en général.
+Il est possible d'en profiter en me faisant croire que j'ai dit ou
+accepté quelque chose, ce que je dois généralement accepter puisque
+je ne m'en souviendrais pas de toute façon.
 
-**Beliefs:**
-Conferences are the best part of what we do as academic
-researchers. You travel to meet new colleagues, start collaborations,
-get updated on the state of the art, promote your work. It's the best.
+**Au quotidien:**
+J'ai toujours l'air très sérieux alors que je le suis très rarement.
+J'écoute de la musique partout et toujours. J'éternue fort et
+souvent - je vous offre mes excuses.
 
-**Training:**
+**Croyances:**
+Les congrès sont ce qu'il y a de mieux à propos de la recherche
+en milieu académique. On a la chance de voyager pour recontrer de
+nouveaux collègues, lancer des collaborations, en apprendre sur les
+plus récents développements dans notre domaine, promouvoir nos
+travaux. Y'a pas mieux.
+
+**Formation:**
 - Postdoc, University of Pennsylvania (2023)
 - Ph.D., University of Toronto (2017)
 - M.Sc., Université de Montréal (2010)

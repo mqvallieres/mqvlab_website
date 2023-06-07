@@ -1,34 +1,36 @@
 ---
-title: "Positions"
+title: "Postes"
 date: 2023-06-05T22:31:23-04:00
 ---
 
-### I want you to join me!
-Positions are available for graduate students and postdocs.
-Applicants seeking to conduct dry lab and/or experimental
-work are welcome to apply. Depending on the project, applicants with
-backgrounds in either molecular biology, cell biology,
-genetics, RNA biology or bioinformatics could be a good fit.
+### Joignez-vous à moi!
+Des postes sont disponibles pour des étudiants gradués et,
+possiblement, des stagiaires postdoctoraux. Les candidats qui
+désirent faire de la recherche expérimentale en laboratoire
+ou en bio-informatique sont les bienvenus. Selon le projet,
+des candidats avec un historique en biologie cellulaire,
+moléculaire, en génétique, en biologie de l'ARN ou en
+bio-informatique, par exemple, pourraient répondre aux besoins.
 
-Please state the **reason of your interest in the lab** and share your
-**CV** and full **B.Sc. transcript** when
-[reaching out](mailto:mathieu.quesnel-vallieres@pennmedicine.upenn.edu).
+Veuillez exprimer la **raison de votre intérêt pour le laboratoire**
+et partager votre **CV** et votre **relevé de notes de B.Sc. complet** pour
+[soumettre votre candidature](mailto:mathieu.quesnel-vallieres@pennmedicine.upenn.edu).
 
-Graduate students will pursue either a degree in Immunology
-([Master's](https://www.usherbrooke.ca/admission/programme/653/maitrise-en-immunologie/),
-[Ph.D.](https://www.usherbrooke.ca/admission/programme/723/doctorat-en-immunologie/))
-or in Cell Biology ([Master's](https://www.usherbrooke.ca/admission/programme/607/maitrise-en-biologie-cellulaire/),
-[Ph.D.](https://www.usherbrooke.ca/admission/programme/704/doctorat-en-biologie-cellulaire/)).
-Applicants must hold a B.Sc. in a related field
-(e.g. biology, biochemistry, pharmacology,...) with an average GPA equal to or
-above 3.5/4.3 to be admitted to the program. Please note that courses at
-the Université de Sherbrooke are presented in French and that some knowledge
-of the language is required.
+Les étudiants gradués seront inscrits aux programmes d'immunologie
+([Maîtrise](https://www.usherbrooke.ca/admission/programme/653/maitrise-en-immunologie/),
+[Doctorat](https://www.usherbrooke.ca/admission/programme/723/doctorat-en-immunologie/))
+ou de biologie cellulaire ([Maîtrise](https://www.usherbrooke.ca/admission/programme/607/maitrise-en-biologie-cellulaire/),
+[Doctorat](https://www.usherbrooke.ca/admission/programme/704/doctorat-en-biologie-cellulaire/)).
+Vous devez détenir un diplôme B.Sc. dans un domaine connexe
+(e.g. biologie, biochimie, pharmacologie,...) avec une moyenne égale ou
+supérieure à 3.5/4.3 pour être admis au programme gradué.
 
-### Lab philosophy
-I strongly encourage an open and collaborative dynamic within the lab.
-Group members are expected to engage with each other's projects and have good
-communication skills.
+### Philosophie du labo
+J'encourage fortement un environnement ouvert et collaboratif au sein
+du groupe. Il est attendu que les membres du groupe intéragissent et
+contribuent aux projets des uns et des autres. La communication est
+d'une importance promordiale.
 
-The lab philosophy as well as general guidelines will be described in the lab
-handbook, soon to be available here.
+![lab trinity](/img/lab_trinity.fr.png)
+La philosophie du labo et autres informations reliées à la vie
+du labo sont décrites dans un guide, disponible ici sous peu.

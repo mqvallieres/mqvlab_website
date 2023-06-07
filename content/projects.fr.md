@@ -1,64 +1,72 @@
 ---
-title: "Projects"
+title: "Projets"
 date: 2023-06-05T22:31:35-04:00
 ---
 
-# Research should be impactful, novel and exciting. What will you discover?
+# La recherche devrait avoir un fort impact, être novatrice et stimulante. Que découvrirez-vous?
 &nbsp;
 &nbsp;
-## Identification of new immunotherapy targets
-#### (mostly wet lab)
-A set of new cancer therapies rely on the targeting of markers present at
-the surface of cancer cells via the genetic engineering of cytotoxic
-T cells (CAR-T) or antibody-drug conjugates (ADC). While these treatments
-work well for many patients with certain types of blood cancers, their
-application in other cancer types is limited in part by the lack of
-cancer-specific markers to target.
+## Identification de nouvelles cibles d'immunothérapie
+#### (surtout expérimental)
+De nouvelles thérapies contre le cancer reposent sur le ciblage de
+marqueurs présents à la surface des cellules cancéreuses via
+la modification génétique de cellules T cytotoxiques (CAR-T) ou le
+développements d'anticorps conjugués à une drogue (ADC). Ces
+traitements fonctionnent bien pour plusieurs patients avec certains types
+de cancers du sang, mais leur application dans d'autres types de cancer
+est limitée en partie par le manque de marqueurs spécifiques aux cancers
+à cibler.
 
-We and others observed a wide range of splicing variations occuring across
-a wide array of tumor types (e.g. [Jha, Quesnel-Vallières et al., 2022](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02681-3)).
-Building from the hypothesis that this transcriptomics diversity would 
-make it possible to find cancer-specific splicing variations in surface
-receptors, we developped a computational pipeline that surveys a large
-array of normal tissues to identify candidate immunotherapy targets.
+Plusieurs groupes et nous avons observé une large gamme de variations
+de l'épissage de l'ARN dans divers types de tumeurs
+(e.g. [Jha, Quesnel-Vallières et al., 2022](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02681-3)).
+En partant de l'hypothèse que cette diversité transcriptomiques rend
+possible la découverte de variations d'épissage spécifiques aux cancers
+dans des récepteurs cellulaires de surface, nous avons développé un
+pipeline bioinformatique qui sonde une vaste gamme de tissus normaux
+pour identifier des candidats pour le développement d'immunothérapies.
 
 ![neoantigen_summary](/img/neoantigen_discov.jpg)
-We currently focus our efforts on the experimental validation of
-candidates that appear to be prime therapeutic targets
-in acute myeloid leukemia.
+Nos efforts se concentrent présentement sur la validation
+expérimentale de candidats qui semblent être des cibles
+d'immunothérapies privilégiées dans la leucémie aiguë myéloïde.
 
 &nbsp;
 &nbsp;
-## Blood-specific RNA splicing regulation
-#### (mostly wet lab)
-Sets of alternative RNA splicing events are co-regulated to shape the
-development and function of the nervous system. Several such programs and their
-regulators have been extensively studied
+## Régulation de l'épissage de l'ARN dans le système immunitaire
+#### (surtout expérimental)
+Des événements d'épissage alternatif de l'ARN sont co-réguler pour
+soutenir le développement et les fonctions du système nerveux. De
+nombreux programmes d'épissage alternatif et leurs protéines régulatrices
+ont été étudiés en détails
 (e.g. [Quesnel-Vallières et al., 2015](https://genesdev.cshlp.org/content/29/7/746)).
-In addition to explaining important molecular mechanisms underlying the
-complexity of the brain, these alternative splicing programs can be
-involved in neuronal disorders and diseases (e.g.
-[Quesnel-Vallières et al., 2016](https://www.sciencedirect.com/science/article/pii/S1097276516308061?via%3Dihub)).
+En plus d'expliquer des mécanismes moléculaires essentiels à la
+complexité du cerveau, certains programmes d'épissage alternatifs
+sont impliqués dans des maladies et désordres du système nerveux
+(e.g. [Quesnel-Vallières et al., 2016](https://www.sciencedirect.com/science/article/pii/S1097276516308061?via%3Dihub)).
 
-Similar to components of the nervous system, immune cells display
-remarkable cellular, molecular and environmental diversity. We believe
-that a part of this complexity is enabled by
-hematopoietic-specific alternative splicing events. Our computational
-analyses have highlighted a number of putative splicing regulators that
-are specifically expressed in subsets of immune cell types.
+Tout comme les composantes du système nerveux, les cellules
+immunitaires montrent une remarquable diversité cellulaire,
+moléculaire et environnementale. Nous croyons que des événements
+d'épissage alternatif propres au système immunitaire participent
+à cette complexité. Nos analyses bio-informatiques ont révélé
+un certain nombre de gènes qui pourraient agir comme régulateurs
+de l'épissage alternatif et qui sont spécifiquement exprimés dans
+dans des populations définies de cellules hématopoïétiques.
 
 ![blood_summary](/img/blood_abstract.png)
 
-We now aim to confirm the role of top candidates in the regulation
-of splicing in immune cells and characterize the function of
-dedicated hematopoietic splicing programs. 
+Nous voulons maintenant confirmer le rôle de ces gènes candidats
+dans la régulation de l'épissage dans des cellules immunitaires
+et de caractériser leurs fonctions.
 
 &nbsp;
 &nbsp;
-## What is a gene?
-#### (computational)
-Here there is no supporting data, no rationale, just a question.
-What is a gene?
+## Qu'est-ce qu'un gène?
+#### (bio-informatique)
+Ici, aucune donnée sous-jacente, aucune observation, seulement
+une question. Qu'est-ce qu'un gène.
 
-This project is 100% computational. Details will be provided upon request.
+Ce projet est à 100% constitué d'analyses et de modélisations
+bio-informatiques. Des détails seront donnés sur demande.
 

@@ -1,15 +1,15 @@
 ![MQVlab_logo](/img/lab_logo_principal.png)
-### Interrogation de l'ARN pour répondre à des besoins urgents
+### Nous examinons les variations de l'ARN pour trouver de nouveaux traitments contre le cancer
 Notre labo utilise des données de séquençage à haut débit et des 
 validations expérimentales pour trouver des variations de l'ARN
-impliquées dans le développement de tissus normaux et de maladies.
+impliquées dans le développement de tissus normaux et des cancers.
 
 En étudiant les variations d'épissage de l'ARN, il est possible de
 découvrir des signatures moléculaires ignorées par d'autres approches.
 Au cours des dernières années, l'analyse du transcriptome a permis
 d'apporter une lumière nouvelle sur des questions fondamentales
-dans les domaines des `troubles du spectre de l'autisme` et du
-`cancer`. Par exemple, nous avous trouvé que:
+dans les domaines des troubles du spectre de l'autisme et du
+cancer. Par exemple, nous avous trouvé que:
 &nbsp;
 - Un programme d'épissage alternatif de l'ARN est causelement lié
 à une large fraction des cas de troubles du spectre de l'autisme -
@@ -24,13 +24,13 @@ l'ARN - voir [Jha, Quesnel-Vallières et al. 2022](https://genomebiology.biomedc
 Le laboratoire ouvrira officiellement en septembre 2023. Notre
 recherche repose sur une combinaison d'analyses bioinformatiques
 pour générer des hypothèses et des expériences en laboratoire
-pour décrire les fonctions biologiques. Nous croyons que l'étude
+pour décrire les fonctions biologiques. **Nous croyons que l'étude
 de l'épissage ARN ouvrira de nouvelles voies thérapeutiques pour
 le traitement du cancer. Nous croyons aussi que le rôle de
 l'épissage alternatif dans le développement et les fonctions
 du système immunitaire est largement sous-estimé et que la
 caractérisation de ces processus permettra de mieux décrire et
-prendre en charge les cancers du sang.
+prendre en charge les cancers du sang.**
 
 Nous recherchons activement des [étudiants gradués et stagiaires
 postdoctoraux](/positions.fr/) pour mener des [projets](/projects.fr/)
