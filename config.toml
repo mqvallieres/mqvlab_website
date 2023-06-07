@@ -10,6 +10,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
+canonifyURLs = true
 
 [languages.en.Params]
   homeTitle = "Quesnel-Vallières Lab" # Set a different text for the header on the home page
