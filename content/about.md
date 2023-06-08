@@ -32,3 +32,4 @@ get updated on the state of the art, promote your work. It's the best.
 
 **CV:**
 [MQV_CV](/static/MQVallieres_CV.pdf)
+[cv_link](https://github.com/mqvallieres/mqvlab_website/raw/master/static/MQVallieres_CV.pdf)

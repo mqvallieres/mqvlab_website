@@ -30,5 +30,6 @@ I strongly encourage an open and collaborative dynamic within the lab.
 Group members are expected to engage with each other's projects and have good
 communication skills.
 
+![lab_trinity](/img/lab_trinity.png)
 The lab philosophy as well as general guidelines will be described in the lab
 handbook, soon to be available here.
