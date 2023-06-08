@@ -1,5 +1,5 @@
 baseurl = "mqvallieres.github.io"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "fr"
 title = "MQV Lab"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
@@ -28,6 +28,7 @@ canonifyURLs = true
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
+  weight=2
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 [languages.fr.Params]
@@ -46,6 +47,7 @@ canonifyURLs = true
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
+  weight=1
 #
 
 #[[Params.bigimg]]

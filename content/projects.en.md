@@ -6,7 +6,7 @@ date: 2023-06-05T22:31:35-04:00
 # Research should be impactful, novel and exciting. What will you discover?
 &nbsp;
 &nbsp;
-## Identification of new immunotherapy targets
+## Project 1: Identification of new immunotherapy targets
 #### (mostly wet lab)
 A set of new cancer therapies rely on the targeting of markers present at
 the surface of cancer cells via the genetic engineering of cytotoxic
@@ -29,7 +29,7 @@ in acute myeloid leukemia.
 
 &nbsp;
 &nbsp;
-## Blood-specific RNA splicing regulation
+## Project 2: Blood-specific RNA splicing regulation
 #### (mostly wet lab)
 Sets of alternative RNA splicing events are co-regulated to shape the
 development and function of the nervous system. Several such programs and their
@@ -55,7 +55,7 @@ dedicated hematopoietic splicing programs.
 
 &nbsp;
 &nbsp;
-## What is a gene?
+## Project 3: What is a gene?
 #### (computational)
 Here there is no supporting data, no rationale, just a question.
 What is a gene?

@@ -6,7 +6,7 @@ date: 2023-06-05T22:31:35-04:00
 # La recherche devrait avoir un fort impact, être novatrice et stimulante. Que découvrirez-vous?
 &nbsp;
 &nbsp;
-## Identification de nouvelles cibles d'immunothérapie
+## Projet 1: Identification de nouvelles cibles d'immunothérapie
 #### (surtout expérimental)
 De nouvelles thérapies contre le cancer reposent sur le ciblage de
 marqueurs présents à la surface des cellules cancéreuses via
@@ -33,7 +33,7 @@ d'immunothérapies privilégiées dans la leucémie aiguë myéloïde.
 
 &nbsp;
 &nbsp;
-## Régulation de l'épissage de l'ARN dans le système immunitaire
+## Projet 2: Régulation de l'épissage de l'ARN dans le système immunitaire
 #### (surtout expérimental)
 Des événements d'épissage alternatif de l'ARN sont co-réguler pour
 soutenir le développement et les fonctions du système nerveux. De
@@ -62,7 +62,7 @@ et de caractériser leurs fonctions.
 
 &nbsp;
 &nbsp;
-## Qu'est-ce qu'un gène?
+## Projet 3: Qu'est-ce qu'un gène?
 #### (bio-informatique)
 Ici, aucune donnée sous-jacente, aucune observation, seulement
 une question. Qu'est-ce qu'un gène.
