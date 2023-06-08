@@ -33,5 +33,4 @@ travaux. Y'a pas mieux.
 - B.Sc., Université de Montréal (2007)
 
 **CV:**
-[MQV_CV](/static/MQVallieres_CV.pdf)
-[link_cv](https://github.com/mqvallieres/mqvlab_website/raw/master/static/MQVallieres_CV.pdf)
+[MQV_CV](https://github.com/mqvallieres/mqvlab_website/raw/master/static/MQVallieres_CV.pdf)

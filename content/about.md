@@ -31,5 +31,4 @@ get updated on the state of the art, promote your work. It's the best.
 - B.Sc., Université de Montréal (2007)
 
 **CV:**
-[MQV_CV](/static/MQVallieres_CV.pdf)
-[cv_link](https://github.com/mqvallieres/mqvlab_website/raw/master/static/MQVallieres_CV.pdf)
+[MQV_CV](https://github.com/mqvallieres/mqvlab_website/raw/master/static/MQVallieres_CV.pdf)
