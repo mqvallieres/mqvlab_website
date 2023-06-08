@@ -68,7 +68,7 @@ JD, Gingras AC, Collingridge GL, Woodin MA, Cordes SP, Blencowe BJ
 *Nature Reviews Genetics*  
 \# corresponding authors  
 Cover article:
-![](/nrg_cover2.png)
+![](/img/nrg_cover2.png)
 
 **2016**
 
@@ -78,7 +78,7 @@ underlying autism spectrum disorders.](https://www.sciencedirect.com/science/art
 Sterne-Weiler T, Nakagawa S, Woodin MA, Blencowe BJ, and Cordes SP  
 *Molecular Cell*  
 Article covered by The Globe and Mail:
-![](/globe_and_mail.png)
+![](/img/globe_and_mail.png)
 [Globe and Mail article](https://www.theglobeandmail.com/technology/science/introverted-mice-reveal-clues-to-large-swath-of-autism-cases/article33343497/)
 
 **2015**
