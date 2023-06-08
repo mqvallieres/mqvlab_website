@@ -4,7 +4,7 @@ date: 2023-06-05T22:31:23-04:00
 ---
 
 ### I want you to join me!
-Positions are available for graduate students and postdocs.
+Positions are available for graduate students and possibly postdocs.
 Applicants seeking to conduct dry lab and/or experimental
 work are welcome to apply. Depending on the project, applicants with
 backgrounds in either molecular biology, cell biology,

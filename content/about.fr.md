@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "À propos"
 date: 2023-06-05T22:34:08-04:00
 ---
 
@@ -34,3 +34,4 @@ travaux. Y'a pas mieux.
 
 **CV:**
 [MQV_CV](/static/MQVallieres_CV.pdf)
+[link_cv](https://github.com/mqvallieres/mqvlab_website/raw/master/static/MQVallieres_CV.pdf)
