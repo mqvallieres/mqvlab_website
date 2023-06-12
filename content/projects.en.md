@@ -22,7 +22,7 @@ make it possible to find cancer-specific splicing variations in surface
 receptors, we developped a computational pipeline that surveys a large
 array of normal tissues to identify candidate immunotherapy targets.
 
-![neoantigen_summary](/img/neoantigen_discov.jpg)
+![neoantigen_summary](/img/neoantigen_discov.png)
 We currently focus our efforts on the experimental validation of
 candidates that appear to be prime therapeutic targets
 in acute myeloid leukemia.
@@ -47,7 +47,7 @@ hematopoietic-specific alternative splicing events. Our computational
 analyses have highlighted a number of putative splicing regulators that
 are specifically expressed in subsets of immune cell types.
 
-![blood_summary](/img/blood_abstract.png)
+![blood_summary](/img/splicing_blood.en.png)
 
 We now aim to confirm the role of top candidates in the regulation
 of splicing in immune cells and characterize the function of

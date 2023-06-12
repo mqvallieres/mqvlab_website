@@ -26,7 +26,7 @@ dans des récepteurs cellulaires de surface, nous avons développé un
 pipeline bioinformatique qui sonde une vaste gamme de tissus normaux
 pour identifier des candidats pour le développement d'immunothérapies.
 
-![neoantigen_summary](/img/neoantigen_discov.jpg)
+![neoantigen_summary](/img/neoantigen_discov.fr.png)
 Nos efforts se concentrent présentement sur la validation
 expérimentale de candidats qui semblent être des cibles
 d'immunothérapies privilégiées dans la leucémie aiguë myéloïde.
@@ -54,7 +54,7 @@ un certain nombre de gènes qui pourraient agir comme régulateurs
 de l'épissage alternatif et qui sont spécifiquement exprimés dans
 dans des populations définies de cellules hématopoïétiques.
 
-![blood_summary](/img/blood_abstract.png)
+![blood_summary](/img/splicing_blood.fr.png)
 
 Nous voulons maintenant confirmer le rôle de ces gènes candidats
 dans la régulation de l'épissage dans des cellules immunitaires
