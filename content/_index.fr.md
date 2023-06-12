@@ -4,6 +4,7 @@ Notre labo utilise des données de séquençage à haut débit et des
 validations expérimentales pour trouver des variations de l'ARN
 impliquées dans le développement de tissus normaux et des cancers.
 
+![transcriptomics](/img/transcriptomics.fr.png)
 En étudiant les variations d'épissage de l'ARN, il est possible de
 découvrir des signatures moléculaires ignorées par d'autres approches.
 Au cours des dernières années, l'analyse du transcriptome a permis

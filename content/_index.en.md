@@ -3,6 +3,7 @@
 Our lab uses high-throughput sequencing data and experimental validations
 to find RNA variations involved in normal tissues development or in cancer.
 
+![transcriptomics](/img/transcriptomics.en.png)
 Using variations in RNA splicing patterns, it is possible to discover molecular
 signals missed with other approaches. Over the years, transcriptomic analyses
 have provided key insight on questions encompassing the fields of
