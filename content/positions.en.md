@@ -14,11 +14,8 @@ Please state the **reason of your interest in the lab** and share your
 **CV** and full **B.Sc. transcript** when
 [reaching out](mailto:mathieu.quesnel-vallieres@pennmedicine.upenn.edu).
 
-Graduate students will pursue either a degree in Immunology
-([Master's](https://www.usherbrooke.ca/admission/programme/653/maitrise-en-immunologie/),
-[Ph.D.](https://www.usherbrooke.ca/admission/programme/723/doctorat-en-immunologie/))
-or in Cell Biology ([Master's](https://www.usherbrooke.ca/admission/programme/607/maitrise-en-biologie-cellulaire/),
-[Ph.D.](https://www.usherbrooke.ca/admission/programme/704/doctorat-en-biologie-cellulaire/)).
+Graduate students will pursue either a degree in Cell Biology at the [Master's](https://www.usherbrooke.ca/admission/programme/607/maitrise-en-biologie-cellulaire/)
+or [Ph.D.](https://www.usherbrooke.ca/admission/programme/704/doctorat-en-biologie-cellulaire/) level.
 Applicants must hold a B.Sc. in a related field
 (e.g. biology, biochemistry, pharmacology,...) with an average GPA equal to or
 above 3.5/4.3 to be admitted to the program. Please note that courses at

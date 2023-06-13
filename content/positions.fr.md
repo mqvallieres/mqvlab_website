@@ -16,11 +16,9 @@ Veuillez exprimer la **raison de votre intérêt pour le laboratoire**
 et partager votre **CV** et votre **relevé de notes de B.Sc. complet** pour
 [soumettre votre candidature](mailto:mathieu.quesnel-vallieres@pennmedicine.upenn.edu).
 
-Les étudiants gradués seront inscrits aux programmes d'immunologie
-([Maîtrise](https://www.usherbrooke.ca/admission/programme/653/maitrise-en-immunologie/),
-[Doctorat](https://www.usherbrooke.ca/admission/programme/723/doctorat-en-immunologie/))
-ou de biologie cellulaire ([Maîtrise](https://www.usherbrooke.ca/admission/programme/607/maitrise-en-biologie-cellulaire/),
-[Doctorat](https://www.usherbrooke.ca/admission/programme/704/doctorat-en-biologie-cellulaire/)).
+Les étudiants gradués seront inscrits aux programme de biologie cellulaire au niveau
+ou de la [Maîtrise](https://www.usherbrooke.ca/admission/programme/607/maitrise-en-biologie-cellulaire/)
+ou du [Doctorat](https://www.usherbrooke.ca/admission/programme/704/doctorat-en-biologie-cellulaire/).
 Vous devez détenir un diplôme B.Sc. dans un domaine connexe
 (e.g. biologie, biochimie, pharmacologie,...) avec une moyenne égale ou
 supérieure à 3.5/4.3 pour être admis au programme gradué.
