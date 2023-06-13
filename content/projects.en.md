@@ -22,7 +22,7 @@ make it possible to find cancer-specific splicing variations in surface
 receptors, we developped a computational pipeline that surveys a large
 array of normal tissues to identify candidate immunotherapy targets.
 
-![neoantigen_summary](/img/neoantigen_discov.png)
+![neoantigen_summary](/img/neoantigen_discov.en.png)
 We currently focus our efforts on the experimental validation of
 candidates that appear to be prime therapeutic targets
 in acute myeloid leukemia.
