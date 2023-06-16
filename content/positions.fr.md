@@ -4,7 +4,7 @@ date: 2023-06-05T22:31:23-04:00
 ---
 
 ### Joignez-vous à moi!
-Des postes sont disponibles pour des étudiants gradués et,
+Des postes sont disponibles pour des étudiant(e)s aux cycles supérieurs et,
 possiblement, des stagiaires postdoctoraux. Les candidats qui
 désirent faire de la recherche expérimentale en laboratoire
 ou en bio-informatique sont les bienvenus. Selon le projet,
@@ -16,12 +16,12 @@ Veuillez exprimer la **raison de votre intérêt pour le laboratoire**
 et partager votre **CV** et votre **relevé de notes de B.Sc. complet** pour
 [soumettre votre candidature](mailto:mathieu.quesnel-vallieres@pennmedicine.upenn.edu).
 
-Les étudiants gradués seront inscrits aux programme de biologie cellulaire au niveau
+Les étudiants seront inscrits aux programme de biologie cellulaire au niveau
 ou de la [Maîtrise](https://www.usherbrooke.ca/admission/programme/607/maitrise-en-biologie-cellulaire/)
 ou du [Doctorat](https://www.usherbrooke.ca/admission/programme/704/doctorat-en-biologie-cellulaire/).
 Vous devez détenir un diplôme B.Sc. dans un domaine connexe
 (e.g. biologie, biochimie, pharmacologie,...) avec une moyenne égale ou
-supérieure à 3.5/4.3 pour être admis au programme gradué.
+supérieure à 3.5/4.3 pour être admis aux programmes des cycles supérieurs.
 
 ### Philosophie du labo
 J'encourage fortement un environnement ouvert et collaboratif au sein

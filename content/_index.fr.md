@@ -33,7 +33,7 @@ du système immunitaire est largement sous-estimé et que la
 caractérisation de ces processus permettra de mieux décrire et
 prendre en charge les cancers du sang.**
 
-Nous recherchons activement des [étudiants gradués et stagiaires
+Nous recherchons activement des [étudiants aux cycles supérieurs et stagiaires
 postdoctoraux](/positions.fr/) pour mener des [projets](/projects.fr/)
 qui feront progresser les traitements contre le cancer et notre
 compréhension du système immunitaire.
