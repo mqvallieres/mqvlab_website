@@ -21,7 +21,7 @@ de la [Maîtrise](https://www.usherbrooke.ca/admission/programme/607/maitrise-en
 ou du [Doctorat](https://www.usherbrooke.ca/admission/programme/704/doctorat-en-biologie-cellulaire/).
 Vous devez détenir un diplôme B.Sc. dans un domaine connexe
 (e.g. biologie, biochimie, pharmacologie,...) avec une moyenne égale ou
-supérieure à 3.5/4.3 pour être admis aux programmes des cycles supérieurs.
+supérieure à 3,5/4,3 pour être admis aux programmes des cycles supérieurs.
 
 ### Philosophie du labo
 J'encourage fortement un environnement ouvert et collaboratif au sein
