@@ -31,4 +31,4 @@ advance our understanding of the immune system.
 ### Funding
 The lab is supported by a Next Generation of Scientists Award from the Cancer Research
 Society as well as startup funds from the Université de Sherbrooke and CRCHUS.
-![funding](/img/funding.png)
+![funding](/img/logos_funding.png)

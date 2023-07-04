@@ -42,4 +42,4 @@ compréhension du système immunitaire.
 Le laboratoire est financé par une Bourse pour la relève scientifique
 de la Société de recherche sur le cancer ainsi que des fonds de
 démarrage de l'Université de Sherbrooke et du CRCHUS.
-![funding](/img/funding.png)
+![funding](/img/logos_funding.png)
