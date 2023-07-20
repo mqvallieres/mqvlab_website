@@ -10,6 +10,6 @@ dans la magnifique région des Cantons de l'Est.
 Veuillez envoyer toutes questions à 
 [Mathieu Quesnel-Vallières](mailto:mathieu.quesnel-vallieres@pennmedicine.upenn.edu).
 
-![PRAC](/img/prac_arrow.png)
+![PRAC](/img/prac_arrow_hires.png)
 ![UdeS](/img/UdeS_logo.png)
 
