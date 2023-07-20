@@ -17,8 +17,8 @@ Please state the **reason of your interest in the lab** and share your
 Graduate students will pursue a degree in Cell Biology at the [Master's](https://www.usherbrooke.ca/admission/programme/607/maitrise-en-biologie-cellulaire/)
 or [Ph.D.](https://www.usherbrooke.ca/admission/programme/704/doctorat-en-biologie-cellulaire/) level.
 Applicants must hold a B.Sc. in a related field
-(e.g. biology, biochemistry, pharmacology,...) with an average GPA equal to or
-above 3.5/4.3 to be admitted to the program. Please note that courses at
+(e.g. biology, biochemistry, pharmacology,...) with a strong GPA
+to be admitted to the program. Please note that courses at
 the Université de Sherbrooke are presented in French and that some knowledge
 of the language is required.
 
