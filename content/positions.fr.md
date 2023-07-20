@@ -13,13 +13,13 @@ moléculaire, en génétique, en biologie de l'ARN ou en
 bio-informatique, par exemple, pourraient répondre aux besoins.
 
 Veuillez exprimer la **raison de votre intérêt pour le laboratoire**
-et partager votre **CV** et votre **relevé de notes de B.Sc. complet** pour
+et partager votre **CV** et votre **relevé de notes de B.Sc. ou licence complet** pour
 [soumettre votre candidature](mailto:mathieu.quesnel-vallieres@pennmedicine.upenn.edu).
 
 Les étudiants seront inscrits au programme de biologie cellulaire au niveau
 de la [Maîtrise](https://www.usherbrooke.ca/admission/programme/607/maitrise-en-biologie-cellulaire/)
 ou du [Doctorat](https://www.usherbrooke.ca/admission/programme/704/doctorat-en-biologie-cellulaire/).
-Vous devez détenir un diplôme B.Sc. ou une license  dans un domaine connexe
+Vous devez détenir un diplôme B.Sc. ou une licence  dans un domaine connexe
 (e.g. biologie, biochimie, pharmacologie,...) avec une forte moyenne générale
 pour être admis aux programmes des cycles supérieurs.
 
