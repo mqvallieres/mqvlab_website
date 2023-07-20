@@ -8,7 +8,7 @@ Des postes sont disponibles pour des étudiant(e)s aux cycles supérieurs et,
 possiblement, des stagiaires postdoctoraux. Les candidats qui
 désirent faire de la recherche expérimentale en laboratoire
 ou en bio-informatique sont les bienvenus. Selon le projet,
-des candidats avec un historique en biologie cellulaire,
+des candidats avec une expertise en biologie cellulaire,
 moléculaire, en génétique, en biologie de l'ARN ou en
 bio-informatique, par exemple, pourraient répondre aux besoins.
 
