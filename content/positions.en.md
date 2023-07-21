@@ -12,7 +12,7 @@ genetics, RNA biology or bioinformatics could be a good fit.
 
 Please state the **reason of your interest in the lab** and share your
 **CV** and full **B.Sc. transcript** when
-[reaching out](mailto:mathieu.quesnel-vallieres@pennmedicine.upenn.edu).
+[reaching out](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).
 
 Graduate students will pursue a degree in Cell Biology at the [Master's](https://www.usherbrooke.ca/admission/programme/607/maitrise-en-biologie-cellulaire/)
 or [Ph.D.](https://www.usherbrooke.ca/admission/programme/704/doctorat-en-biologie-cellulaire/) level.

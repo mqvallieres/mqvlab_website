@@ -14,7 +14,7 @@ bio-informatique, par exemple, pourraient répondre aux besoins.
 
 Veuillez exprimer la **raison de votre intérêt pour le laboratoire**
 et partager votre **CV** et votre **relevé de notes de B.Sc. ou licence complet** pour
-[soumettre votre candidature](mailto:mathieu.quesnel-vallieres@pennmedicine.upenn.edu).
+[soumettre votre candidature](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).
 
 Les étudiants seront inscrits au programme de biologie cellulaire au niveau
 de la [Maîtrise](https://www.usherbrooke.ca/admission/programme/607/maitrise-en-biologie-cellulaire/)
