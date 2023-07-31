@@ -9,6 +9,7 @@ dans la magnifique région des Cantons de l'Est.
 
 Veuillez envoyer toutes questions à 
 [Mathieu Quesnel-Vallières](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).
+
 mathieu.quesnel-vallieres-at-usherbrooke.ca
 
 ![PRAC](/img/prac_arrow_hires.png)

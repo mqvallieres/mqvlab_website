@@ -8,6 +8,7 @@ Health Campus of the Université de Sherbrooke, in the middle of the beautiful
 Eastern Townships.
 
 Please direct all questions and inquiries to [Mathieu Quesnel-Vallières](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).
+
 mathieu.quesnel-vallieres-at-usherbrooke.ca
 
 ![PRAC](/img/prac_arrow_hires.png)
