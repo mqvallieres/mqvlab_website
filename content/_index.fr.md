@@ -22,7 +22,7 @@ l'ARN - voir [Jha, Quesnel-Vallières et al. 2022](https://genomebiology.biomedc
 
 
 ### Vision
-Le laboratoire ouvrira officiellement en septembre 2023. Notre
+Le laboratoire a officiellement ouvert ses portes en septembre 2023. Notre
 recherche repose sur une combinaison d'analyses bioinformatiques
 pour générer des hypothèses et des expériences en laboratoire
 pour décrire les fonctions biologiques. **Nous croyons que l'étude

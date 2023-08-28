@@ -17,7 +17,7 @@ characterized by the deregulation of RNA processing - see [Jha, Quesnel-Vallièr
 
 
 ### Vision
-The lab will officially launch in September 2023. Our research is driven by a combination of
+The lab officially launched in September 2023. Our research is driven by a combination of
 computional analyses to generate hypotheses and experimental work to describe biological
 functions. **We believe that studying RNA splicing will uncover new therapeutic avenues for
 cancer. We also believe that the role of RNA-binding proteins is heavily underestimated in

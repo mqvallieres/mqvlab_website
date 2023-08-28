@@ -14,7 +14,7 @@ canonifyURLs = true
 
 [languages.en.Params]
   homeTitle = "Quesnel-Vallières Lab" # Set a different text for the header on the home page
-  subtitle = "Coming to Université de Sherbrooke, September 2023"
+  subtitle = "Université de Sherbrooke"
   mainSections = ["post","posts"]
   logo = "img/lab_logo.png" # Expecting square dimensions
   favicon = "img/lab_logo_nobckg.png"
@@ -33,7 +33,7 @@ canonifyURLs = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 [languages.fr.Params]
   homeTitle = "Laboratoire Quesnel-Vallières" # Set a different text for the header on the home page
-  subtitle = "Université de Sherbrooke, dès Septembre 2023"
+  subtitle = "Université de Sherbrooke"
   mainSections = ["post","posts"]
   logo = "img/lab_logo.png" # Expecting square dimensions
   favicon = "img/lab_logo_nobckg.png"
