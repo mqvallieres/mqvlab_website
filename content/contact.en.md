@@ -10,6 +10,7 @@ Eastern Townships.
 Please direct all questions and inquiries to [Mathieu Quesnel-Vallières](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).
 
 mathieu.quesnel-vallieres-at-usherbrooke.ca
+1-819-821-8000 x72370
 
 ![PRAC](/img/prac_arrow_hires.png)
 ![UdeS](/img/UdeS_logo.png)
