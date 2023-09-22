@@ -11,7 +11,14 @@ Veuillez envoyer toutes questions à
 [Mathieu Quesnel-Vallières](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).
 
 mathieu.quesnel-vallieres-at-usherbrooke.ca
+
 1-819-821-8000 x72370
+
+Labo: Z8-2031
+Bureau: Z8-2071
+3201 rue Jean-Mignault
+Sherbrooke, QC
+Canada J1E 4K8
 
 ![PRAC](/img/prac_arrow_hires.png)
 ![UdeS](/img/UdeS_logo.png)
