@@ -34,7 +34,7 @@ caractérisation de ces processus permettra de mieux décrire et
 prendre en charge les cancers du sang.**
 
 Nous recherchons activement des [étudiants aux cycles supérieurs et stagiaires
-postdoctoraux](/positions.fr/) pour mener des [projets](/projects.fr/)
+postdoctoraux](positions) pour mener des [projets](projects)
 qui feront progresser les traitements contre le cancer et notre
 compréhension du système immunitaire.
 

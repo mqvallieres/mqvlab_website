@@ -3,12 +3,12 @@ title: "Contact"
 date: 2023-06-05T22:31:58-04:00
 ---
 
-The lab will be located at the Université de Sherbrooke's
+The lab is located at the Université de Sherbrooke's
 Cancer Research Institute (IRCUS) on the
 Health Campus, in the middle of the beautiful
 Eastern Townships.
 
-Please direct questions and inquiries to [Mathieu Quesnel-Vallières](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).
+Please direct questions and inquiries directly to [Mathieu Quesnel-Vallières](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).
 
 1-819-821-8000 x72370
 
