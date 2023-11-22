@@ -15,7 +15,7 @@ ou un autre de mes recherches est trop longue pour être donnée ici.
 Disons que je sais très peu de choses à propos de nombreux sujets.
 
 **Au quotidien:**
-J'ai toujours l'air très sérieux alors que je le suis très rarement.
+J'ai l'air sérieux alors que je le suis très rarement.
 J'écoute de la musique partout et toujours. J'éternue fort et
 souvent - je vous offre mes excuses.
 

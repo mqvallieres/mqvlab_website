@@ -8,6 +8,10 @@ tags: []
 
 **2023**
 
+[MAJIQlopedia: an encyclopedia of RNA splicing variations in human tissues and cancer.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad1043/7416386?login=true)
+**Quesnel-Vallières M**, Jewell S, Lynch KW, Thomas-Tikhonenko A, Barash Y
+*Nucleic Acids Research*
+
 [CHESSBOARD: a Bayesian model for unsupervised detection of
 alternative splicing based subtypes in heterogeneous cancers.](https://www.nature.com/articles/s41467-022-35369-0)
 Wang D, **Quesnel-Vallières M**, Jewell P, Elzubeir M, Lynch KW, Thomas-Tikhonenko
@@ -99,6 +103,12 @@ covered by international media (e.g Toronto Star, The Scientist)
 
 ### Other work
 
+**2023**
+
+[The Tumor Suppressor Adenomatous Polyposis Coli (apc) Is Required for Neural Crest-Dependent Craniofacial Development in Zebrafish.](https://www.mdpi.com/2221-3759/11/3/29)
+Liu X, Jones WD, **Quesnel-Vallières M**, Devadiga SA, Lorent K, Valvezan AJ, Myers RL, Li N, Lengner CJ, Barash Y, Pack M, Klein PS.
+*Journal of Developmental Biology*
+
 **2022**
 
 [Identification and characterization of RBM12 as a novel
@@ -113,7 +123,6 @@ RC, Shi J, Blobel GA
 [Rapid and scalable profiling of nascent RNA with fastGRO.](https://www.sciencedirect.com/science/article/pii/S2211124720313620?via%3Dihub)  
 Barbieri E, Hill C, **Quesnel-Vallières M**, Zucco AJ, Barash Y, Gardini A  
 *Cell Reports*
-
 
 **2019**
 

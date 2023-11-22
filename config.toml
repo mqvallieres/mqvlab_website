@@ -65,8 +65,8 @@ canonifyURLs = true
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Mathieu Quesnel-Vallières"
-  website = "mqvlab.com"
-  email = "mathieu.quesnel-vallieres@pennmedicine.upenn.edu"
+  website = "https://mqvlab.com"
+  email = "mathieu.quesnel-vallieres@usherbrooke.ca"
   linkedin = "https://www.linkedin.com/in/quesnel-vallieres/"
   mastodon = "https://genomic.social/@RNA_Ken"
 

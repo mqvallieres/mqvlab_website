@@ -4,13 +4,19 @@ date: 2023-06-05T22:31:23-04:00
 ---
 
 ### Joignez-vous à moi!
-Des postes sont disponibles pour des étudiant(e)s aux cycles supérieurs et,
-possiblement, des stagiaires postdoctoraux. Les candidats qui
+**Aucun poste n'est présentement disponible pour les étudiants aux
+cycles supérieurs ou les stagiaires à l'hiver 2024. Les candidatures
+de postdocs pourraient être considérées. De nouveaux postes pour les
+étudiants aux cycles supérieurs ou pour les stagiaires sont attendus
+au printemps-été 2024.**
+
+
+Les candidats qui
 désirent faire de la recherche expérimentale en laboratoire
 ou en bio-informatique sont les bienvenus. Selon le projet,
 des candidats avec une expertise en biologie cellulaire,
-moléculaire, en génétique, en biologie de l'ARN ou en
-bio-informatique, par exemple, pourraient répondre aux besoins.
+moléculaire, en génétique, en biologie de l'ARN, en immunologie
+ou en bio-informatique, par exemple, pourraient répondre aux besoins.
 
 Veuillez exprimer la **raison de votre intérêt pour le laboratoire**
 et partager votre **CV** et votre **relevé de notes de B.Sc. ou licence complet** pour

@@ -22,11 +22,11 @@ computional analyses to generate hypotheses and experimental work to describe bi
 functions. **We believe that studying RNA splicing will uncover new therapeutic avenues for
 cancer. We also believe that the role of RNA-binding proteins is heavily underestimated in
 immune cell development and function.**
-
+{{/*
 We actively seek [graduate students and postdocs](positions)
 to pursue [projects](projects) that will open new avenues for cancer treatment and
 advance our understanding of the immune system.
-
+*/}}
 
 ### Funding
 The lab is supported by a Next Generation of Scientists Award from the Cancer Research
