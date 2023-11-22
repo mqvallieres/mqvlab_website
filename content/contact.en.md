@@ -8,7 +8,7 @@ Cancer Research Institute (IRCUS) on the
 Health Campus, in the middle of the beautiful
 Eastern Townships.
 
-Please direct questions and inquiries directly to [Mathieu Quesnel-Vallières](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).
+Please direct questions and inquiries directly to Prof. [Mathieu Quesnel-Vallières](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).
 
 1-819-821-8000 x72370
 

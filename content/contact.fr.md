@@ -8,7 +8,7 @@ cancer de l'Université de Sherbrooke (IRCUS)
 sur le Campus de la Santé
 dans la magnifique région des Cantons de l'Est.
 
-Veuillez adresser vos questions directement à 
+Veuillez adresser vos questions directement à Pr
 [Mathieu Quesnel-Vallières](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).
 
 1-819-821-8000 x72370
