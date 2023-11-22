@@ -3,7 +3,7 @@ title: "Postes"
 date: 2023-06-05T22:31:23-04:00
 ---
 
-### Joignez-vous à moi!
+<!--### Joignez-vous à moi!-->
 **Aucun poste n'est présentement disponible pour les étudiants aux
 cycles supérieurs ou les stagiaires à l'hiver 2024. Les candidatures
 de postdocs pourraient être considérées. De nouveaux postes pour les
