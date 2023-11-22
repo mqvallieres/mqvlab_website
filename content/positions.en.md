@@ -4,9 +4,9 @@ date: 2023-06-05T22:31:23-04:00
 ---
 
 <!--### I want you to join me!-->
-**We currently have no openings for grad students or interns for
+**We have no openings for grad students or interns for
 the winter 2024. Postdoc applications might be considered.
-New openings for grad students and postdocs are expected
+New openings for grad students and interns are expected
 in Spring or Summer 2024.**
 
 Applicants seeking to conduct dry lab and/or experimental
