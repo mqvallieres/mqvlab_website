@@ -5,8 +5,10 @@ date: 2023-06-05T22:31:23-04:00
 
 <!--### Joignez-vous à moi!-->
 **Aucun poste n'est disponible pour les étudiants aux
-cycles supérieurs ou les stagiaires à l'hiver 2024. Les candidatures
-postdoctorales pourraient être considérées. De nouveaux postes pour les
+cycles supérieurs ou les stagiaires à l'hiver 2024. Les candidats
+postdoctoraux avec un background en bio-informatique/génomique/transcriptomique
+et qui désirent effectuer des recherches en bio-informatique
+seront considérés. De nouveaux postes pour les
 étudiants aux cycles supérieurs ou pour les stagiaires sont attendus
 au printemps-été 2024.**
 
