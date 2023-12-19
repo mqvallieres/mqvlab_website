@@ -8,7 +8,7 @@ next challenge")
 
 ### Mathieu Quesnel-Vallières, Ph.D.
 he/him; last name pronunciation: *"ken-el val-e-air"*
-#### Incoming Assistant Professor
+#### Assistant Professor
 #### Department of Immunology and Cell Biology, Université de Sherbrooke
 The list of biology fields that my research has involved at one point
 or another is too long to post here. Let's say I know very little about
