@@ -1,5 +1,5 @@
 ---
-title: "Group"
+title: "People"
 date: 2023-06-05T22:34:08-04:00
 ---
 

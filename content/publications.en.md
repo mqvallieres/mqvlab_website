@@ -12,7 +12,7 @@ tags: []
 **Quesnel-Vallières M**, Jewell S, Lynch KW, Thomas-Tikhonenko A, Barash Y
 *Nucleic Acids Research*
 
-** 2023**
+**2023**
 
 [CHESSBOARD: a Bayesian model for unsupervised detection of
 alternative splicing based subtypes in heterogeneous cancers.](https://www.nature.com/articles/s41467-022-35369-0)

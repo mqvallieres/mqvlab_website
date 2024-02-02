@@ -12,22 +12,22 @@ d'apporter une lumière nouvelle sur des questions fondamentales
 dans les domaines des troubles du spectre de l'autisme, du
 cancer ou de la fonction normale des tissus. Par exemple:
 &nbsp;
-- Nous avons recensé les événements d'épissage alternatifs dans 86 tissus
-humain normaux et 41 ensembles de données de cancers - voir [Quesnel-Vallières et al. 2024](https://doi.org/10.1093/nar/gkad1043)
+- Nous avons recensé tous les événements d'épissage alternatifs dans 86 tissus
+humain normaux et 41 ensembles de données de cancers - voir [Quesnel-Vallières et al. 2024](https://doi.org/10.1093/nar/gkad1043)  
 - Nous avons établi qu'une large gamme de tumeurs partage des signatures moléculaires
 communes caractérisées par la dérégulation des processus liés à
-l'ARN - voir [Jha, Quesnel-Vallières et al. 2022](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02681-3)
+l'ARN - voir [Jha, Quesnel-Vallières et al. 2022](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02681-3)  
 - Nous avons démontré qu'un programme d'épissage alternatif de l'ARN est causalement lié
 à une large fraction des cas de troubles du spectre de l'autisme -
 voir [Irimia et al. 2014](https://www.sciencedirect.com/science/article/pii/S0092867414015128?via%3Dihub),
 [Quesnel-Vallières et al. 2016](https://www.sciencedirect.com/science/article/pii/S1097276516308061?via%3Dihub)
 
 ### Nouvelles
-01/2024: Emma D et Nassima B joignent le labo pour leurs études supérieures
-01/2024: Virgine C et Mathieu DB joignent le labo pour des stages de 4 mois
-11/2023: Publication de MAJIQlopedia dans *Nucleic Acids Research*
-11/2023: Nous remportons le prix Relève en génomique – santé humaine de Génome Québec
-09/2023: Ouverture du labo
+01/2024: Emma D et Nassima B joignent le labo pour leurs études supérieures  
+01/2024: Virgine C et Mathieu DB joignent le labo pour des stages de 4 mois  
+11/2023: Publication de MAJIQlopedia dans *Nucleic Acids Research*  
+11/2023: Nous remportons le prix Relève en génomique – santé humaine de Génome Québec  
+09/2023: Ouverture du labo  
 
 ### Vision
 Le laboratoire a officiellement ouvert ses portes en septembre 2023. Notre
