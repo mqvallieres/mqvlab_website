@@ -125,12 +125,12 @@ defaultContentLanguage = 'en'
 
 
 [[languages.en.menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "People"
+    url = "/people/"
     weight = 5
 [[languages.fr.menu.main]]
-    name = "À propos"
-    url = "/about/"
+    name = "Équipe"
+    url = "/equipe/"
     weight = 5
 
 

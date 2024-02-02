@@ -39,4 +39,4 @@ d'une importance promordiale.
 
 ![lab trinity](/img/lab_trinity.fr.png)
 La philosophie du labo et autres informations reliées à la vie
-du labo sont décrites dans un guide, disponible ici sous peu.
+du labo sont décrites dans un guide, disponible [ici](https://github.com/mqvallieres/mqvlab_website/raw/master/static/MQVlab_guide.pdf)

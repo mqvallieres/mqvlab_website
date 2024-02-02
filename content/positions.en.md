@@ -35,4 +35,4 @@ communication skills.
 
 ![lab_trinity](/img/lab_trinity.png)
 The lab philosophy as well as general guidelines will be described in the lab
-handbook, soon to be available here.
+handbook, available [here](https://github.com/mqvallieres/mqvlab_website/raw/master/static/MQVlab_guide.pdf)

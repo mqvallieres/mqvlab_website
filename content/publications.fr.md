@@ -6,11 +6,13 @@ tags: []
 
 ### Transcriptomique et épissage dans le cancer
 
-**2023**
+**2024**
 
 [MAJIQlopedia: an encyclopedia of RNA splicing variations in human tissues and cancer.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad1043/7416386?login=true)
 **Quesnel-Vallières M**, Jewell S, Lynch KW, Thomas-Tikhonenko A, Barash Y
 *Nucleic Acids Research*
+
+**2023**
 
 [CHESSBOARD: a Bayesian model for unsupervised detection of
 alternative splicing based subtypes in heterogeneous cancers.](https://www.nature.com/articles/s41467-022-35369-0)

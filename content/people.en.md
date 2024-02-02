@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Group"
 date: 2023-06-05T22:34:08-04:00
 ---
 
