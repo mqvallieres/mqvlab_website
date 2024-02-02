@@ -82,11 +82,11 @@ coins du monde, de qui nous apprenons beaucoup sur la science et le monde.
 ### Virginie Cyr
 #### Étudiante au premier cycle en pharmacologie
 
-**Au quotidien**
+**Au quotidien:**
 Je suis toujours prête pour une activité, que ce soit aller s’entraîner,
 aller nager et particulièrement aller manger.
 
-**Durant mon stage**
+**Durant mon stage:**
 Dans le cadre de mon premier stage en recherche, je travaille sur l’analyse de
 l’épissage alternatif dans des gènes importants dans l’hématopoïèse. Ce que j’aime
 de la recherche, c’est surtout la collaboration et l’esprit d’entraide. Facile de me
@@ -105,14 +105,14 @@ mais voici les principaux : la biologie végétale, les biotechnologies (bio fab
 ainsi que la programmation. Mon objectif serait de réaliser ma maitrise ainsi que mon
 PhD au sein de ma propre entreprise (projet étudiant entrepreneurial).
 
-**Au quotidien**
+**Au quotidien:**
 Depuis l’an passé, j’ai découvert que j’avais une soif de découvrir le monde. Ainsi,
 chaque fois que l’occasion se présente, je saute dans un avion. Sinon je m’occupe de mes plantes
 et magasine les voitures tout le temps. C’est aussi moi le membre du labo avec des gadgets
 inutiles comme une tasse que je contrôle avec mon iPhone ; en même temps j’y fais de la
 programmation alors il faut bien que j’aille quelques trucs technos sur mon bureau.
 
-**Durant mon stage**
+**Durant mon stage:**
 Je travaille sur un projet qui est entièrement réalisé via la programmation. J’en apprends
 donc sur le domaine de la bio-informatique et j’améliore mes connaissances en biologie,
 en programmation et en traitement de données génétiques. Sinon, ce que j’aime de la recherche
