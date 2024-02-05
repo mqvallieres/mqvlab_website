@@ -126,11 +126,11 @@ defaultContentLanguage = 'en'
 
 [[languages.en.menu.main]]
     name = "People"
-    url = "/people/"
+    url = "/about/"
     weight = 5
 [[languages.fr.menu.main]]
     name = "Équipe"
-    url = "/people/"
+    url = "/about/"
     weight = 5
 
 

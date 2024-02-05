@@ -80,6 +80,7 @@ coins du monde, de qui nous apprenons beaucoup sur la science et le monde.
 ![Virginie Cyr](/img/virginie_small.jpg "Virginie dans le labo")
 
 ### Virginie Cyr
+elle/elle
 #### Étudiante au premier cycle en pharmacologie
 
 **Au quotidien:**
