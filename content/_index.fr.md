@@ -23,10 +23,10 @@ voir [Irimia et al. 2014](https://www.sciencedirect.com/science/article/pii/S009
 [Quesnel-Vallières et al. 2016](https://www.sciencedirect.com/science/article/pii/S1097276516308061?via%3Dihub)
 
 ### Nouvelles
-01/2024: Emma D et Nassima B joignent le labo pour leurs études supérieures  
-01/2024: Virginie C et Mathieu DB joignent le labo pour des stages de 4 mois  
+01/2024: Emma D et Nassima B se joignent au labo pour leurs études supérieures  
+01/2024: Virginie C et Mathieu DB se joignent au labo pour des stages COOP de 4 mois  
 11/2023: Publication de MAJIQlopedia dans *Nucleic Acids Research*  
-11/2023: Nous remportons le prix Relève en génomique – santé humaine de Génome Québec  
+11/2023: Le labo remporte le prix Relève en génomique – santé humaine de Génome Québec  
 09/2023: Ouverture du labo  
 
 ### Vision

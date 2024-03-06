@@ -27,8 +27,8 @@ immune cell development and function.**
 01/2024 Emma and Nassima join the lab for their grad studies  
 01/2024 Virginie and Mathieu join the lab for a 4-month COOP internship  
 11/2023 MAJIQlopedia is published in *Nucleic Acids Research*  
-11/2023 We are awarded the Early career researchers award in genomics – human
-health by Génome Québec  
+11/2023 The lab is awarded the Early Career Researchers Award in Genomics – Human
+Health by Génome Québec  
 09/2023 MQV lab officially opens at Université de Sherbrooke  
 
 <!--
