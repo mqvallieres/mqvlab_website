@@ -79,6 +79,7 @@ from whom we learn a lot about science and the world.
 ![Virginie Cyr](/img/virginie_small.jpg "Virginie in the lab")
 
 ### Virginie Cyr
+she/her
 #### B.Sc. student in pharmacology
 
 **On the daily:**
