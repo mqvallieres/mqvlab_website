@@ -35,7 +35,7 @@ pour être admis aux programmes des cycles supérieurs.
 J'encourage fortement un environnement ouvert et collaboratif au sein
 du groupe. Il est attendu que les membres du groupe intéragissent et
 contribuent aux projets des uns et des autres. La communication est
-d'une importance promordiale.
+d'une importance primordiale.
 
 ![lab trinity](/img/lab_trinity.fr.png)
 La philosophie du labo et autres informations reliées à la vie
