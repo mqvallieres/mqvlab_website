@@ -13,6 +13,7 @@ il/lui
 La liste des domaines de la biologie que j'ai abordés à un moment
 ou un autre de mes recherches est trop longue pour être donnée ici.
 Disons que je sais très peu de choses à propos de nombreux sujets.
+Style de leadership: 95% Gus Fring, 5% Michael Scott
 
 **Au quotidien:**
 J'ai l'air sérieux alors que je le suis très rarement.

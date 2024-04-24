@@ -3,8 +3,8 @@ title: "People"
 date: 2023-06-05T22:34:08-04:00
 ---
 
-![Mathieu](/img/mathieu_small.jpg "Mathieu confidently staring down the
-next challenge")
+![Mathieu](/img/mathieu_small.jpg "Mathieu confidently looking forward
+to the next challenge")
 
 ### Mathieu Quesnel-Vallières, Ph.D.
 he/him; last name pronunciation: *"ken-el val-e-air"*
@@ -18,6 +18,7 @@ a lot of things.
 If you wonder whether I'm being serious, I'm not. Music always and
 everywhere. I sneeze often and loud - my apologies to those who spend
 time in my general vicinity.
+Leadership style: 95% Gus Fring, 5% Michael Scott
 
 **About my job:**
 Conferences are the best part of what we do as academic

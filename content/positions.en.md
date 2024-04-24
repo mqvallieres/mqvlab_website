@@ -5,11 +5,11 @@ date: 2023-06-05T22:31:23-04:00
 
 <!--### I want you to join me!-->
 **We have no openings for grad students or interns for
-the winter 2024. Postdoc candidates with a background
+the summer 2024. Postdoc candidates with a background
 in bioinformatics/genetics/transcriptomics seeking to
 do computational work will be considered.
-New openings for grad students and interns are expected
-in Spring or Summer 2024.**
+New openings for grad students and interns could be
+announced in fall 2024.**
 
 Applicants seeking to conduct dry lab and/or experimental
 work are welcome to apply. Depending on the project, applicants with
