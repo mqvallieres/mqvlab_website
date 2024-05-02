@@ -51,6 +51,9 @@ compréhension du système immunitaire.
 ### Financement
 Le laboratoire est financé par une Bourse pour la relève scientifique
 de la Société de recherche sur le cancer, une Bourse pour la relève en
-génomique - Santé humaine de Génome Québec, ainsi que des fonds de
+génomique - Santé humaine de Génome Québec, une bourse Chercheurs-boursiers et
+Chercheuses-boursières Junior 1 du FRQS, ainsi que des fonds de
 démarrage de l'Université de Sherbrooke et du CRCHUS.
+
+&nbsp;
 ![funding](/img/logos_funding.png)
