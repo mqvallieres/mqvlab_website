@@ -13,7 +13,7 @@ Please direct questions and inquiries directly to Prof. [Mathieu Quesnel-Valliè
 1-819-821-8000 x72370
 
 Lab: Z8-2031  
-Office: Z8-2071  
+Office: Z8-2025  
 3201 rue Jean-Mignault  
 Sherbrooke, QC  
 Canada J1E 4K8

@@ -14,7 +14,7 @@ Veuillez adresser vos questions directement à Pr
 1-819-821-8000 x72370
 
 Labo: Z8-2031  
-Bureau: Z8-2071  
+Bureau: Z8-2025  
 3201 rue Jean-Mignault  
 Sherbrooke, QC  
 Canada J1E 4K8

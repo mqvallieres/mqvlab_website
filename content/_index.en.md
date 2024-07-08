@@ -7,13 +7,13 @@ to find RNA variations involved in normal tissue development or in cancer.
 Using variations in RNA splicing patterns, it is possible to discover molecular
 signals missed with other approaches. Over the years, transcriptomic analyses
 have provided key insight on questions encompassing the fields of
-autism spectrum disorders and cancer. For example, we have:
+autism spectrum disorders and cancer. For example:
 &nbsp;
-- Surveyed all alternative splicing events occuring in 86 normal human tissues
+- Survey of all alternative splicing events occuring in 86 normal human tissues
 and 41 cancer datesets - see [Quesnel-Vallières et al. 2024](https://doi.org/10.1093/nar/gkad1043)  
-- A large array of diverse tumour types share common molecular patterns
+- Discovery of molecular patterns shared by a large array of tumor types and
 characterized by the deregulation of RNA processing - see [Jha, Quesnel-Vallières et al. 2022](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02681-3)  
-- A program of alternative RNA splicing events is causally linked to a large
+- Description of a program of alternative RNA splicing events causally linked to a large
 fraction of autism spectrum disorder cases - see [Irimia et al. 2014](https://www.sciencedirect.com/science/article/pii/S0092867414015128?via%3Dihub), [Quesnel-Vallières et al. 2016](https://www.sciencedirect.com/science/article/pii/S1097276516308061?via%3Dihub)
 
 ### Vision
@@ -24,8 +24,10 @@ cancer. We also believe that the role of RNA-binding proteins is heavily underes
 immune cell development and function.**
 
 ### News
+04/2024 Mathieu QV is awarded a FRQS J1 career scholarship
+01/2024 Virginie is awarded a prestigious NSERC Undergraduate Student Research Award
 01/2024 Emma and Nassima join the lab for their grad studies  
-01/2024 Virginie and Mathieu join the lab for a 4-month COOP internship  
+01/2024 Virginie and Mathieu DB join the lab for a 4-month COOP internship  
 11/2023 MAJIQlopedia is published in *Nucleic Acids Research*  
 11/2023 The lab is awarded the Early Career Researchers Award in Genomics – Human
 Health by Génome Québec  
