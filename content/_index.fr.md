@@ -23,8 +23,8 @@ voir [Irimia et al. 2014](https://www.sciencedirect.com/science/article/pii/S009
 [Quesnel-Vallières et al. 2016](https://www.sciencedirect.com/science/article/pii/S1097276516308061?via%3Dihub)
 
 ### Nouvelles
-04/2024: Mathieu QV reçoit une bourse Chercheur-boursier J1 du FRQS
-01/2024: Virginie reçoit une prestigieuse bourse de recherche au 1er cycle du CRSNG
+04/2024: Mathieu QV reçoit une bourse Chercheur-boursier J1 du FRQS  
+01/2024: Virginie reçoit une prestigieuse bourse de recherche au 1er cycle du CRSNG  
 01/2024: Emma et Nassima se joignent au labo pour leurs études supérieures  
 01/2024: Virginie et Mathieu DB se joignent au labo pour des stages COOP de 4 mois  
 11/2023: Publication de MAJIQlopedia dans *Nucleic Acids Research*  

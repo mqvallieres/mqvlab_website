@@ -24,8 +24,8 @@ cancer. We also believe that the role of RNA-binding proteins is heavily underes
 immune cell development and function.**
 
 ### News
-04/2024 Mathieu QV is awarded a FRQS J1 career scholarship
-01/2024 Virginie is awarded a prestigious NSERC Undergraduate Student Research Award
+04/2024 Mathieu QV is awarded a FRQS J1 career scholarship  
+01/2024 Virginie is awarded a prestigious NSERC Undergraduate Student Research Award  
 01/2024 Emma and Nassima join the lab for their grad studies  
 01/2024 Virginie and Mathieu DB join the lab for a 4-month COOP internship  
 11/2023 MAJIQlopedia is published in *Nucleic Acids Research*  
