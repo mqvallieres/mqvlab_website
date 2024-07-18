@@ -3,28 +3,26 @@ title: "Postes"
 date: 2023-06-05T22:31:23-04:00
 ---
 
-<!--### Joignez-vous à moi!-->
-**Aucun poste n'est disponible pour les étudiants aux
-cycles supérieurs ou les stagiaires à l'été 2024. Les candidats
-postdoctoraux avec un background en bio-informatique/génomique/transcriptomique
+### Joignez-vous à nous!
+**Les étudiants aux cycles supérieurs, les stagiaires COOP et les candidats
+postdoctoraux avec une expérience en bio-informatique/génomique/transcriptomique
 et qui désirent effectuer des recherches en bio-informatique
-seront considérés. De nouveaux postes pour les
-étudiants aux cycles supérieurs ou pour les stagiaires pourraient être annoncés
-à l'automne 2024.**
+seront considérés.**
 
-
+<!--
 Les candidats qui
 désirent faire de la recherche expérimentale en laboratoire
 ou en bio-informatique sont les bienvenus. Selon le projet,
 des candidats avec une expertise en biologie cellulaire,
 moléculaire, en génétique, en biologie de l'ARN, en immunologie
 ou en bio-informatique, par exemple, pourraient répondre aux besoins.
+-->
 
-Veuillez exprimer la **raison de votre intérêt pour le laboratoire**
-et partager votre **CV** et votre **relevé de notes de B.Sc. ou licence complet** pour
+Veuillez exprimer la **raison de votre intérêt pour notre laboratoire**
+et partager votre **CV** et vos **relevés de notes** pour
 [soumettre votre candidature](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).
 
-Les étudiants seront inscrits au programme de biologie cellulaire au niveau
+Les étudiants aux cycles supérieurs seront inscrits au programme de biologie cellulaire au niveau
 de la [Maîtrise](https://www.usherbrooke.ca/admission/programme/607/maitrise-en-biologie-cellulaire/)
 ou du [Doctorat](https://www.usherbrooke.ca/admission/programme/704/doctorat-en-biologie-cellulaire/).
 Vous devez détenir un diplôme B.Sc. ou une licence  dans un domaine connexe

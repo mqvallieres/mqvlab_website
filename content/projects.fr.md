@@ -6,39 +6,33 @@ date: 2023-06-05T22:31:35-04:00
 # La recherche devrait avoir un fort impact, être novatrice et stimulante. Que découvrirez-vous?
 &nbsp;
 &nbsp;
-## Projet 1: Identification de nouvelles cibles d'immunothérapie
-#### (surtout expérimental)
+## Projet 1: Immunothérapies ciblées contre le cancer
 De nouvelles thérapies contre le cancer reposent sur le ciblage de
-marqueurs présents à la surface des cellules cancéreuses via
-la modification génétique de cellules T cytotoxiques (CAR-T) ou le
-développements d'anticorps conjugués à une drogue (ADC). Ces
+marqueurs présents à la surface des cellules cancéreuses des
+cellules T à récepteur antigénique chimère, des
+d'anticorps conjugués à une drogue ou des vaccins. Ces
 traitements fonctionnent bien pour plusieurs patients avec certains types
 de cancers du sang, mais leur application dans d'autres types de cancer
-est limitée en partie par le manque de marqueurs spécifiques aux cancers
-à cibler.
+est limitée en partie par le manque de marqueurs spécifiques aux cancers..
 
-Plusieurs groupes et nous avons observé une large gamme de variations
+Plusieurs groupes et nous-mêmes avons observé une large gamme de variations
 de l'épissage de l'ARN dans divers types de tumeurs
 (e.g. [Jha, Quesnel-Vallières et al., 2022](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02681-3)).
-En partant de l'hypothèse que cette diversité transcriptomiques rend
-possible la découverte de variations d'épissage spécifiques aux cancers
-dans des récepteurs cellulaires de surface, nous avons développé un
-pipeline bioinformatique qui sonde une vaste gamme de tissus normaux
-pour identifier des candidats pour le développement d'immunothérapies.
+Nous avons développé un pipeline bioinformatique 
+pour identifier des antigènes de surface qui pourraient être ciblés
+par immunothérapie.
 
 ![neoantigen_summary](/img/neoantigen_discov.fr.png)
 Nos efforts se concentrent présentement sur la validation
 expérimentale de candidats qui semblent être des cibles
-d'immunothérapies privilégiées dans la leucémie aiguë myéloïde.
+d'immunothérapies privilégiées dans des cancers à haut
+risque tels que leucémie aiguë myéloïde et le cancer du pancréas.
 
 &nbsp;
 &nbsp;
 ## Projet 2: Régulation de l'épissage de l'ARN dans le système immunitaire
-#### (surtout expérimental)
-Des événements d'épissage alternatif de l'ARN sont co-réguler pour
-soutenir le développement et les fonctions du système nerveux. De
-nombreux programmes d'épissage alternatif et leurs protéines régulatrices
-ont été étudiés en détails
+Des événements d'épissage alternatif de l'ARN sont co-régulés pour
+soutenir le développement et les fonctions du système nerveux
 (e.g. [Quesnel-Vallières et al., 2015](https://genesdev.cshlp.org/content/29/7/746)).
 En plus d'expliquer des mécanismes moléculaires essentiels à la
 complexité du cerveau, certains programmes d'épissage alternatifs
@@ -62,11 +56,9 @@ et de caractériser leurs fonctions.
 
 &nbsp;
 &nbsp;
-## Projet 3: Qu'est-ce qu'un gène?
-#### (bio-informatique)
-Ici, aucune donnée sous-jacente, aucune observation, seulement
-une question. Qu'est-ce qu'un gène.
+## Projets 3, 4 et plus encore: Qu'est-ce qu'un gène? Quelles forces ont régulé
+## l'expression des gènes durant l'évolution?
+Il faut parfois poser de grandes questions. Peut-être pensez-vous
+déjà à de telles questions vous-mêmes. Voulez-vous en discuter?
 
-Ce projet est à 100% constitué d'analyses et de modélisations
-bio-informatiques. Des détails seront donnés sur demande.
-
+Les projets soutenus reposeront surtout sur la bioinformatique.

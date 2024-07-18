@@ -3,21 +3,22 @@ title: "Positions"
 date: 2023-06-05T22:31:23-04:00
 ---
 
-<!--### I want you to join me!-->
-**We have no openings for grad students or interns for
-the summer 2024. Postdoc candidates with a background
+### I want you to join me!
+**Graduate students, coop students/interns
+and postdoc candidates with a background
 in bioinformatics/genetics/transcriptomics seeking to
 do computational work will be considered.
-New openings for grad students and interns could be
-announced in fall 2024.**
+**
 
+<!--
 Applicants seeking to conduct dry lab and/or experimental
 work are welcome to apply. Depending on the project, applicants with
 backgrounds in either molecular biology, cell biology,
 genetics, RNA biology, immunology or bioinformatics could be a good fit.
+-->
 
-Please state the **reason of your interest in the lab** and share your
-**CV** and full **B.Sc. transcript** when
+Please state  **why you are interested in the lab** and share your
+**CV** and **transcripts** when
 [reaching out](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).
 
 Graduate students will pursue a degree in Cell Biology at the [Master's](https://www.usherbrooke.ca/admission/programme/607/maitrise-en-biologie-cellulaire/)
