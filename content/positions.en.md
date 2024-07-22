@@ -7,8 +7,7 @@ date: 2023-06-05T22:31:23-04:00
 **Graduate students, coop students/interns
 and postdoc candidates with a background
 in bioinformatics/genetics/transcriptomics seeking to
-do computational work will be considered.
-**
+do computational work will be considered.**
 
 <!--
 Applicants seeking to conduct dry lab and/or experimental
