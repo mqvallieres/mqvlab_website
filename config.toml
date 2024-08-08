@@ -1,5 +1,5 @@
 baseurl = "mqvallieres.github.io"
-DefaultContentLanguage = "fr"
+DefaultContentLanguage = "en"
 title = "MQV Lab"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
