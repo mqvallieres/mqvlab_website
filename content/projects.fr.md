@@ -60,4 +60,4 @@ et de caractériser leurs fonctions.
 Il faut parfois poser de grandes questions. Peut-être pensez-vous
 déjà à de telles questions vous-mêmes. Voulez-vous en discuter?
 
-Les projets soutenus reposeront surtout sur la bioinformatique.
+Les projets retenus reposeront surtout sur la bioinformatique.
