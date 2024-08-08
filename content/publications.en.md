@@ -8,27 +8,27 @@ tags: []
 
 **2024**
 
-[An Alternatively Spliced Gain-of-Function NT5C2 Isoform Contributes to Chemoresistance in Acute Lymphoblastic Leukemia.](https://doi.org/10.1158/0008-5472.CAN-23-3804)
+[An Alternatively Spliced Gain-of-Function NT5C2 Isoform Contributes to Chemoresistance in Acute Lymphoblastic Leukemia.](https://doi.org/10.1158/0008-5472.CAN-23-3804)  
 Torres-Diz M, Reglero C, Falkenstein CD, Castro A, Hayer KE, Radens CM,
-**Quesnel-Vallières M**, Ang Z, Sehgal P, Li MM, Barash Y, Tasian SK, Ferrando A, Thomas-Tikhonenko A
+**Quesnel-Vallières M**, Ang Z, Sehgal P, Li MM, Barash Y, Tasian SK, Ferrando A, Thomas-Tikhonenko A  
 *Cancer Research*
 
-[A mitochondrial surveillance mechanism activated by SRSF2 mutations in hematologic malignancies.](https://doi.org/10.1172/JCI175619)
+[A mitochondrial surveillance mechanism activated by SRSF2 mutations in hematologic malignancies.](https://doi.org/10.1172/JCI175619)  
 Liu X, Devadiga SA, Stanley RF, Morrow RM, Janssen KA, **Quesnel-Vallières M**,
 Pomp O, Moverley AA, Li C, Skuli N, Carroll M, Huang J, Wallace DC,
-Lynch KW, Abdel-Wahab O, Klein PS
+Lynch KW, Abdel-Wahab O, Klein PS  
 *Journal of Clinical Investigation*
 
-[MAJIQlopedia: an encyclopedia of RNA splicing variations in human tissues and cancer.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad1043/7416386?login=true)
-**Quesnel-Vallières M**, Jewell S, Lynch KW, Thomas-Tikhonenko A, Barash Y
+[MAJIQlopedia: an encyclopedia of RNA splicing variations in human tissues and cancer.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad1043/7416386?login=true)  
+**Quesnel-Vallières M**, Jewell S, Lynch KW, Thomas-Tikhonenko A, Barash Y  
 *Nucleic Acids Research*
 
 **2023**
 
 [CHESSBOARD: a Bayesian model for unsupervised detection of
-alternative splicing based subtypes in heterogeneous cancers.](https://www.nature.com/articles/s41467-022-35369-0)
+alternative splicing based subtypes in heterogeneous cancers.](https://www.nature.com/articles/s41467-022-35369-0)  
 Wang D, **Quesnel-Vallières M**, Jewell P, Elzubeir M, Lynch KW, Thomas-Tikhonenko
-A, Barash Y
+A, Barash Y  
 *Nature Communications*
 
 **2022**
@@ -44,7 +44,7 @@ Tikhonenko A, Zarnack K, Legewie S, König J
 models.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02681-3)  
 Jha A\*#, **Quesnel-Vallières M**\*#, Thomas-Tikhonenko A, Lynch KW, Barash Y#  
 *Genome Biology*  
-\* co-first authors
+\* co-first authors  
 \# corresponding authors
 
 [Modulation of CD22 protein expression in childhood
@@ -157,27 +157,3 @@ Tapial J, Ha KCH, Sterne-Weiler T, Gohr A, Braunschweig U, Hermoso-Pulido A,
 **Quesnel-Vallières M**, Permanyer J, Sodaei R, Marquez Y, Cozzuto L, Wang X, Gómez-
 Velázquez M, Rayon T, Manzanares M, Ponomarenko J, Blencowe BJ, and Irimia M  
 *Genome Research*
-
-**2012**
-
-[Seronegative Hepatitis C Virus infection in a child
-infected via mother-to-child transmission.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405620/)  
-Larouche A, Gaëtan G, El-Bilali N, **Quesnel-Vallières M**, Martin SR, Alvarez F,
-Shoukry NH, and Soudeyns H  
-*Journal of Clinical Microbiology*
-
-**2011**
-
-[Novel HIV-1 recombinant
-forms in antenatal cohort, Montreal, Quebec, Canada.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204757/)  
-**Quesnel-Vallières M**, Kouzayha I, Tran E, Barry I, Lasgi C, Mérindol N, Monteil V,
-Ransy DG, Boucher M, Lapointe N, and Soudeyns H  
-*Emerging Infectious Diseases*
-
-**2008**
-
-[HCV
-quasispecies evolution during treatment with interferon alfa-2b and ribavirin in two
-children coinfected with HCV and HIV-1.](https://www.sciencedirect.com/science/article/pii/S1386653208002400?via%3Dihub)  
-**Quesnel-Vallières M**, Lemay M, Lapointe N, Martin SR, and Soudeyns H  
-*Journal of Clinical Virology*
