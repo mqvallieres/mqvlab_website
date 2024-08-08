@@ -56,8 +56,7 @@ et de caractériser leurs fonctions.
 
 &nbsp;
 &nbsp;
-## Projets 3, 4 et plus encore: Qu'est-ce qu'un gène? Quelles forces ont régulé
-## l'expression des gènes durant l'évolution?
+## Projets 3, 4 et plus encore: Qu'est-ce qu'un gène? Quelles forces ont régulé l'expression des gènes durant l'évolution?
 Il faut parfois poser de grandes questions. Peut-être pensez-vous
 déjà à de telles questions vous-mêmes. Voulez-vous en discuter?
 
