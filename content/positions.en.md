@@ -4,7 +4,7 @@ date: 2023-06-05T22:31:23-04:00
 ---
 
 ### I want you to join me!
-**Graduate students, coop students/interns
+**Graduate students, co-op students/interns
 and postdoc candidates with a background
 in bioinformatics/genetics/transcriptomics seeking to
 do computational work will be considered.**
