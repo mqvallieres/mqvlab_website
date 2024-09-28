@@ -102,6 +102,12 @@ recherche, le cancer est un sujet que je trouve vraiment fascinant, et j'ai
 toujours envie d'en apprendre davantage.
 
 
-![Alumni](/img/alumni_fr.png "Alumni")
+### Alumni
+![Virginie Cyr](/img/virginie_alumnus.jpg "Alumni")
+#### Virginie Cyr
+#### Stagiaire COOP 01/24-04/24
 
+![Mathieu Desnoyers-Barbeau](/img/mathieu_alumnus.jpg "Alumni")
+#### Mathieu Desnoyers-Barbeau
+#### Stagiaire COOP 01/24-04/24
 

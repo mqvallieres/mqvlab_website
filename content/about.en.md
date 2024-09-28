@@ -100,6 +100,12 @@ such interactions always provide useful insights. Concerning my research, cancer
 is something I find really fascinating and always crave to learn more about.
 
 
-![Alumni](/img/alumni_en.png "Alumni")
+### Alumni
+![Virginie Cyr](/img/virginie_alumnus.jpg "Alumni")
+#### Virginie Cyr
+#### COOP intern 01/24-04/24
 
+![Mathieu Desnoyers-Barbeau](/img/mathieu_alumnus.jpg "Alumni")
+#### Mathieu Desnoyers-Barbeau
+#### COOP intern 01/24-04/24
 
