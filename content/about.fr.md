@@ -103,11 +103,11 @@ toujours envie d'en apprendre davantage.
 
 
 ### Alumni
-![Virginie Cyr](/img/virginie_alumnus.jpg "Alumni")
-#### Virginie Cyr
-#### Stagiaire COOP 01/24-04/24
+![Virginie Cyr](/img/virginie_alumnus.png "Alumni")
+**Virginie Cyr**  
+**Stagiaire COOP 01/24-04/24**
 
-![Mathieu Desnoyers-Barbeau](/img/mathieu_alumnus.jpg "Alumni")
-#### Mathieu Desnoyers-Barbeau
-#### Stagiaire COOP 01/24-04/24
+![Mathieu Desnoyers-Barbeau](/img/mathieu_alumnus.png "Alumni")
+**Mathieu Desnoyers-Barbeau**  
+**Stagiaire COOP 01/24-04/24**
 

@@ -101,11 +101,11 @@ is something I find really fascinating and always crave to learn more about.
 
 
 ### Alumni
-![Virginie Cyr](/img/virginie_alumnus.jpg "Alumni")
-#### Virginie Cyr
-#### COOP intern 01/24-04/24
+![Virginie Cyr](/img/virginie_alumnus.png "Alumni")
+**Virginie Cyr**  
+**COOP intern 01/24-04/24**
 
-![Mathieu Desnoyers-Barbeau](/img/mathieu_alumnus.jpg "Alumni")
-#### Mathieu Desnoyers-Barbeau
-#### COOP intern 01/24-04/24
+![Mathieu Desnoyers-Barbeau](/img/mathieu_alumnus.png "Alumni")
+**Mathieu Desnoyers-Barbeau**  
+**COOP intern 01/24-04/24**
 
