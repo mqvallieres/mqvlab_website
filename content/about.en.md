@@ -77,44 +77,29 @@ pleasure to interact daily with passionate collaborators from all corners of the
 from whom we learn a lot about science and the world.
 
 
-![Virginie Cyr](/img/virginie_small.jpg "Virginie in the lab")
+![Léo Eusebi](/img/leo_small.jpg "Léo in the office")
 
-### Virginie Cyr
-she/her
-#### B.Sc. student in pharmacology
+### Léo Eusebi
+#### M.Sc. student in Cell Biology
 
-**On the daily:**
-I am always ready for an activity, whether it's going for a work out,
-swimming, or especially going out to eat.
-
-**During my internship:**
-As part of my first research internship, I am working on the analysis of alternative
-splicing in genes crucial to hematopoiesis. What I love about research is primarily
-the collaboration and spirit of mutual support. You can easily recognize me in the
-lab... I always have a jacket with me. It's too cold in the office!
-
-![Mathieu Desnoyers-Barbeau](/img/mathieuDB_small.jpg "Mathieu in the lab")
-
-### Mathieu Desnoyers-Barbeau
-il/lui
-#### B.Sc. student in biotech engineering
-For me, research represents the ultimate adventure for a learner; being constantly
-exposed to the unknown and the new while asking questions. It's a perfect environment
-for curious individuals like me. In research, my interests are numerous, but here are
-the main ones: plant biology, biotechnologies (especially biomanufacturing), and programming.
-My goal is to pursue a Master's and a PhD within my own business (entrepreneurial student project).
+I originally started my academic career in biology due to my love for animals and plants
+but eventually branched out towards bioinformatics and medicine. I discovered that as
+long as there is a hint of biology in the field I’ll be able to find passion and
+strength to fully throw myself in the topic. My master thesis revolved around colorectal
+cancer and metabolic modelling. 
 
 **On the daily:**
-I discovered last year that I have a thirst for exploring the world. Every time the
-opportunity arises, I jump on a plane. Otherwise, I take care of my plants and constantly
-shop for cars. I'm also the lab member with useless gadgets, like a cup that I control
-with my iPhone; though it's true that I do programming there, so I need to have some tech
-stuff on my desk.
+I am extremely curious and I love to dig into different kinds of hobbies such as
+crochet, hiking, drawing, music, cooking, plant parenting, dance, gaming, etc.
+(jack-of-all-trade pretty much, eh?). On a side note, I am also a homebody who loves
+cats, although squirrels are starting to grow on me.
 
-**During my internship:**
-I am working on a project that is entirely carried out through programming. Therefore,
-I am learning about the field of bioinformatics and enhancing my knowledge in biology,
-programming, and genetic data processing. What I love about research in a university lab
-is the lab life. Meeting other motivated and curious students like myself is stimulating
-and truly enjoyable. Collaborative work is genuinely motivating.
+**About my job:**
+I very much enjoy socialising with people from different backgrounds as I believe
+such interactions always provide useful insights. Concerning my research, cancer
+is something I find really fascinating and always crave to learn more about.
+
+
+![Alumni](/img/alumni_en.jpg "Alumni")
+
 

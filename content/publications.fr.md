@@ -8,6 +8,14 @@ tags: []
 
 **2024**
 
+[MAJIQlopedia: an encyclopedia of RNA splicing variations in human tissues and cancer.](https://doi.org/10.1093/nar/gkad1043)  
+**Quesnel-Vallières M**, Jewell S, Lynch KW, Thomas-Tikhonenko A, Barash Y  
+*Nucleic Acids Research*
+
+[Trametinib Sensitivity is Defined by a Myeloid Differentiation Profile in Acute Myeloid Leukemia](https://doi.org/10.1007/s40268-024-00491-5)
+**Quesnel-Vallières M**,  Schultz DC, Orlenko A, Lo Y, Moore J, Ritchie M, Roth D, Carroll M, Barash Y, Lynch KW, Cherry S
+*Drugs in R&D*
+
 [An Alternatively Spliced Gain-of-Function NT5C2 Isoform Contributes to Chemoresistance in Acute Lymphoblastic Leukemia.](https://doi.org/10.1158/0008-5472.CAN-23-3804)  
 Torres-Diz M, Reglero C, Falkenstein CD, Castro A, Hayer KE, Radens CM,
 **Quesnel-Vallières M**, Ang Z, Sehgal P, Li MM, Barash Y, Tasian SK, Ferrando A, Thomas-Tikhonenko A  
@@ -18,10 +26,6 @@ Liu X, Devadiga SA, Stanley RF, Morrow RM, Janssen KA, **Quesnel-Vallières M**,
 Pomp O, Moverley AA, Li C, Skuli N, Carroll M, Huang J, Wallace DC,
 Lynch KW, Abdel-Wahab O, Klein PS  
 *Journal of Clinical Investigation*
-
-[MAJIQlopedia: an encyclopedia of RNA splicing variations in human tissues and cancer.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad1043/7416386?login=true)  
-**Quesnel-Vallières M**, Jewell S, Lynch KW, Thomas-Tikhonenko A, Barash Y  
-*Nucleic Acids Research*
 
 **2023**
 

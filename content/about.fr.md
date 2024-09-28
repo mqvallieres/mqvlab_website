@@ -78,46 +78,30 @@ le plaisir de côtoyer quotidiennement des collaborateurs passionnés venant des
 coins du monde, de qui nous apprenons beaucoup sur la science et le monde.
 
 
-![Virginie Cyr](/img/virginie_small.jpg "Virginie dans le labo")
+![Léo Eusebi](/img/leo_small.jpg "Léo dans le bureau")
 
-### Virginie Cyr
-elle/elle
-#### Étudiante au premier cycle en pharmacologie
+### Léo Eusebi
+#### Étudiant à la maîtrise en biologie cellulaire
+J'ai commencé ma carrière académique en biologie en raison de mon amour pour les
+animaux et les plantes, mais j'ai finalement évolué vers la bioinformatique et la
+médecine. J'ai découvert que tant qu'il y a une touche de biologie dans le domaine,
+je peux trouver la passion et la force de me plonger pleinement dans le sujet. Mon
+mémoire de master portait sur le cancer colorectal et la modélisation métabolique.
 
-**Au quotidien:**
-Je suis toujours prête pour une activité, que ce soit aller s’entraîner,
-aller nager et particulièrement aller manger.
+**Au quotidien**
+Je suis extrêmement curieux et j'adore explorer différentes activités comme le
+crochet, la randonnée, le dessin, la musique, la cuisine, le jardinage, la danse,
+les jeux vidéo, etc. (un peu comme un touche-à-tout en fait). En passant, je suis
+aussi un casanier qui adore les chats, bien que les écureuils commencent à me
+séduire aussi.
 
-**Durant mon stage:**
-Dans le cadre de mon premier stage en recherche, je travaille sur l’analyse de
-l’épissage alternatif dans des gènes importants dans l’hématopoïèse. Ce que j’aime
-de la recherche, c’est surtout la collaboration et l’esprit d’entraide. Facile de me
-reconnaître au labo... j’ai toujours une petite laine. Il fait trop froid dans le bureau!
+**À propos de mon travail:**
+J'apprécie beaucoup socialiser avec des personnes de différents horizons, car
+je crois que cela apporte toujours des perspectives utiles. En ce qui concerne ma
+recherche, le cancer est un sujet que je trouve vraiment fascinant, et j'ai
+toujours envie d'en apprendre davantage.
 
 
-![Mathieu Desnoyers-Barbeau](/img/mathieuDB_small.jpg "Mathieu dans le labo")
+![Alumni](/img/alumni_fr.jpg "Alumni")
 
-### Mathieu Desnoyers-Barbeau
-il/lui
-#### Étudiant de premier cycle en génie biotechnologique
-Pour moi la recherche représente l’aventure ultime d’un apprenant ; être constamment
-exposé à l’inconnu et au nouveau tout en se posant des questions. C’est un milieu parfait
-pour les personnes curieuses comme moi. En recherche mes intérêts sont nombreux,
-mais voici les principaux : la biologie végétale, les biotechnologies (bio fabrication notamment)
-ainsi que la programmation. Mon objectif serait de réaliser ma maitrise ainsi que mon
-PhD au sein de ma propre entreprise (projet étudiant entrepreneurial).
 
-**Au quotidien:**
-Depuis l’an passé, j’ai découvert que j’avais une soif de découvrir le monde. Ainsi,
-chaque fois que l’occasion se présente, je saute dans un avion. Sinon je m’occupe de mes plantes
-et magasine les voitures tout le temps. C’est aussi moi le membre du labo avec des gadgets
-inutiles comme une tasse que je contrôle avec mon iPhone ; en même temps j’y fais de la
-programmation alors il faut bien que j’aille quelques trucs technos sur mon bureau.
-
-**Durant mon stage:**
-Je travaille sur un projet qui est entièrement réalisé via la programmation. J’en apprends
-donc sur le domaine de la bio-informatique et j’améliore mes connaissances en biologie,
-en programmation et en traitement de données génétiques. Sinon, ce que j’aime de la recherche
-en laboratoire universitaire, c’est la vie de labo. En effet, rencontrer d’autres étudiants
-motivés et curieux comme moi est stimulant et vraiment agréable. Le travail collaboratif
-est vraiment motivant.
