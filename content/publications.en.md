@@ -12,7 +12,7 @@ tags: []
 **Quesnel-Vallières M**, Jewell S, Lynch KW, Thomas-Tikhonenko A, Barash Y  
 *Nucleic Acids Research*
 
-[Trametinib Sensitivity is Defined by a Myeloid Differentiation Profile in Acute Myeloid Leukemia](https://doi.org/10.1007/s40268-024-00491-5)
+[Trametinib Sensitivity is Defined by a Myeloid Differentiation Profile in Acute Myeloid Leukemia](https://doi.org/10.1007/s40268-024-00491-5)  
 **Quesnel-Vallières M**,  Schultz DC, Orlenko A, Lo Y, Moore J, Ritchie M, Roth D, Carroll M, Barash Y, Lynch KW, Cherry S
 *Drugs in R&D*
 

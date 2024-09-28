@@ -100,6 +100,6 @@ such interactions always provide useful insights. Concerning my research, cancer
 is something I find really fascinating and always crave to learn more about.
 
 
-![Alumni](/img/alumni_en.jpg "Alumni")
+![Alumni](/img/alumni_en.png "Alumni")
 
 

@@ -102,6 +102,6 @@ recherche, le cancer est un sujet que je trouve vraiment fascinant, et j'ai
 toujours envie d'en apprendre davantage.
 
 
-![Alumni](/img/alumni_fr.jpg "Alumni")
+![Alumni](/img/alumni_fr.png "Alumni")
 
 
