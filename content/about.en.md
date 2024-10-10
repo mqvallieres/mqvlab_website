@@ -3,7 +3,7 @@ title: "People"
 date: 2023-06-05T22:34:08-04:00
 ---
 
-![Mathieu](/img/mathieu_small.jpg "Mathieu confidently looking forward
+![Mathieu](/img/mathieu_small1.jpg "Mathieu confidently looking forward
 to the next challenge")
 
 ### Mathieu Quesnel-Vallières, Ph.D.
@@ -77,7 +77,7 @@ pleasure to interact daily with passionate collaborators from all corners of the
 from whom we learn a lot about science and the world.
 
 
-![Léo Eusebi](/img/leo_small.jpg "Léo in the office")
+![Léo Eusebi](/img/leo1_small.jpg "Léo in the office")
 
 ### Léo Eusebi
 #### M.Sc. student in Cell Biology

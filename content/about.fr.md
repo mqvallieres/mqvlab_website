@@ -3,7 +3,7 @@ title: "Équipe"
 date: 2023-06-05T22:34:08-04:00
 ---
 
-![Mathieu](/img/mathieu_small.jpg "Mathieu confidently staring down the
+![Mathieu](/img/mathieu1_small.jpg "Mathieu confidently staring down the
 next challenge")
 
 ### Mathieu Quesnel-Vallières, Ph.D.
@@ -78,7 +78,7 @@ le plaisir de côtoyer quotidiennement des collaborateurs passionnés venant des
 coins du monde, de qui nous apprenons beaucoup sur la science et le monde.
 
 
-![Léo Eusebi](/img/leo_small.jpg "Léo dans le bureau")
+![Léo Eusebi](/img/leo1_small.jpg "Léo dans le bureau")
 
 ### Léo Eusebi
 #### Étudiant à la maîtrise en biologie cellulaire
