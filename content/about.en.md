@@ -3,7 +3,7 @@ title: "People"
 date: 2023-06-05T22:34:08-04:00
 ---
 
-![Mathieu](/img/mathieu_small1.jpg "Mathieu confidently looking forward
+![Mathieu](/img/mathieu1_small.jpg "Mathieu confidently looking forward
 to the next challenge")
 
 ### Mathieu Quesnel-Vallières, Ph.D.
