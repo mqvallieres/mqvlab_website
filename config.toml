@@ -12,6 +12,10 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 canonifyURLs = true
 
+[services]
+  [services.googleAnalytics]
+    id='G-85H5PRF6JX'
+
 [languages.en.Params]
   homeTitle = "Quesnel-Vallières Lab" # Set a different text for the header on the home page
   subtitle = "Université de Sherbrooke"
