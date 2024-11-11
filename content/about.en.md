@@ -5,8 +5,9 @@ date: 2023-06-05T22:34:08-04:00
 ![MQVlab](/img/RiboClub2024.jpg "Fabulous lab")
 
 ### MQVlab (left to right: Emma, Mathieu, Nassima, Léo)
-  
-  
+<br>
+<br>
+<br>
 
 ![Mathieu](/img/mathieu1_small.jpg "Mathieu in a green shirt")
 
