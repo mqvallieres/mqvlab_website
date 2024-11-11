@@ -2,9 +2,13 @@
 title: "People"
 date: 2023-06-05T22:34:08-04:00
 ---
+![MQVlab](/img/RiboClub2024.jpg "Fabulous lab")
 
-![Mathieu](/img/mathieu1_small.jpg "Mathieu confidently looking forward
-to the next challenge")
+### MQVlab
+Left to right: Emma, Mathieu, Nassima, Léo
+
+
+![Mathieu](/img/mathieu1_small.jpg "Mathieu in a green shirt")
 
 ### Mathieu Quesnel-Vallières, Ph.D.
 he/him; last name pronunciation: *"ken-el val-e-air"*
