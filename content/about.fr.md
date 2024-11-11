@@ -5,12 +5,10 @@ date: 2023-06-05T22:34:08-04:00
 
 ![Labo MQV](/img/RiboClub2024.jpg "Fabulous lab")
 
-### MQVlab
-De gauche à droite: Emma, Mathieu, Nassima, Léo
+### MQVlab (de gauche à droite: Emma, Mathieu, Nassima, Léo)
 
 
-![Mathieu](/img/mathieu1_small.jpg "Mathieu confidently staring down the
-next challenge")
+![Mathieu](/img/mathieu1_small.jpg "Mathieu en chemise verte")
 
 ### Mathieu Quesnel-Vallières, Ph.D.
 il/lui
