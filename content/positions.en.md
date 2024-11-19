@@ -16,6 +16,10 @@ backgrounds in either molecular biology, cell biology,
 genetics, RNA biology, immunology or bioinformatics could be a good fit.
 -->
 
+Important for co-op students: openings will not be posted on the
+Trivio system. Please inquire about co-op internship opportunities
+1-2 semesters ahead of your expected internship start date.
+
 Please state  **why you are interested in the lab** and share your
 **CV** and **transcripts** when
 [reaching out](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).

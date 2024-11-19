@@ -18,7 +18,11 @@ moléculaire, en génétique, en biologie de l'ARN, en immunologie
 ou en bio-informatique, par exemple, pourraient répondre aux besoins.
 -->
 
-Veuillez exprimer la **raison de votre intérêt pour notre laboratoire**
+Important pour les stagiaires COOP: les offres de stages ne seront pas
+annoncées sur le système Trivio. Veuillez exprimer votre intérêt pour
+un stage COOP 1-2 sessions avant la date prévue de votre stage.
+
+Veuillez partager la **raison de votre intérêt pour notre laboratoire**
 et partager votre **CV** et vos **relevés de notes** pour
 [soumettre votre candidature](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).
 
