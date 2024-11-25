@@ -17,7 +17,7 @@ Student office: 1-819-821-8000 x70464
 
 Lab: Z8-2031  
 Office: Z8-2025  
-Student office: Z8-2071
+Student office: Z8-1071  
 3201 rue Jean-Mignault  
 Sherbrooke, QC  
 Canada J1E 4K8

@@ -17,7 +17,7 @@ Bureau étudiants: 1-819-821-8000 x70464
 
 Labo: Z8-2031  
 Bureau: Z8-2025
-Bureau étudiants: Z8-2071
+Bureau étudiant: Z8-1071  
 3201 rue Jean-Mignault  
 Sherbrooke, QC  
 Canada J1E 4K8
