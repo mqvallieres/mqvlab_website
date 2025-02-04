@@ -14,3 +14,5 @@ pages:
 
 - name: Download a Build Artifact
   uses: actions/download-artifact@v4.1.8
+- name: Test artifact download
+  run: ls -R
