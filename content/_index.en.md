@@ -25,6 +25,7 @@ immune cell development and function.**
 
 ### News
 01/2025 Tony joins the lab for a 4-month COOP internship  
+10/2024 Nassima and Emma present posters at the RiboClub meeting  
 09/2024 Léo joins the lab for his grad studies  
 04/2024 Mathieu QV is awarded a FRQS J1 career scholarship  
 01/2024 Virginie is awarded a prestigious NSERC Undergraduate Student Research Award  

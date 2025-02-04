@@ -24,6 +24,7 @@ voir [Irimia et al. 2014](https://www.sciencedirect.com/science/article/pii/S009
 
 ### Nouvelles
 01/2025: Tony se joint au labo pour un stage COOP de 4 mois  
+10/2024: Nassima et Emma présentent des affiches au congrès du RiboClub  
 09/2024: Léo se joint au labo pour ses études supérieures  
 04/2024: Mathieu QV reçoit une bourse Chercheur-boursier J1 du FRQS  
 01/2024: Virginie reçoit une prestigieuse bourse de recherche au 1er cycle du CRSNG  
