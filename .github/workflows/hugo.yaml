@@ -34,6 +34,10 @@ jobs:
     env:
       HUGO_VERSION: 0.111.3 
     steps:
+      - name: Download a Build Artifact
+        uses: actions/download-artifact@v4.1.8
+      - name: Test artifact download
+        run: ls -R
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
@@ -60,10 +64,7 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
-      - name: Download a Build Artifact
-        uses: actions/download-artifact@v4.1.8
-      - name: Test artifact download
-        run: ls -R
+      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
