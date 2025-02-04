@@ -11,3 +11,6 @@ pages:
     - public
   rules:
   - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
+- name: Download a Build Artifact
+  uses: actions/download-artifact@v4.1.8
