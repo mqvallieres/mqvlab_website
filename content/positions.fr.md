@@ -4,6 +4,8 @@ date: 2023-06-05T22:31:23-04:00
 ---
 
 ### Joignez-vous à nous!
+**Affiché en février 2025: [Poste de chercheur(e) postdoctoral(e)](https://github.com/mqvallieres/mqvlab_website/raw/master/static/postdoc_02_2025.pdf)**
+
 **Les étudiants aux cycles supérieurs, les stagiaires COOP et les candidats
 postdoctoraux avec une expérience en bio-informatique/génomique/transcriptomique
 et qui désirent effectuer des recherches en bio-informatique
