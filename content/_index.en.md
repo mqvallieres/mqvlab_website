@@ -17,16 +17,21 @@ characterized by the deregulation of RNA processing - see [Jha, Quesnel-Vallièr
 fraction of autism spectrum disorder cases - see [Irimia et al. 2014](https://www.sciencedirect.com/science/article/pii/S0092867414015128?via%3Dihub), [Quesnel-Vallières et al. 2016](https://www.sciencedirect.com/science/article/pii/S1097276516308061?via%3Dihub)
 
 ### Vision
-The lab officially launched in September 2023. Our research is driven by a combination of
+Our research is driven by a combination of
 computional analyses to generate hypotheses and experimental work to describe biological
 functions. **We believe that studying RNA splicing will uncover new therapeutic avenues for
 cancer. We also believe that the role of RNA-binding proteins is heavily underestimated in
 immune cell development and function.**
 
 ### News
+03/2025 Sarah joins the lab for a 5-month M1 internship  
+03/2025 Emma presents a poster at the D2R meeting  
+02/2025 Our collaborative project with Pr. Lee-Hwa Tai is awarded a CCS-Hecht Foundation DIG
+for the development of targeted immunotherapies against cholangiocarcinoma  
 01/2025 Tony joins the lab for a 4-month COOP internship  
 10/2024 Nassima and Emma present posters at the RiboClub meeting  
 09/2024 Léo joins the lab for his grad studies  
+08/2024 The lab receives a Startup Grant from D2R  
 04/2024 Mathieu QV is awarded a FRQS J1 career scholarship  
 01/2024 Virginie is awarded a prestigious NSERC Undergraduate Student Research Award  
 01/2024 Emma and Nassima join the lab for their grad studies  

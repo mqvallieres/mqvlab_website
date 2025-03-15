@@ -36,8 +36,6 @@ travaux. Y'a pas mieux.
 - M.Sc., Université de Montréal (2010)
 - B.Sc., Université de Montréal (2007)
 
-**CV:**
-[MQV_CV](https://github.com/mqvallieres/mqvlab_website/raw/master/static/MQVallieres_CV.pdf)
 
 
 ![Emma](/img/emma_small.jpg "Emma dans le labo")

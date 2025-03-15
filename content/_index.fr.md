@@ -23,9 +23,15 @@ voir [Irimia et al. 2014](https://www.sciencedirect.com/science/article/pii/S009
 [Quesnel-Vallières et al. 2016](https://www.sciencedirect.com/science/article/pii/S1097276516308061?via%3Dihub)
 
 ### Nouvelles
+03/2025: Sarah se joint au labo pour un stage M1 de 5 mois  
+03/2025: Emma présente une affiche au Symposium D2R  
+02/2025: Notre projet en collaboration avec Pre Lee-Hwa Tai se voit accorder
+un financement de la SCC-Fondation Hecht pour le développement d'immunothérapies
+ciblées contre le cholangiocarcinome  
 01/2025: Tony se joint au labo pour un stage COOP de 4 mois  
 10/2024: Nassima et Emma présentent des affiches au congrès du RiboClub  
 09/2024: Léo se joint au labo pour ses études supérieures  
+08/2024: Le labo reçoit des fonds de démarrage du D2R  
 04/2024: Mathieu QV reçoit une bourse Chercheur-boursier J1 du FRQS  
 01/2024: Virginie reçoit une prestigieuse bourse de recherche au 1er cycle du CRSNG  
 01/2024: Emma et Nassima se joignent au labo pour leurs études supérieures  
@@ -35,8 +41,7 @@ voir [Irimia et al. 2014](https://www.sciencedirect.com/science/article/pii/S009
 09/2023: Ouverture du labo  
 
 ### Vision
-Le laboratoire a officiellement ouvert ses portes en septembre 2023. Notre
-recherche repose sur une combinaison d'analyses bioinformatiques
+Notre recherche repose sur une combinaison d'analyses bioinformatiques
 pour générer des hypothèses et des expériences en laboratoire
 pour décrire les fonctions biologiques. **Nous croyons que l'étude
 de l'épissage ARN ouvrira de nouvelles voies thérapeutiques pour

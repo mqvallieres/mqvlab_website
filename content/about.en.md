@@ -33,9 +33,6 @@ get updated on the state of the art, promote your work. It's the best.
 - M.Sc., Université de Montréal (2010)
 - B.Sc., Université de Montréal (2007)
 
-**CV:**
-[MQV_CV](https://github.com/mqvallieres/mqvlab_website/raw/master/static/MQVallieres_CV.pdf)
-
 
 
 ![Emma](/img/emma_small.jpg "Emma in the lab")
