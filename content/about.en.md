@@ -98,7 +98,7 @@ I very much enjoy socialising with people from different backgrounds as I believ
 such interactions always provide useful insights. Concerning my research, cancer
 is something I find really fascinating and always crave to learn more about.
 
-![Tony-Carlo Blanchette](/img/tony.jpg "Tony in the lab")
+![Tony-Carlo Blanchette](/img/tony_small.jpg "Tony in the lab")
 
 ### Tony-Carlo Blanchette
 #### B.Sc. student in Biotechnology Engineering
@@ -117,7 +117,7 @@ to contribute to advancing knowledge on cancer, leaving a mark through concrete
 projects carried out in collaboration with multidisciplinary teams.
 
 
-![Sarah Macrides](/img/sarah.jpg "Sarah in the lab")
+![Sarah Macrides](/img/sarah_small.jpg "Sarah in the lab")
 
 ### Sarah Macrides
 #### Master student in Modelling and Statistics (Université de Rouen Normandie)

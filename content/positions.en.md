@@ -4,7 +4,6 @@ date: 2023-06-05T22:31:23-04:00
 ---
 
 ### I want you to join me!
-**Posted February 2025: [Postdoc opening](https://github.com/mqvallieres/mqvlab_website/raw/master/static/postdoc_02_2025.pdf)**
 
 **Graduate students, co-op students/interns
 and postdoc candidates with a background
