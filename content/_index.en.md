@@ -24,6 +24,8 @@ cancer. We also believe that the role of RNA-binding proteins is heavily underes
 immune cell development and function.**
 
 ### News
+03/2025 Our project with Dr. Stéphanie Vairy is awarded a C17-Childhood Cancer Canada grant
+for the development of personalized vaccines agains childhood sarcoma  
 03/2025 Sarah joins the lab for a 5-month M1 internship  
 03/2025 Emma presents a poster at the D2R meeting  
 02/2025 Our collaborative project with Pr. Lee-Hwa Tai is awarded a CCS-Hecht Foundation DIG

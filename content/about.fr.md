@@ -102,7 +102,7 @@ je crois que cela apporte toujours des perspectives utiles. En ce qui concerne m
 recherche, le cancer est un sujet que je trouve vraiment fascinant, et j'ai
 toujours envie d'en apprendre davantage.
 
-![Tony-Carlo Blanchette](/img/tony.jpg "Tony dans le labo")
+![Tony-Carlo Blanchette](/img/tony_small.jpg "Tony dans le labo")
 
 ### Tony-Carlo Blanchette
 #### Étudiant au B.Sc. en génie biotechnologique
@@ -120,7 +120,7 @@ Nouvellement initié au domaine de la recherche, je trouve dans ce secteur l’o
 contribuer à l’avancée des connaissances sur le cancer, en laissant une trace grâce à des
 projets concrets menés en collaboration avec des équipes pluridisciplinaires.
 
-![Sarah Macrides](/img/sarah.jpg "Sarah dans le labo")
+![Sarah Macrides](/img/sarah_small.jpg "Sarah dans le labo")
 
 ### Sarah Macrides
 #### Étudiante en Master en modélisation et statistique (Université de Rouen Normandie)
