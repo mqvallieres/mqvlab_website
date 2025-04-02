@@ -98,6 +98,43 @@ I very much enjoy socialising with people from different backgrounds as I believ
 such interactions always provide useful insights. Concerning my research, cancer
 is something I find really fascinating and always crave to learn more about.
 
+![Tony-Carlo Blanchette](/img/tony.jpg "Tony in the lab")
+
+### Tony-Carlo Blanchette
+#### B.Sc. student in Biotechnology Engineering
+
+Passionate about mathematics from a young age, it was only two years ago that I 
+turned to an even more exciting and promising field: biology. My immersion in bioinformatics
+during this internship definitely gave me a new spark!
+
+**On the daily**
+Always smiling and lively, except when I'm coding. Fun fact: I developed a real passion
+for hospital gastronomy… except for liver with sausages…
+
+**About my work:**
+Newly introduced to the field of research, I find in this sector the opportunity
+to contribute to advancing knowledge on cancer, leaving a mark through concrete
+projects carried out in collaboration with multidisciplinary teams.
+
+
+![Sarah Macrides](/img/sarah.jpg "Sarah in the lab")
+
+### Sarah Macrides
+#### Master student in Modelling and Statistics (Université de Rouen Normandie)
+
+Initially interested in cell biology, it was during my last year of bachelor’s degree 
+that I discovered my interest in bio-informatics and since then this field has never tired me.
+I am particularly interested in its applications to health, specifically cancer research.
+
+**On the daily**
+Calm in nature, you will see me every morning sipping my coffee with maple syrup.
+Apart from my interest in bioinformatics, I like to run, discover new places,
+bossa nova and read on the beach.
+
+**About my Job:**
+I am curious and love when other people talk to me about their research. I particularly
+like to discuss and debate new ideas, which is what I think makes science go forward.
+
 
 ### Alumni
 ![Virginie Cyr](/img/virginie_alumnus.png "Alumni")

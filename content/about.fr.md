@@ -102,6 +102,43 @@ je crois que cela apporte toujours des perspectives utiles. En ce qui concerne m
 recherche, le cancer est un sujet que je trouve vraiment fascinant, et j'ai
 toujours envie d'en apprendre davantage.
 
+![Tony-Carlo Blanchette](/img/tony.jpg "Tony dans le labo")
+
+### Tony-Carlo Blanchette
+#### Étudiant au B.Sc. en génie biotechnologique
+Passionné par les mathématiques depuis tout jeune, ce n’est qu’il y a deux ans que
+je me suis tourné vers un domaine encore plus enthousiasmant et prometteur : la biologie.
+Mon immersion en bioinformatique lors de mon stage actuel m’a définitivement donné la nouvelle piqûre!
+
+**Au quotidien**
+Toujours souriant et pétillant, sauf lorsque je suis en train de coder. Fun fact,
+j’ai développé une véritable passion pour la gastronomie hospitalière… tout sauf pour
+le foie aux saucisses…
+
+**À propos de mon travail:**
+Nouvellement initié au domaine de la recherche, je trouve dans ce secteur l’opportunité de
+contribuer à l’avancée des connaissances sur le cancer, en laissant une trace grâce à des
+projets concrets menés en collaboration avec des équipes pluridisciplinaires.
+
+![Sarah Macrides](/img/sarah.jpg "Sarah dans le labo")
+
+### Sarah Macrides
+#### Étudiante en Master en modélisation et statistique (Université de Rouen Normandie)
+Initialement intéressée par la biologie cellulaire, c'est lors de ma dernière année de licence
+que j'ai découvert mon intérêt pour la bio-informatique et depuis, ce domaine ne m'a jamais lassée.
+Je suis particulièrement intéressée par ses applications dans la santé, en particulier
+la recherche sur le cancer.
+
+**Au quotidien**
+Calme de nature, vous me verrez chaque matin sirotant mon café avec du sirop d'érable.
+En dehors de mon intérêt pour la bio-informatique, j'aime courir, découvrir de nouveaux endroits,
+écouter de la bossa nova et lire sur la plage.
+
+**À propos de mon travail:**
+Je suis curieuse et j'adore que d'autres personnes me parlent de leurs recherches.
+J'aime particulièrement discuter et débattre de nouvelles idées, ce qui est,
+selon moi, ce qui fait avancer la science.
+
 
 ### Alumni
 ![Virginie Cyr](/img/virginie_alumnus.png "Alumni")
