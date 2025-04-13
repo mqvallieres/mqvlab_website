@@ -29,8 +29,8 @@ immune cell development and function.**
 for the development of personalized vaccines against childhood sarcoma  
 03/2025 Sarah joins the lab for a 5-month M1 internship  
 03/2025 Emma presents a poster at the D2R meeting  
-02/2025 Our collaborative project with Pr. Lee-Hwa Tai is awarded a CCS-Hecht Foundation DIG
-for the development of targeted immunotherapies against cholangiocarcinoma  
+02/2025 Our collaborative project with Pr. Lee-Hwa Tai is awarded a CCS-Hecht Foundation
+Disruptive Innovation Grant for the development of targeted immunotherapies against cholangiocarcinoma  
 01/2025 Tony joins the lab for a 4-month COOP internship  
 10/2024 Nassima and Emma present posters at the RiboClub meeting  
 09/2024 Léo joins the lab for his grad studies  

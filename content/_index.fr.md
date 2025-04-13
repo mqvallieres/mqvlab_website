@@ -31,7 +31,7 @@ thérapeutiques personalisés contre les sarcomes pédiatriques
 03/2025: Sarah se joint au labo pour un stage M1 de 5 mois  
 03/2025: Emma présente une affiche au Symposium D2R  
 02/2025: Notre projet en collaboration avec Pre Lee-Hwa Tai se voit accorder
-un financement de la SCC-Fondation Hecht pour le développement d'immunothérapies
+un financement de la Société canadienne du cancer-Fondation Hecht pour le développement d'immunothérapies
 ciblées contre le cholangiocarcinome  
 01/2025: Tony se joint au labo pour un stage COOP de 4 mois  
 10/2024: Nassima et Emma présentent des affiches au congrès du RiboClub  
