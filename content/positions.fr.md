@@ -4,10 +4,11 @@ date: 2023-06-05T22:31:23-04:00
 ---
 
 ### Joignez-vous à nous!
+Affiché en avril 2025: [Projet de doctorat](https://github.com/mqvallieres/mqvlab_website/raw/master/static/phd_project.pdf)
 
 **Les étudiants aux cycles supérieurs, les stagiaires COOP et les candidats
-postdoctoraux avec une expérience en bio-informatique/génomique/transcriptomique
-et qui désirent effectuer des recherches en bio-informatique
+postdoctoraux avec une expérience en biologie moléculaire/génétique/bio-informatique/transcriptomique/biochimie
+et qui désirent effectuer des recherches expérimentales ou en bio-informatique
 seront considérés.**
 
 <!--

@@ -107,7 +107,7 @@ Passionate about mathematics from a young age, it was only two years ago that I
 turned to an even more exciting and promising field: biology. My immersion in bioinformatics
 during this internship definitely gave me a new spark!
 
-**On the daily**
+**On the daily:**
 Always smiling and lively, except when I'm coding. Fun fact: I developed a real passion
 for hospital gastronomy… except for liver with sausages…
 
@@ -126,7 +126,7 @@ Initially interested in cell biology, it was during my last year of bachelor’s
 that I discovered my interest in bio-informatics and since then this field has never tired me.
 I am particularly interested in its applications to health, specifically cancer research.
 
-**On the daily**
+**On the daily:**
 Calm in nature, you will see me every morning sipping my coffee with maple syrup.
 Apart from my interest in bioinformatics, I like to run, discover new places,
 bossa nova and read on the beach.

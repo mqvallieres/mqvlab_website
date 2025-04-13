@@ -5,10 +5,12 @@ date: 2023-06-05T22:31:23-04:00
 
 ### I want you to join me!
 
+Posted April 2025: [PhD project](https://github.com/mqvallieres/mqvlab_website/raw/master/static/phd_project.pdf)
+
 **Graduate students, co-op students/interns
 and postdoc candidates with a background
-in bioinformatics/genetics/transcriptomics seeking to
-do computational work will be considered.**
+in genetics/biochemistry/transcriptomics
+seeking to do experimental or computational work will be considered.**
 
 <!--
 Applicants seeking to conduct dry lab and/or experimental

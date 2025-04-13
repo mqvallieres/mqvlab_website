@@ -89,7 +89,7 @@ médecine. J'ai découvert que tant qu'il y a une touche de biologie dans le dom
 je peux trouver la passion et la force de me plonger pleinement dans le sujet. Mon
 mémoire de master portait sur le cancer colorectal et la modélisation métabolique.
 
-**Au quotidien**
+**Au quotidien:**
 Je suis extrêmement curieux et j'adore explorer différentes activités comme le
 crochet, la randonnée, le dessin, la musique, la cuisine, le jardinage, la danse,
 les jeux vidéo, etc. (un peu comme un touche-à-tout en fait). En passant, je suis
@@ -110,7 +110,7 @@ Passionné par les mathématiques depuis tout jeune, ce n’est qu’il y a deux
 je me suis tourné vers un domaine encore plus enthousiasmant et prometteur : la biologie.
 Mon immersion en bioinformatique lors de mon stage actuel m’a définitivement donné la nouvelle piqûre!
 
-**Au quotidien**
+**Au quotidien:**
 Toujours souriant et pétillant, sauf lorsque je suis en train de coder. Fun fact,
 j’ai développé une véritable passion pour la gastronomie hospitalière… tout sauf pour
 le foie aux saucisses…
@@ -129,7 +129,7 @@ que j'ai découvert mon intérêt pour la bio-informatique et depuis, ce domaine
 Je suis particulièrement intéressée par ses applications dans la santé, en particulier
 la recherche sur le cancer.
 
-**Au quotidien**
+**Au quotidien:**
 Calme de nature, vous me verrez chaque matin sirotant mon café avec du sirop d'érable.
 En dehors de mon intérêt pour la bio-informatique, j'aime courir, découvrir de nouveaux endroits,
 écouter de la bossa nova et lire sur la plage.
