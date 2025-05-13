@@ -54,7 +54,9 @@ advance our understanding of the immune system.
 The lab is supported by a Next Generation of Scientists Award from the Cancer Research
 Society, an Early career researchers competition in genomics – human health Award
 from Génome Québec, a Research Scholars Junior 1 scholarship from FRQS,
-as well as startup funds from the Université de Sherbrooke and CRCHUS.
+a Canadian Cancer Society Disruptive Innovation Grant, a 100% sarcoma grant from C17,
+a Discovery Grant from NSERC,
+as well as startup funds from the Université de Sherbrooke, CRCHUS and D2R.
 &nbsp;
 
 ![funding](/img/logos_funding.png)
