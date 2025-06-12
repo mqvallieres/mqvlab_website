@@ -23,6 +23,7 @@ voir [Irimia et al. 2014](https://www.sciencedirect.com/science/article/pii/S009
 [Quesnel-Vallières et al. 2016](https://www.sciencedirect.com/science/article/pii/S1097276516308061?via%3Dihub)
 
 ### Nouvelles
+05/2025: Léo reçoit une bourse d'excellence de la FMSS
 04/2025: Le labo reçoit des fonds du CRSNG pour étudier la régulation de
 l'épissage durant l'hématopoïèse  
 03/2025: Notre projet en collaboration avec Dre Stéphanie Vairy se voit accorder
