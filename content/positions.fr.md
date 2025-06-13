@@ -21,7 +21,7 @@ des candidats avec une expertise en biologie cellulaire,
 moléculaire, en génétique, en biologie de l'ARN, en immunologie
 ou en bio-informatique, par exemple, pourraient répondre aux besoins.
 
-Important pour les stagiaires COOP: les offres de stages ne seront pas
+STAGIAIRES COOP: les offres de stages ne seront pas
 affichées sur le système Trivio. Veuillez exprimer votre intérêt pour
 un stage COOP deux sessions avant la date prévue de votre stage.
 
