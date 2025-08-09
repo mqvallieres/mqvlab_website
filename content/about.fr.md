@@ -41,7 +41,7 @@ travaux. Y'a pas mieux.
 ![Emma](/img/emma_small.jpg "Emma dans le labo")
 
 ### Emma Delannoy
-#### Étudiante à la maîtrise en biologie cellulaire
+#### Étudiante au doctorat en biologie cellulaire
 Durant mon parcours académique, j'ai pu découvrir de nombreux domaines, mais
 j'ai majoritairement collaboré sur des projets en relation avec la régulation
 du système immunitaire dans le contexte du cancer.
@@ -62,7 +62,7 @@ PS : cachez vos stylos, j'ai entendu dire que quelqu'un avait un petit problème
 ![Nassima](/img/nassima_small.jpg "Nassima dans le labo")
 
 ### Nassima Bouzidi
-#### Étudiante à la maîtrise en biologie cellulaire
+#### Étudiante au doctorat en biologie cellulaire
 Auparavant, j’ai eu la chance d’explorer une multitude de projets, principalement
 axés sur la thérapie génique et la neurobiologie. Je débarque à Sherbrooke avec la
 détermination de concrétiser mes aspirations professionnelles en m'investissant pleinement
@@ -79,7 +79,7 @@ le plaisir de côtoyer quotidiennement des collaborateurs passionnés venant des
 coins du monde, de qui nous apprenons beaucoup sur la science et le monde.
 
 
-![Léo Eusebi](/img/leo1_small.jpg "Léo dans le bureau")
+![Léo Eusebi](/img/leo1_small.jpg "Léo dans la ville")
 
 ### Léo Eusebi
 #### Étudiant à la maîtrise en biologie cellulaire
@@ -102,6 +102,29 @@ je crois que cela apporte toujours des perspectives utiles. En ce qui concerne m
 recherche, le cancer est un sujet que je trouve vraiment fascinant, et j'ai
 toujours envie d'en apprendre davantage.
 
+
+![Mikel Hurtado](/img/mikel_small.jpg "Mikel dans le bureau")
+
+### Mikel Hurtado, Ph.D.
+#### Chercheur postdoctoral
+Ma passion pour la génétique m’a amené à faire un doctorat en génétique forestière.
+Pendant cette période, j’ai découvert que la bioinformatique serait mon avenir et la
+voie que je voulais suivre. Comme je viens du domaine des sciences végétales, passer
+à la recherche sur le cancer est un défi très stimulant — surtout que c’est une maladie
+qui m’a toujours beaucoup intrigué. J’espère vraiment pouvoir faire ma part!!
+
+**Au quotidien :**
+Je suis quelqu’un qui dit rarement non, surtout si ça rime avec bonne compagnie, bonnes
+vibes et quelques fous rires. J’adore le basketball, et je suis toujours partant pour
+découvrir de nouveaux endroits et rencontrer des gens. Être ici au Québec, c’est donc
+une excellente opportunité pour faire les deux.
+
+**À propos de mon travail:**
+Ce que j’aime le plus, c’est que j’apprends tout le temps, que ça me pousse à me dépasser
+et que ça me permet de contribuer à des projets qui ont du sens. J’aime aussi pouvoir
+partager mes connaissances et collaborer avec d’autres chercheurs.
+
+
 ![Tony-Carlo Blanchette](/img/tony_small.jpg "Tony dans le labo")
 
 ### Tony-Carlo Blanchette
@@ -120,28 +143,13 @@ Nouvellement initié au domaine de la recherche, je trouve dans ce secteur l’o
 contribuer à l’avancée des connaissances sur le cancer, en laissant une trace grâce à des
 projets concrets menés en collaboration avec des équipes pluridisciplinaires.
 
-![Sarah Macrides](/img/sarah_small.jpg "Sarah dans le labo")
-
-### Sarah Macrides
-#### Étudiante en Master en modélisation et statistique (Université de Rouen Normandie)
-Initialement intéressée par la biologie cellulaire, c'est lors de ma dernière année de licence
-que j'ai découvert mon intérêt pour la bio-informatique et depuis, ce domaine ne m'a jamais lassée.
-Je suis particulièrement intéressée par ses applications dans la santé, en particulier
-la recherche sur le cancer.
-
-**Au quotidien:**
-Calme de nature, vous me verrez chaque matin sirotant mon café avec du sirop d'érable.
-En dehors de mon intérêt pour la bio-informatique, j'aime courir, découvrir de nouveaux endroits,
-écouter de la bossa nova et lire sur la plage.
-
-**À propos de mon travail:**
-Je suis curieuse et j'adore que d'autres personnes me parlent de leurs recherches.
-J'aime particulièrement discuter et débattre de nouvelles idées, ce qui est,
-selon moi, ce qui fait avancer la science.
-
 
 ### Alumni
-![Virginie Cyr](/img/virginie_alumnus.png "Alumni")
+[Sarah Macrides](/img/sarah_alumnus.jpg "Alumni")
+**Sarah Macrides**
+**Stagiaire M1 03/25-08/25**
+
+[Virginie Cyr](/img/virginie_alumnus.png "Alumni")
 **Virginie Cyr**  
 **Stagiaire COOP 01/24-04/24**
 

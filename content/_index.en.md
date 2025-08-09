@@ -24,6 +24,9 @@ cancer. We also believe that the role of RNA-binding proteins is heavily underes
 immune cell development and function.**
 
 ### News
+08/2025 Mikel joins the lab for his postdoctoral training  
+06/2025 Emma wins a RiboClub oral presentation award  
+05/2025 Nassima and Emma successfully transition to the Ph.D. program  
 05/2025 Léo is awarded an FMSS Excellence Scholarship  
 04/2025 The lab receives funding from NSERC to study splicing regulation during hematopoiesis  
 03/2025 Our project with Dr. Stéphanie Vairy is awarded a C17-Childhood Cancer Canada grant  

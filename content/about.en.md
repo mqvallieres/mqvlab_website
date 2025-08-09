@@ -34,11 +34,10 @@ get updated on the state of the art, promote your work. It's the best.
 - B.Sc., Université de Montréal (2007)
 
 
-
 ![Emma](/img/emma_small.jpg "Emma in the lab")
 
 ### Emma Delannoy
-#### M.Sc. student in Cell Biology
+#### Ph.D. Student in Cell Biology
 During my academic journey, I have been able to explore numerous fields,
 but I have primarily worked on projects related to the regulation
 of the immune system in the context of cancer.
@@ -59,7 +58,7 @@ PS : hide your pens, I heard someone has a little hoarding problem...
 ![Nassima](/img/nassima_small.jpg "Nassima in the lab")
 
 ### Nassima Bouzidi
-#### M.Sc. student in Cell Biology
+#### Ph.D. Student in Cell Biology
 I previously had the opportunity to explore a multitude of projects,
 primarily focused on gene therapy and neurobiology. I arrive in Sherbrooke
 with the determination to concretize my professional aspirations by fully
@@ -76,7 +75,7 @@ pleasure to interact daily with passionate collaborators from all corners of the
 from whom we learn a lot about science and the world.
 
 
-![Léo Eusebi](/img/leo1_small.jpg "Léo in the office")
+![Léo Eusebi](/img/leo1_small.jpg "Léo in the city")
 
 ### Léo Eusebi
 #### M.Sc. student in Cell Biology
@@ -98,10 +97,32 @@ I very much enjoy socialising with people from different backgrounds as I believ
 such interactions always provide useful insights. Concerning my research, cancer
 is something I find really fascinating and always crave to learn more about.
 
+
+![Mikel Hurtado](/img/mikel_small.jpg "Mikel in the office")
+
+### Mikel Hurtado, Ph.D.
+#### Postdoctoral researcher
+From the beginning, I was interested in genetics, which led me to pursue a PhD in
+forest genetics. During this time, I realized that bioinformatics would be my future
+and the path I wanted to follow. Coming from the field of plant science, transitioning
+into cancer research is very exciting. Especially because cancer has always been a
+disease that has deeply intrigued me. I’m really keen to do my bit!
+
+**On the daily:**
+I’m someone who’s always up for any plan, especially if it means good company, good vibes,
+and a few laughs. I love basketball, and I’m always looking to discover new places and
+meet new people, so being here in Quebec is a great opportunity for both.
+
+**About my work:**
+What I like most about my work is that I’m constantly learning, it challenges me, and
+lets me contribute to meaningful progress. I also enjoy the opportunity to share knowledge
+and collaborate with other researchers.
+
+
 ![Tony-Carlo Blanchette](/img/tony_small.jpg "Tony in the lab")
 
 ### Tony-Carlo Blanchette
-#### B.Sc. student in Biotechnology Engineering
+#### B.Sc. Student in Biotechnology Engineering
 
 Passionate about mathematics from a young age, it was only two years ago that I 
 turned to an even more exciting and promising field: biology. My immersion in bioinformatics
@@ -117,27 +138,13 @@ to contribute to advancing knowledge on cancer, leaving a mark through concrete
 projects carried out in collaboration with multidisciplinary teams.
 
 
-![Sarah Macrides](/img/sarah_small.jpg "Sarah in the lab")
-
-### Sarah Macrides
-#### Master student in Modelling and Statistics (Université de Rouen Normandie)
-
-Initially interested in cell biology, it was during my last year of bachelor’s degree 
-that I discovered my interest in bio-informatics and since then this field has never tired me.
-I am particularly interested in its applications to health, specifically cancer research.
-
-**On the daily:**
-Calm in nature, you will see me every morning sipping my coffee with maple syrup.
-Apart from my interest in bioinformatics, I like to run, discover new places,
-bossa nova and read on the beach.
-
-**About my Job:**
-I am curious and love when other people talk to me about their research. I particularly
-like to discuss and debate new ideas, which is what I think makes science go forward.
-
 
 ### Alumni
-![Virginie Cyr](/img/virginie_alumnus.png "Alumni")
+[Sarah Macrides](/img/sarah_alumnus.jpg "Alumni")
+**Sarah Macrides**
+**M1 intern 03/25-08/25**
+
+[Virginie Cyr](/img/virginie_alumnus.png "Alumni")
 **Virginie Cyr**  
 **COOP intern 01/24-04/24**
 
