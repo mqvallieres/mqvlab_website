@@ -23,7 +23,7 @@ voir [Irimia et al. 2014](https://www.sciencedirect.com/science/article/pii/S009
 [Quesnel-Vallières et al. 2016](https://www.sciencedirect.com/science/article/pii/S1097276516308061?via%3Dihub)
 
 ### Nouvelles
-08/2025: Mikel se joint au laboratoire pour ses recherches postdoctorales  
+08/2025: Mikel se joint au labo pour ses recherches postdoctorales  
 06/2025: Emma remporte un prix du RiboClub pour sa présentation orale  
 05/2025: Nassima et Emma confirment leur passage au programme de doctorat  
 05/2025: Léo reçoit une bourse d'excellence de la FMSS  

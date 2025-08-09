@@ -37,7 +37,6 @@ travaux. Y'a pas mieux.
 - B.Sc., Université de Montréal (2007)
 
 
-
 ![Emma](/img/emma_small.jpg "Emma dans le labo")
 
 ### Emma Delannoy
@@ -145,11 +144,11 @@ projets concrets menés en collaboration avec des équipes pluridisciplinaires.
 
 
 ### Alumni
-[Sarah Macrides](/img/sarah_alumnus.png "Alumni")
-**Sarah Macrides**
+![Sarah Macrides](/img/sarah_alumnus.png "Alumni")
+**Sarah Macrides**  
 **Stagiaire M1 03/25-08/25**
 
-[Virginie Cyr](/img/virginie_alumnus.png "Alumni")
+![Virginie Cyr](/img/virginie_alumnus.png "Alumni")
 **Virginie Cyr**  
 **Stagiaire COOP 01/24-04/24**
 

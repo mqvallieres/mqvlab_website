@@ -102,6 +102,7 @@ is something I find really fascinating and always crave to learn more about.
 
 ### Mikel Hurtado, Ph.D.
 #### Postdoctoral researcher
+
 From the beginning, I was interested in genetics, which led me to pursue a PhD in
 forest genetics. During this time, I realized that bioinformatics would be my future
 and the path I wanted to follow. Coming from the field of plant science, transitioning
@@ -140,11 +141,11 @@ projects carried out in collaboration with multidisciplinary teams.
 
 
 ### Alumni
-[Sarah Macrides](/img/sarah_alumnus.png "Alumni")
-**Sarah Macrides**
+![Sarah Macrides](/img/sarah_alumnus.png "Alumni")
+**Sarah Macrides**  
 **M1 intern 03/25-08/25**
 
-[Virginie Cyr](/img/virginie_alumnus.png "Alumni")
+![Virginie Cyr](/img/virginie_alumnus.png "Alumni")
 **Virginie Cyr**  
 **COOP intern 01/24-04/24**
 
