@@ -152,7 +152,7 @@ projets concrets menés en collaboration avec des équipes pluridisciplinaires.
 **Virginie Cyr**  
 **Stagiaire COOP 01/24-04/24**
 
-![Mathieu Desnoyers-Barbeau](/img/mathieu_alumnus.png "Alumni")
+![Mathieu Desnoyers-Barbeau](/img/mathieuDB_alumnus.png "Alumni")
 **Mathieu Desnoyers-Barbeau**  
 **Stagiaire COOP 01/24-04/24**
 

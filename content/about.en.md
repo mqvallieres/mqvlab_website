@@ -149,7 +149,7 @@ projects carried out in collaboration with multidisciplinary teams.
 **Virginie Cyr**  
 **COOP intern 01/24-04/24**
 
-![Mathieu Desnoyers-Barbeau](/img/mathieu_alumnus.png "Alumni")
+![Mathieu Desnoyers-Barbeau](/img/mathieuDB_alumnus.png "Alumni")
 **Mathieu Desnoyers-Barbeau**  
 **COOP intern 01/24-04/24**
 
