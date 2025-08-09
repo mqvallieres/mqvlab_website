@@ -103,7 +103,7 @@ recherche, le cancer est un sujet que je trouve vraiment fascinant, et j'ai
 toujours envie d'en apprendre davantage.
 
 
-![Mikel Hurtado](/img/mikel_small.jpg "Mikel dans le bureau")
+![Mikel Hurtado](/img/mikel_small.png "Mikel dans le bureau")
 
 ### Mikel Hurtado, Ph.D.
 #### Chercheur postdoctoral
@@ -145,7 +145,7 @@ projets concrets menés en collaboration avec des équipes pluridisciplinaires.
 
 
 ### Alumni
-[Sarah Macrides](/img/sarah_alumnus.jpg "Alumni")
+[Sarah Macrides](/img/sarah_alumnus.png "Alumni")
 **Sarah Macrides**
 **Stagiaire M1 03/25-08/25**
 

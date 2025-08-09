@@ -98,7 +98,7 @@ such interactions always provide useful insights. Concerning my research, cancer
 is something I find really fascinating and always crave to learn more about.
 
 
-![Mikel Hurtado](/img/mikel_small.jpg "Mikel in the office")
+![Mikel Hurtado](/img/mikel_small.png "Mikel in the office")
 
 ### Mikel Hurtado, Ph.D.
 #### Postdoctoral researcher
@@ -140,7 +140,7 @@ projects carried out in collaboration with multidisciplinary teams.
 
 
 ### Alumni
-[Sarah Macrides](/img/sarah_alumnus.jpg "Alumni")
+[Sarah Macrides](/img/sarah_alumnus.png "Alumni")
 **Sarah Macrides**
 **M1 intern 03/25-08/25**
 
