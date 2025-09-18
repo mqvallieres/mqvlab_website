@@ -127,7 +127,7 @@ partager mes connaissances et collaborer avec d’autres chercheurs.
 ![Tony-Carlo Blanchette](/img/tony_small.jpg "Tony dans le labo")
 
 ### Tony-Carlo Blanchette
-#### Étudiant au B.Sc. en génie biotechnologique
+#### Étudiant au B.Ing. en génie biotechnologique
 Passionné par les mathématiques depuis tout jeune, ce n’est qu’il y a deux ans que
 je me suis tourné vers un domaine encore plus enthousiasmant et prometteur : la biologie.
 Mon immersion en bioinformatique lors de mon stage actuel m’a définitivement donné la nouvelle piqûre!
@@ -141,6 +141,11 @@ le foie aux saucisses…
 Nouvellement initié au domaine de la recherche, je trouve dans ce secteur l’opportunité de
 contribuer à l’avancée des connaissances sur le cancer, en laissant une trace grâce à des
 projets concrets menés en collaboration avec des équipes pluridisciplinaires.
+
+
+![Juan David Millan Lora](/img/juan_small.jpg "Juan dans la nature")
+### Juan David Millan Lora
+#### Étudiant au B. Ing en générie robotique
 
 
 ### Alumni

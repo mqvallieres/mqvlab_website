@@ -123,7 +123,7 @@ and collaborate with other researchers.
 ![Tony-Carlo Blanchette](/img/tony_small.jpg "Tony in the lab")
 
 ### Tony-Carlo Blanchette
-#### B.Sc. Student in Biotechnology Engineering
+#### B.Eng. Student in Biotechnology Engineering
 
 Passionate about mathematics from a young age, it was only two years ago that I 
 turned to an even more exciting and promising field: biology. My immersion in bioinformatics
@@ -138,6 +138,25 @@ Newly introduced to the field of research, I find in this sector the opportunity
 to contribute to advancing knowledge on cancer, leaving a mark through concrete
 projects carried out in collaboration with multidisciplinary teams.
 
+
+![Juan David Millan Lora](/img/juan_small.jpg "Juan in the nature")
+
+### Juan David Millan Lora
+#### B.Eng. Student in Robotic Engineering
+
+I have an eclectic background that leads me to explore both applied sciences and the humanities.
+My interest always goes toward anything that helps better understand how the body,
+the mind, and technology work.
+
+**On the daily:**
+I am disciplined and passionate about learning, whether through sports training,
+reading, or hands-on experimentation. I enjoy discovering new perspectives and connecting
+diverse experiences. (That said, I still haven’t found an equation to explain why coffee
+always runs out too quickly.)
+
+**About my job:**
+What motivates me most is being able to bring together different realms of knowledge,
+look for unexpected connections, and find concrete ways to apply knowledge in real life.
 
 
 ### Alumni

@@ -1,7 +1,7 @@
 ![MQVlab_logo](/img/lab_logo_main.png)
 ### Interrogating the RNA to find new cancer treatments
 Our lab uses high-throughput sequencing data and experimental validations
-to find RNA variations involved in normal tissue development or in cancer.
+to find transcriptomic involved in normal tissue development or in cancer.
 
 ![transcriptomics](/img/transcriptomics.en.png)
 Using variations in RNA splicing patterns, it is possible to discover molecular
@@ -19,11 +19,12 @@ fraction of autism spectrum disorder cases - see [Irimia et al. 2014](https://ww
 ### Vision
 Our research is driven by a combination of
 computional analyses to generate hypotheses and experimental work to describe biological
-functions. **We believe that studying RNA splicing will uncover new therapeutic avenues for
-cancer. We also believe that the role of RNA-binding proteins is heavily underestimated in
-immune cell development and function.**
+functions. **We believe that interrogating the transcripome will yield answers to major
+outstanding biological questions and provide new clinical avenues.**
 
 ### News
+09/2025 Juan joins the lab for a 4-month COOP intership and Tony
+returns for another intership  
 08/2025 Mikel joins the lab for his postdoctoral training  
 06/2025 Emma wins a RiboClub oral presentation award  
 05/2025 Nassima and Emma successfully transition to the Ph.D. program  
@@ -58,8 +59,8 @@ advance our understanding of the immune system.
 The lab is supported by a Next Generation of Scientists Award from the Cancer Research
 Society, an Early career researchers competition in genomics – human health Award
 from Génome Québec, a Research Scholars Junior 1 scholarship from FRQS,
-a Canadian Cancer Society Disruptive Innovation Grant, a 100% sarcoma grant from C17,
-a Discovery Grant from NSERC,
+a Canadian Cancer Society Disruptive Innovation Grant, a 100% sarcoma grant from C17/
+Sarcoma Research Canada/Childhood Cancer Canada, a Discovery Grant from NSERC,
 as well as startup funds from the Université de Sherbrooke, CRCHUS and D2R.
 &nbsp;
 

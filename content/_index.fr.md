@@ -22,7 +22,17 @@ l'ARN - voir [Jha, Quesnel-Vallières et al. 2022](https://genomebiology.biomedc
 voir [Irimia et al. 2014](https://www.sciencedirect.com/science/article/pii/S0092867414015128?via%3Dihub),
 [Quesnel-Vallières et al. 2016](https://www.sciencedirect.com/science/article/pii/S1097276516308061?via%3Dihub)
 
+### Vision
+Notre recherche repose sur une combinaison d'analyses bioinformatiques
+pour générer des hypothèses et des expériences en laboratoire
+pour décrire les fonctions biologiques. **Nous croyons que l'étude
+du transcriptome fournira des réponses à des questions fondamentales
+en biologie et ouvrira de nouvelles voies thérapeutiques pour
+le traitement du cancer.**
+
 ### Nouvelles
+09/2025: Juan se joint au labo pour un stage COOP de 4 mois et Tony
+revient pour un autre stage  
 08/2025: Mikel se joint au labo pour ses recherches postdoctorales  
 06/2025: Emma remporte un prix du RiboClub pour sa présentation orale  
 05/2025: Nassima et Emma confirment leur passage au programme de doctorat  
@@ -49,17 +59,6 @@ ciblées contre le cholangiocarcinome
 11/2023: Le labo remporte le prix Relève en génomique – santé humaine de Génome Québec  
 09/2023: Ouverture du labo  
 
-### Vision
-Notre recherche repose sur une combinaison d'analyses bioinformatiques
-pour générer des hypothèses et des expériences en laboratoire
-pour décrire les fonctions biologiques. **Nous croyons que l'étude
-de l'épissage ARN ouvrira de nouvelles voies thérapeutiques pour
-le traitement du cancer. Nous croyons aussi que le rôle de
-l'épissage alternatif dans le développement et les fonctions
-du système immunitaire est largement sous-estimé et que la
-caractérisation de ces processus permettra de mieux décrire et
-prendre en charge les cancers du sang.**
-
 <!--
 Nous recherchons activement des [étudiants aux cycles supérieurs et stagiaires
 postdoctoraux](positions) pour mener des [projets](projects)
@@ -72,7 +71,8 @@ Le laboratoire est financé par une Bourse pour la relève scientifique
 de la Société de recherche sur le cancer, une Bourse pour la relève en
 génomique - Santé humaine de Génome Québec, une bourse Chercheurs-boursiers et
 Chercheuses-boursières Junior 1 du FRQS, une DIG de la Société canadienne
-du cancer, un financement du C17, un projet découverte du CRSNG, ainsi que des fonds de
+du cancer, un financement 100% Sarcoma du C17/Sarcoma Research Canada/Childhood
+Cancer Canada, un projet découverte du CRSNG, ainsi que des fonds de
 démarrage de l'Université de Sherbrooke, du CRCHUS et du D2R.
 
 &nbsp;
