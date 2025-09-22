@@ -3,6 +3,8 @@ title: "Postes"
 date: 2023-06-05T22:31:23-04:00
 ---
 
+![MQVlab](/img/lab_fall_small.jpg "Vue du labo en septembre 2025")
+
 ### Joignez-vous à nous!
 <!--
 Affiché en avril 2025: [Projet de doctorat](https://github.com/mqvallieres/mqvlab_website/raw/master/static/phd_project.pdf)

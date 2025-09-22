@@ -3,9 +3,9 @@ title: "Équipe"
 date: 2023-06-05T22:34:08-04:00
 ---
 
-![Labo MQV](/img/RiboClub2024.jpg "Fabulous lab")
+![Labo MQV](/img/lab_people_0925_small.jpg "MQVlab people 2025")
 
-### MQVlab (de gauche à droite: Emma, Mathieu, Nassima, Léo)
+### MQVlab (de gauche à droite: Juan, Nassima, Mikel, Léo, Tony, Emma, Mathieu)
 
 ![Mathieu](/img/mathieu1_small.jpg "Mathieu en chemise verte")
 
