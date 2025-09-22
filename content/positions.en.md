@@ -5,7 +5,7 @@ date: 2023-06-05T22:31:23-04:00
 
 ### Come work with us!
 
-![MQVlab](/img/lab_fall_small.jpg "View from the lab, Sept 2025")
+![MQVlab](/img/lab_fall_small.jpg "View from the lab")
 
 
 <!--

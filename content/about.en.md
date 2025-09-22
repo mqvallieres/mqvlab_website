@@ -4,7 +4,7 @@ date: 2023-06-05T22:34:08-04:00
 ---
 ![MQVlab](/img/lab_people_0925_small.jpg "MQVlab people 2025")
 
-### MQVlab (left to right: Juan, Nassima, Mikel, Léo, Tony, Emma, Mathieu)
+Left to right: Juan, Nassima, Mikel, Léo, Tony, Emma, Mathieu
 
 ![Mathieu](/img/mathieu1_small.jpg "Mathieu in a green shirt")
 
