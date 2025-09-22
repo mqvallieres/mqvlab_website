@@ -8,10 +8,10 @@ tags: []
 
 **2025**
 
-[NRCAM variant defined by microexon skipping is a targetable cell surface proteoform in high-grade gliomas.](https://10.1016/j.celrep.2025.116099)
+[NRCAM variant defined by microexon skipping is a targetable cell surface proteoform in high-grade gliomas.](https://10.1016/j.celrep.2025.116099)  
 Sehgal P, Naqvi AS, Higgins M, Liu J, Harvey K, Jarroux J, Kim T, Mankaliye B, Mishra P, Watterson G, Fine J,
 Davis J, Hayer KE, Castro A, Mogbo A, Drummer C 4th, Martinez D, Koptyra MP, Ang Z, Wang K, Farrel A,
-**Quesnel-Vallieres M**, Barash Y, Spangler JB, Rokita JL, Resnick AC, Tilgner HU, De Raedt T, Powell DJ Jr, Thomas-Tikhonenko A
+**Quesnel-Vallieres M**, Barash Y, Spangler JB, Rokita JL, Resnick AC, Tilgner HU, De Raedt T, Powell DJ Jr, Thomas-Tikhonenko A  
 *Cell Reports*
 
 **2024**
@@ -20,8 +20,8 @@ Davis J, Hayer KE, Castro A, Mogbo A, Drummer C 4th, Martinez D, Koptyra MP, Ang
 **Quesnel-Vallières M**, Jewell S, Lynch KW, Thomas-Tikhonenko A, Barash Y  
 *Nucleic Acids Research*
 
-[Trametinib Sensitivity is Defined by a Myeloid Differentiation Profile in Acute Myeloid Leukemia.](https://doi.org/10.1007/s40268-024-00491-5)
-**Quesnel-Vallières M**,  Schultz DC, Orlenko A, Lo Y, Moore J, Ritchie M, Roth D, Carroll M, Barash Y, Lynch KW, Cherry S
+[Trametinib Sensitivity is Defined by a Myeloid Differentiation Profile in Acute Myeloid Leukemia.](https://doi.org/10.1007/s40268-024-00491-5)  
+**Quesnel-Vallières M**,  Schultz DC, Orlenko A, Lo Y, Moore J, Ritchie M, Roth D, Carroll M, Barash Y, Lynch KW, Cherry S  
 *Drugs in R&D*
 
 [An Alternatively Spliced Gain-of-Function NT5C2 Isoform Contributes to Chemoresistance in Acute Lymphoblastic Leukemia.](https://doi.org/10.1158/0008-5472.CAN-23-3804)  
@@ -130,14 +130,14 @@ couvert part des média internationaux (e.g Toronto Star, The Scientist)
 
 **2025**
 
-[Alternatively spliced isoforms of IRF7 differentially regulate interferon expression to tune response to viral infection.](https://10.1016/j.celrep.2025.116166)
-Panthi A, Ferretti MB, Howard O, Pokharel SM, McCracken R, Boudreault S, **Quesnel-Vallières M**, Li Q, Cherry S, Lynch KW
+[Alternatively spliced isoforms of IRF7 differentially regulate interferon expression to tune response to viral infection.](https://10.1016/j.celrep.2025.116166)  
+Panthi A, Ferretti MB, Howard O, Pokharel SM, McCracken R, Boudreault S, **Quesnel-Vallières M**, Li Q, Cherry S, Lynch KW  
 *Cell Reports*
 
 **2023**
 
-[The Tumor Suppressor Adenomatous Polyposis Coli (apc) Is Required for Neural Crest-Dependent Craniofacial Development in Zebrafish.](https://10.3390/jdb11030029)
-Liu X, Jones WD, **Quesnel-Vallières M**, Devadiga SA, Lorent K, Valvezan AJ, Myers RL, Li N, Lengner CJ, Barash Y, Pack M, Klein PS.
+[The Tumor Suppressor Adenomatous Polyposis Coli (apc) Is Required for Neural Crest-Dependent Craniofacial Development in Zebrafish.](https://10.3390/jdb11030029)  
+Liu X, Jones WD, **Quesnel-Vallières M**, Devadiga SA, Lorent K, Valvezan AJ, Myers RL, Li N, Lengner CJ, Barash Y, Pack M, Klein PS.  
 *Journal of Developmental Biology*
 
 **2022**

@@ -3,10 +3,9 @@ title: "Positions"
 date: 2023-06-05T22:31:23-04:00
 ---
 
-### Come work with us!
-
 ![MQVlab](/img/lab_fall_small.jpg "View from the lab")
 
+### Come work with us!
 
 <!--
 Posted April 2025: [PhD project](https://github.com/mqvallieres/mqvlab_website/raw/master/static/phd_project.pdf)
