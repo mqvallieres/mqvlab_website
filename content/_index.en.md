@@ -23,6 +23,8 @@ functions. **We believe that interrogating the transcripome will yield answers t
 outstanding biological questions and provide new clinical avenues.**
 
 ### News
+11/2025 Juan and Tony win 2 out of 2 poster awards at the Department of Immunology and Cell
+Biology Symposium  
 09/2025 Juan joins the lab for a 4-month COOP intership and Tony
 returns for another intership  
 08/2025 Mikel joins the lab for his postdoctoral training  
@@ -30,11 +32,11 @@ returns for another intership
 05/2025 Nassima and Emma successfully transition to the Ph.D. program  
 05/2025 Léo is awarded an FMSS Excellence Scholarship  
 04/2025 The lab receives funding from NSERC to study splicing regulation during hematopoiesis  
-03/2025 Our project with Dr. Stéphanie Vairy is awarded a C17-Childhood Cancer Canada grant  
+03/2025 Our project with Dr. Stéphanie Vairy is awarded a C17-Childhood Cancer Canada grant
 for the development of personalized vaccines against childhood sarcoma  
 03/2025 Sarah joins the lab for a 5-month M1 internship  
 03/2025 Emma presents a poster at the D2R meeting  
-02/2025 Our collaborative project with Pr. Lee-Hwa Tai is awarded a CCS-Hecht Foundation
+02/2025 Our collaborative project with Pr. Lee-Hwa Tai is awarded a CCS-Hecht Foundation  
 Disruptive Innovation Grant for the development of targeted immunotherapies against cholangiocarcinoma  
 01/2025 Tony joins the lab for a 4-month COOP internship  
 10/2024 Nassima and Emma present posters at the RiboClub meeting  

@@ -31,8 +31,10 @@ en biologie et ouvrira de nouvelles voies thérapeutiques pour
 le traitement du cancer.**
 
 ### Nouvelles
+11/2025: Juan et Tony remportent les deux prix de présentation par affiche
+du Colloque scientifique du Département d'immunologie et de biologie cellulaire  
 09/2025: Juan se joint au labo pour un stage COOP de 4 mois et Tony
-revient pour un autre stage  
+revient pour un 2e stage  
 08/2025: Mikel se joint au labo pour ses recherches postdoctorales  
 06/2025: Emma remporte un prix du RiboClub pour sa présentation orale  
 05/2025: Nassima et Emma confirment leur passage au programme de doctorat  
