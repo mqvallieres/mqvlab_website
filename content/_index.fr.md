@@ -59,7 +59,6 @@ ciblées contre le cholangiocarcinome
 01/2024: Virginie et Mathieu DB se joignent au labo pour des stages COOP de 4 mois  
 11/2023: Publication de MAJIQlopedia dans *Nucleic Acids Research*  
 11/2023: Le labo remporte le prix Relève en génomique – santé humaine de Génome Québec  
-09/2023: Ouverture du labo  
 
 <!--
 Nous recherchons activement des [étudiants aux cycles supérieurs et stagiaires

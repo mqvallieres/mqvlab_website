@@ -49,7 +49,6 @@ Disruptive Innovation Grant for the development of targeted immunotherapies agai
 11/2023 MAJIQlopedia is published in *Nucleic Acids Research*  
 11/2023 The lab is awarded the Early Career Researchers Award in Genomics – Human
 Health by Génome Québec  
-09/2023 MQV lab officially opens at Université de Sherbrooke  
 
 <!--
 We actively seek [graduate students and postdocs](positions)
