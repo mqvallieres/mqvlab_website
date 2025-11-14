@@ -1,7 +1,7 @@
 ![MQVlab_logo](/img/lab_logo_main.png)
-### Interrogating the RNA to find new cancer treatments
+### Interrogating the transcriptome to find new cancer treatments
 Our lab uses high-throughput sequencing data and experimental validations
-to find transcriptomic involved in normal tissue development or in cancer.
+to find transcriptomic changes involved in normal tissue development or in cancer.
 
 ![transcriptomics](/img/transcriptomics.en.png)
 Using variations in RNA splicing patterns, it is possible to discover molecular

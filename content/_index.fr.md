@@ -1,6 +1,6 @@
 ![MQVlab_logo](/img/lab_logo_principal.png)
-### Nous examinons les variations de l'ARN pour trouver de nouveaux traitements contre le cancer
-Notre labo utilise des données de séquençage à haut débit et des 
+### Nous examinons les variations du transcriptome pour trouver de nouveaux traitements contre le cancer
+Notre laboratoire utilise des données de séquençage à haut débit et des 
 validations expérimentales pour trouver des variations de l'ARN
 impliquées dans le développement de tissus normaux et des cancers.
 
