@@ -16,12 +16,12 @@ in genetics/biochemistry/transcriptomics
 seeking to do experimental or computational work will be considered.**
 -->
 
-Posted December 2025: **New opportunity for postdoctoral researchers**  
+Posted December 2025: **New opportunity for international postdoctoral researchers**  
 Canada has announced a new postoctoral fellowship program for international
 scientists. There is no post-PhD eligibility window with this program. We have
 several budding lines of investigation across the fields of genomics, gene regulation,
 cancer and splicing and we offer all the freedom you need to grow your own project. Please
-reach out as soon as possible if you are interested. The internal deadline is Feb 4.  
+reach out as soon as possible if you are interested. The internal deadline is Feb 4, 2026.  
 Program details [here](https://nserc-crsng.canada.ca/en/news/launch-new-canada-impact-research-training-awards).
 
 We generally have one to two positions for grad students or postdocs available each year.
