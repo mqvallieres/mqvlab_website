@@ -15,7 +15,7 @@ mathieu.quesnel-vallieres[at]usherbrooke.ca.
 Bureau: 1-819-821-8000 x72370  
 Bureau étudiants: 1-819-821-8000 x70464
 
-Labo: Z8-2031  
+Labo: Z8-2034  
 Bureau: Z8-2025
 Bureau étudiant: Z8-1071  
 3201 rue Jean-Mignault  

@@ -143,34 +143,9 @@ contribuer à l’avancée des connaissances sur le cancer, en laissant une trac
 projets concrets menés en collaboration avec des équipes pluridisciplinaires.
 
 
-![Juan David Millan Lora](/img/juan_small.jpg "Juan dans la nature")
-### Juan David Millan Lora
-#### Étudiant au B. Ing en générie robotique
-J’ai un parcours éclectique qui me mène à explorer autant les sciences appliquées que les
-humanités. Mon intérêt va toujours vers ce qui permet de mieux comprendre le fonctionnement
-du corps, de l’esprit et de la technique.
-
-**Au quotidien:**
-Je suis discipliné et passionné par l’apprentissage, que ce soit à travers l’entraînement
-sportif, la lecture ou l’expérimentation pratique. J’aime découvrir de nouvelles perspectives
-et relier entre elles des expériences variées. (Par contre, je n’ai toujours pas trouvé
-d’équation qui explique pourquoi le café finit toujours trop vite.)
-
-**À propos de mon travail:**
-Ce qui me motive le plus est de pouvoir croiser différents univers de savoir, chercher
-des liens inattendus et trouver des manières concrètes d’appliquer la connaissance dans la vie réelle.
-
-
 ### Alumni
-![Sarah Macrides](/img/sarah_alumnus.png "Alumni")
-**Sarah Macrides**  
-**Stagiaire M1 03/25-08/25**
-
-![Virginie Cyr](/img/virginie_alumnus.png "Alumni")
-**Virginie Cyr**  
-**Stagiaire COOP 01/24-04/24**
-
-![Mathieu Desnoyers-Barbeau](/img/mathieuDB_alumnus.png "Alumni")
-**Mathieu Desnoyers-Barbeau**  
-**Stagiaire COOP 01/24-04/24**
+Juan David Millan, Stagiaire COOP 09/25-12/25  
+Sarah Macrides, Stagiaire M1 03/25-08/25  
+Virginie Cyr, Stagiaire COOP 01/24-04/24  
+Mathieu Desnoyers-Barbeau, Stagiaire COOP 01/24-04/24
 

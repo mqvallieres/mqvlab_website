@@ -2,35 +2,16 @@
 ### Nous examinons les variations du transcriptome pour trouver de nouveaux traitements contre le cancer
 Notre laboratoire utilise des données de séquençage à haut débit et des 
 validations expérimentales pour trouver des variations de l'ARN
-impliquées dans le développement de tissus normaux et des cancers.
+impliquées dans le développement des tissus normaux et des cancers.
 
-![transcriptomics](/img/transcriptomics.fr.png)
-En étudiant les variations d'épissage de l'ARN, il est possible de
-découvrir des signatures moléculaires ignorées par d'autres approches.
-Au cours des dernières années, l'analyse du transcriptome a permis
-d'apporter une lumière nouvelle sur des questions fondamentales
-dans les domaines des troubles du spectre de l'autisme, du
-cancer ou de la fonction normale des tissus. Par exemple:
-&nbsp;
-- Recensement de tous les événements d'épissage alternatifs dans 86 tissus
-humain normaux et 41 ensembles de données de cancers - voir [Quesnel-Vallières et al. 2024](https://doi.org/10.1093/nar/gkad1043)  
-- Découverte que les signatures moléculaires communes à une large
-gamme de tumours sont caractérisées par la dérégulation des processus liés à
-l'ARN - voir [Jha, Quesnel-Vallières et al. 2022](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02681-3)  
-- Démonstration qu'un programme d'épissage alternatif de l'ARN est causalement lié
-à une large fraction des cas de troubles du spectre de l'autisme -
-voir [Irimia et al. 2014](https://www.sciencedirect.com/science/article/pii/S0092867414015128?via%3Dihub),
-[Quesnel-Vallières et al. 2016](https://www.sciencedirect.com/science/article/pii/S1097276516308061?via%3Dihub)
-
-### Vision
-Notre recherche repose sur une combinaison d'analyses bioinformatiques
-pour générer des hypothèses et des expériences en laboratoire
-pour décrire les fonctions biologiques. **Nous croyons que l'étude
-du transcriptome fournira des réponses à des questions fondamentales
-en biologie et ouvrira de nouvelles voies thérapeutiques pour
-le traitement du cancer.**
+Nos thèmes de recherche incluent:
+- Découverte de cibles pour les immunothérapies de précision contre le cancer
+- Description des mécanismes moléculaires qui sous-tendent le cancer
+- Rôle de la régulation de l'épissage de l'ARN dans l'hématopoïèse
+- Compréhension de la séquence du gène
 
 ### Nouvelles
+01/2026: Nicolas se joint au labo pour ses études supérieures  
 11/2025: Juan et Tony remportent les deux prix de présentation par affiche
 du Colloque scientifique du Département d'immunologie et de biologie cellulaire  
 09/2025: Juan se joint au labo pour un stage COOP de 4 mois et Tony
@@ -54,17 +35,12 @@ ciblées contre le cholangiocarcinome
 09/2024: Léo se joint au labo pour ses études supérieures  
 08/2024: Le labo reçoit des fonds de démarrage du D2R  
 04/2024: Mathieu QV reçoit une bourse Chercheur-boursier J1 du FRQS  
+<!--
 01/2024: Virginie reçoit une prestigieuse bourse de recherche au 1er cycle du CRSNG  
 01/2024: Emma et Nassima se joignent au labo pour leurs études supérieures  
 01/2024: Virginie et Mathieu DB se joignent au labo pour des stages COOP de 4 mois  
 11/2023: Publication de MAJIQlopedia dans *Nucleic Acids Research*  
 11/2023: Le labo remporte le prix Relève en génomique – santé humaine de Génome Québec  
-
-<!--
-Nous recherchons activement des [étudiants aux cycles supérieurs et stagiaires
-postdoctoraux](positions) pour mener des [projets](projects)
-qui feront progresser les traitements contre le cancer et notre
-compréhension du système immunitaire.
 -->
 
 ### Financement
