@@ -5,9 +5,9 @@ to find transcriptomic changes involved in normal tissue function or in cancer.
 
 Current lines of investigation include:
 &nbsp;
-- Target discovery for precision cancer immunotherapy
-- Description of molecular mechanisms driving cancer
-- Role of RNA splicing regulation during hematopoiesis
+- Target discovery for precision cancer immunotherapy  
+- Description of molecular mechanisms driving cancer  
+- Role of RNA splicing regulation during hematopoiesis  
 - Understanding gene sequence
 
 ### News

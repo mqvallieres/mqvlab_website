@@ -5,9 +5,9 @@ validations expérimentales pour trouver des variations de l'ARN
 impliquées dans le développement des tissus normaux et des cancers.
 
 Nos thèmes de recherche incluent:
-- Découverte de cibles pour les immunothérapies de précision contre le cancer
-- Description des mécanismes moléculaires qui sous-tendent le cancer
-- Rôle de la régulation de l'épissage de l'ARN dans l'hématopoïèse
+- Découverte de cibles pour les immunothérapies de précision contre le cancer  
+- Description des mécanismes moléculaires qui sous-tendent le cancer  
+- Rôle de la régulation de l'épissage de l'ARN dans l'hématopoïèse  
 - Compréhension de la séquence du gène
 
 ### Nouvelles
