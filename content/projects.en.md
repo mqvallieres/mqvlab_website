@@ -16,7 +16,7 @@ cancer-specific markers to target.
 Aberrant RNA splicing is a hallmark of all cancer types
 (e.g. [Jha, Quesnel-Vallières et al., 2022](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02681-3)).
 We developped computational tools to identify
-cancer-specific antigens originating from abeabeabeabeabeabeabeabeaberrant splicing variations.
+cancer-specific antigens originating from aberrant splicing variations.
 
 ![neoantigen_summary](/img/neoantigen_discov.en.png)
 We currently focus our efforts on the experimental validation of

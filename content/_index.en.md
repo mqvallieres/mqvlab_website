@@ -11,6 +11,7 @@ Current lines of investigation include:
 - Understanding gene sequence
 
 ### News
+01/2026 [The FMSS publishes a short portray of our lab](https://www.linkedin.com/feed/update/urn:li:activity:7413957558090088448/)  
 01/2026 Nicolas joins the lab for his grad studies  
 11/2025 Juan and Tony win 2 out of 2 poster awards at the Department of Immunology and Cell
 Biology Symposium  
@@ -48,6 +49,10 @@ from Génome Québec, a Research Scholars Junior 1 scholarship from FRQS,
 a Canadian Cancer Society Disruptive Innovation Grant, a 100% sarcoma grant from C17/
 Sarcoma Research Canada/Childhood Cancer Canada, a Discovery Grant from NSERC,
 as well as startup funds from the Université de Sherbrooke, CRCHUS and D2R.
+
+**To directly contribute to our research, please contact Prof.
+[Mathieu Quesnel-Vallières](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).**
+
 &nbsp;
 
 ![funding](/img/logos_funding.png)
