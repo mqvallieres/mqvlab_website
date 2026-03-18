@@ -22,17 +22,6 @@ everywhere. I sneeze often and loud - my apologies to those who spend
 time in my general vicinity.
 Leadership style: 95% Gus Fring, 5% Michael Scott
 
-**About my job:**
-Conferences are the best part of what we do as academic
-researchers. You travel to meet new colleagues, start collaborations,
-get updated on the state of the art, promote your work. It's the best.
-
-**Training:**
-- Postdoc, University of Pennsylvania (2023)
-- Ph.D., University of Toronto (2017)
-- M.Sc., Université de Montréal (2010)
-- B.Sc., Université de Montréal (2007)
-
 
 ![Emma](/img/emma_small.jpg "Emma in the lab")
 
@@ -46,11 +35,6 @@ of the immune system in the context of cancer.
 I am quite talkative, always chatting or humming a little tune.
 As for hobbies, I am a fan of traditional elderly activities,
 especially embroidery and crochet.
-
-**About my job:**
-What I appreciate the most is the opportunity to evolve in a multicultural
-environment and to interact with people with different backgrounds and
-perspectives, making this environment even more enriching and inspiring.
 
 PS : hide your pens, I heard someone has a little hoarding problem...
 
@@ -68,11 +52,6 @@ investing myself in a project that is dear to my heart.
 I can't help but dance, albeit poorly, every time I listen to music, and I listen
 to a lot of it... I'm learning to understand the local language. You can often find
 me with my notebook where I collect the Quebec expressions I hear for the first time.
-
-**About my job:**
-I love, and have always loved, working in research, a world where we have the
-pleasure to interact daily with passionate collaborators from all corners of the world,
-from whom we learn a lot about science and the world.
 
 
 ![Léo Eusebi](/img/leo1_small.jpg "Léo in the city")
@@ -92,11 +71,6 @@ crochet, hiking, drawing, music, cooking, plant parenting, dance, gaming, etc.
 (jack-of-all-trade pretty much, eh?). On a side note, I am also a homebody who loves
 cats, although squirrels are starting to grow on me.
 
-**About my job:**
-I very much enjoy socialising with people from different backgrounds as I believe
-such interactions always provide useful insights. Concerning my research, cancer
-is something I find really fascinating and always crave to learn more about.
-
 
 ![Mikel Hurtado](/img/mikel_small.png "Mikel in the office")
 
@@ -114,10 +88,23 @@ I’m someone who’s always up for any plan, especially if it means good compan
 and a few laughs. I love basketball, and I’m always looking to discover new places and
 meet new people, so being here in Quebec is a great opportunity for both.
 
-**About my work:**
-What I like most about my work is that I’m constantly learning, it challenges me, and
-lets me contribute to meaningful progress. I also enjoy the opportunity to share knowledge
-and collaborate with other researchers.
+
+![Nicolas Picard-Sanchez](/img/nicolas_small.jpg "Nicolas in the lab")
+
+### Nicolas Picard-Sanchez
+#### M.Sc. Student in Immunology
+
+I want to contribute to something bigger than me and adding my brick to the building of
+human knowledge is what brought me to biology. This and the fact that biology classes
+were the only ones during which I didn't fall asleep in high school.
+
+I previously worked on radiation-induced DNA damage and peripheral nervous system
+development.
+
+**On the daily**
+I have as many passions as there are days in the year. If I had to pick a few I would go
+with cooking, painting, listening to musique and napping. Overcoming the imposter syndrome
+is a daily battle that is lost in advance. I'm trying my best, let's see what comes of it.
 
 
 ![Tony-Carlo Blanchette](/img/tony_small.jpg "Tony in the lab")
@@ -132,11 +119,6 @@ during this internship definitely gave me a new spark!
 **On the daily:**
 Always smiling and lively, except when I'm coding. Fun fact: I developed a real passion
 for hospital gastronomy… except for liver with sausages…
-
-**About my work:**
-Newly introduced to the field of research, I find in this sector the opportunity
-to contribute to advancing knowledge on cancer, leaving a mark through concrete
-projects carried out in collaboration with multidisciplinary teams.
 
 
 ### Alumni

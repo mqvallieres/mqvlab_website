@@ -6,31 +6,31 @@ date: 2023-06-05T22:31:35-04:00
 # La recherche devrait avoir un fort impact, être novatrice et stimulante. Que découvrirez-vous?
 &nbsp;
 &nbsp;
-## Projet 1: Immunothérapies ciblées contre le cancer
+## Immunothérapies ciblées contre le cancer
 De nouvelles thérapies contre le cancer reposent sur le ciblage de
-marqueurs présents à la surface des cellules cancéreuses des
-cellules T à récepteur antigénique chimère, des
-d'anticorps conjugués à une drogue ou des vaccins. Ces
-traitements fonctionnent bien pour plusieurs patients avec certains types
-de cancers du sang, mais leur application dans d'autres types de cancer
-est limitée en partie par le manque de marqueurs spécifiques aux cancers..
+marqueurs présents à la surface des cellules cancéreuses à l'aide
+de cellules T à récepteur antigénique chimère, d'anticorps conjugués
+à une drogue ou de vaccins. L'application de ces traitements révolutionnaires
+est limitée en partie par le manque de marqueurs spécifiques aux cancers.  
 
-Plusieurs groupes et nous-mêmes avons observé une large gamme de variations
-de l'épissage de l'ARN dans divers types de tumeurs
+L'épissage aberrant de l'ARN est une caractéristique
+universelle de tous les types de cancer
 (e.g. [Jha, Quesnel-Vallières et al., 2022](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02681-3)).
-Nous avons développé un pipeline bioinformatique 
-pour identifier des antigènes de surface qui pourraient être ciblés
+Nous avons développé des outils bioinformatiques
+pour identifier des antigènes de cancer qui pourraient être ciblés
 par immunothérapie.
 
 ![neoantigen_summary](/img/neoantigen_discov.fr.png)
 Nos efforts se concentrent présentement sur la validation
 expérimentale de candidats qui semblent être des cibles
 d'immunothérapies privilégiées dans des cancers à haut
-risque tels que leucémie aiguë myéloïde et le cancer du pancréas.
+risque tels que le **cancer du pancréas**, le **cholangiocarcinome**,
+la **leucémie myéloïde aiguë** et certaines formes rares de
+**sarcome et carcinome chez l'enfant**.
 
 &nbsp;
 &nbsp;
-## Projet 2: Régulation de l'épissage de l'ARN dans le système immunitaire
+## Régulation de l'épissage de l'ARN dans le système immunitaire
 Des événements d'épissage alternatif de l'ARN sont co-régulés pour
 soutenir le développement et les fonctions du système nerveux
 (e.g. [Quesnel-Vallières et al., 2015](https://genesdev.cshlp.org/content/29/7/746)).
@@ -56,8 +56,6 @@ et de caractériser leurs fonctions.
 
 &nbsp;
 &nbsp;
-## Projets 3, 4 et plus encore: Qu'est-ce qu'un gène? Quelles forces ont régulé l'expression des gènes durant l'évolution?
+## Qu'est-ce qu'un gène? Quelles forces ont régulé l'expression des gènes durant l'évolution?
 Il faut parfois poser de grandes questions. Peut-être pensez-vous
 déjà à de telles questions vous-mêmes. Voulez-vous en discuter?
-
-Les projets retenus reposeront surtout sur la bioinformatique.
