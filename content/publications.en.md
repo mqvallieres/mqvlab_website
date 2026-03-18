@@ -8,11 +8,6 @@ tags: []
 
 **2025**
 
-[Alternatively spliced isoforms of IRF7 differentially regulate interferon expression to tune response to viral infection](https://doi.org/10.1016/j.celrep.2025.116166)  
-Panthi A, Ferretti MB, Howard O, Pokharel SM, McCracken R, Boudreault S, **Quesnel-Vallières M**, Li Q,
-Cherry S, Lynch KW  
-*Cell Reports*
-
 [NRCAM variant defined by microexon skipping is a targetable cell surface proteoform in high-grade gliomas.](https://10.1016/j.celrep.2025.116099)  
 Sehgal P, Naqvi AS, Higgins M, Liu J, Harvey K, Jarroux J, Kim T, Mankaliye B, Mishra P, Watterson G, Fine J,
 Davis J, Hayer KE, Castro A, Mogbo A, Drummer C 4th, Martinez D, Koptyra MP, Ang Z, Wang K, Farrel A,
