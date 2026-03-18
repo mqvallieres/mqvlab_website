@@ -13,7 +13,6 @@ Affiché en avril 2025: [Projet de doctorat](https://github.com/mqvallieres/mqvl
 postdoctoraux avec une expérience en biologie moléculaire/génétique/bio-informatique/transcriptomique/biochimie
 et qui désirent effectuer des recherches expérimentales ou en bio-informatique
 seront considérés.**
--->
 
 Annonce de décembre 2025: **Nouvelle opportunité pour les chercheurs postdoctoraux internationaux**  
 Le Canada a annoncé le financement d'un nouveau programme de bourse pour les postdocs internationaux.
@@ -23,6 +22,7 @@ du cancer et de l'épissage et nous vous offrons toute la liberté pour dévelop
 projet de recherche. Contactez-nous dès que possible si vous êtes intéressés. La data limite
 interne est le 4 février 2026.  
 Plus de détails sur la bourse [ici](https://nserc-crsng.canada.ca/fr/nouvelles/lancement-des-nouvelles-bourses-de-formation-en-recherche-impact-canada)
+-->
 
 Nous avons généralement un ou deux postes disponibles chaque année pour des
 étudiants aux cycles supérieurs ou stagaires postdoctoraux. Les candidats qui
@@ -34,7 +34,7 @@ ou en bio-informatique, par exemple, pourraient répondre aux besoins.
 
 STAGIAIRES COOP: les offres de stages ne seront pas
 affichées sur le système Trivio. Veuillez exprimer votre intérêt pour
-un stage COOP deux sessions avant la date prévue de votre stage.
+un stage COOP au moins deux sessions avant la date prévue de votre stage.
 
 Veuillez expliquer **ce que vous voudriez faire avec nous**
 et partager votre **CV** et vos **relevés de notes** pour

@@ -14,7 +14,6 @@ Posted April 2025: [PhD project](https://github.com/mqvallieres/mqvlab_website/r
 and postdoc candidates with a background
 in genetics/biochemistry/transcriptomics
 seeking to do experimental or computational work will be considered.**
--->
 
 Posted December 2025: **New opportunity for international postdoctoral researchers**  
 Canada has announced a new postoctoral fellowship program for international
@@ -23,6 +22,7 @@ several budding lines of investigation across the fields of genomics, gene regul
 cancer and splicing and we offer all the freedom you need to grow your own project. Please
 reach out as soon as possible if you are interested. The internal deadline is Feb 4, 2026.  
 Program details [here](https://nserc-crsng.canada.ca/en/news/launch-new-canada-impact-research-training-awards).
+-->
 
 We generally have one to two positions for grad students or postdocs available each year.
 Applicants seeking to conduct computational and/or experimental
@@ -32,7 +32,7 @@ genetics, RNA biology, immunology or bioinformatics could be a good fit.
 
 CO-OP STUDENTS: openings will not be posted on the
 Trivio system. Please contact us to inquire about internship opportunities
-two semesters ahead of your expected internship start date.
+at least two semesters ahead of your expected internship start date.
 
 Please state **what you want to do with us** and share your
 **CV** and **transcripts** when
