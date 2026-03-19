@@ -102,7 +102,7 @@ L’envie de contribuer à quelque chose qui me dépasse et d’apporter mon gra
 Mes projets de recherche précédents portaient sur l’étude des dommages à l’ADN liés
 aux radiations et sur les étapes du développement du système nerveux périphérique.
 
-**Au quotidien**
+**Au quotidien:**
 J’ai autant de passions qu’il y a de jours dans l’année. S’il fallait choisir je dirais que
 j’aime cuisiner, peindre, écouter de la musique mais particulièrement l’art de la sieste.
 Essayer de surmonter le syndrome de l’imposteur est une affaire quotidienne en plus d’être

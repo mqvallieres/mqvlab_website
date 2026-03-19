@@ -101,7 +101,7 @@ were the only ones during which I didn't fall asleep in high school.
 I previously worked on radiation-induced DNA damage and peripheral nervous system
 development.
 
-**On the daily**
+**On the daily:**
 I have as many passions as there are days in the year. If I had to pick a few I would go
 with cooking, painting, listening to musique and napping. Overcoming the imposter syndrome
 is a daily battle that is lost in advance. I'm trying my best, let's see what comes of it.
