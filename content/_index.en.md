@@ -11,7 +11,7 @@ Current lines of investigation include:
 - Understanding gene sequence
 
 ### News
-03/2026 [Our research is featured by the Canadian Cancer Society](https://cancer.ca/en/about-us/stories/2026/bringing-new-hope-to-people-living-with-rare-cancers)
+03/2026 [Our research is featured by the Canadian Cancer Society](https://cancer.ca/en/about-us/stories/2026/bringing-new-hope-to-people-living-with-rare-cancers)  
 01/2026 [The FMSS publishes a short portray of our lab](https://www.linkedin.com/feed/update/urn:li:activity:7413957558090088448/)  
 01/2026 Nicolas joins the lab for his grad studies  
 11/2025 Juan and Tony win 2 out of 2 poster awards at the Department of Immunology and Cell

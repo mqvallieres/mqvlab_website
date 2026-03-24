@@ -11,7 +11,7 @@ Nos thèmes de recherche incluent:
 - Compréhension de la séquence du gène
 
 ### Nouvelles
-03/2026 [Notre recherche est soulignée par la Société canadienne du cancer](https://cancer.ca/en/about-us/stories/2026/bringing-new-hope-to-people-living-with-rare-cancers)
+03/2026 [Notre recherche est soulignée par la Société canadienne du cancer](https://cancer.ca/en/about-us/stories/2026/bringing-new-hope-to-people-living-with-rare-cancers)  
 01/2026 [La FMSS publie un court portrait de notre labo](https://www.linkedin.com/feed/update/urn:li:activity:7413957558090088448/)  
 01/2026 Nicolas se joint au labo pour ses études supérieures  
 11/2025 Juan et Tony remportent les deux prix de présentation par affiche
