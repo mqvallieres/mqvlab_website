@@ -11,6 +11,7 @@ Current lines of investigation include:
 - Understanding gene sequence
 
 ### News
+04/2026 Yasmine joins the lab for a 4-month internship with a prestigious Mitacs GRI scholarship  
 03/2026 [Our research is featured by the Canadian Cancer Society](https://cancer.ca/en/about-us/stories/2026/bringing-new-hope-to-people-living-with-rare-cancers)  
 01/2026 [The FMSS publishes a short portray of our lab](https://www.linkedin.com/feed/update/urn:li:activity:7413957558090088448/)  
 01/2026 Nicolas joins the lab for his grad studies  
