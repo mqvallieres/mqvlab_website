@@ -9,10 +9,6 @@ Current lines of investigation include:
 - Description of molecular mechanisms driving cancer  
 - Role of RNA splicing regulation during hematopoiesis  
 - Understanding gene sequence  
-transparent-text {
-  opacity: 0.5; /* 50% opacity */
-}
-
 
 ### News
 05/2026 Carla joins the lab for her grad studies  
