@@ -11,7 +11,9 @@ Current lines of investigation include:
 - Understanding gene sequence
 
 ### News
-04/2026 Yasmine joins the lab for a 4-month internship with a prestigious Mitacs GRI scholarship  
+05/2026 Carla joins the lab for her grad studies  
+04/2026 Emma wins a presentation award for her talk at the D2R Symposium  
+04/2026 Yasmine joins the lab for a 4-month internship on a prestigious Mitacs GRI scholarship  
 03/2026 [Our research is featured by the Canadian Cancer Society](https://cancer.ca/en/about-us/stories/2026/bringing-new-hope-to-people-living-with-rare-cancers)  
 01/2026 [The FMSS publishes a short portray of our lab](https://www.linkedin.com/feed/update/urn:li:activity:7413957558090088448/)  
 01/2026 Nicolas joins the lab for his grad studies  
@@ -34,8 +36,8 @@ Disruptive Innovation Grant for the development of targeted immunotherapies agai
 10/2024 Nassima and Emma present posters at the RiboClub meeting  
 09/2024 Léo joins the lab for his grad studies  
 08/2024 The lab receives a Startup Grant from D2R  
-04/2024 Mathieu is awarded a FRQS J1 career scholarship  
 <!--
+04/2024 Mathieu is awarded a FRQS J1 career scholarship  
 01/2024 Virginie is awarded a prestigious NSERC Undergraduate Student Research Award  
 01/2024 Emma and Nassima join the lab for their grad studies  
 01/2024 Virginie and Mathieu DB join the lab for a 4-month COOP internship  
