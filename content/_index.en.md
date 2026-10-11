@@ -64,4 +64,4 @@ as well as startup funds from the Université de Sherbrooke, CRCHUS and D2R.
 
 &nbsp;
 
-![funding](/img/funding.png)
+![funding](/img/logos_funding.png)

@@ -66,4 +66,4 @@ démarrage de l'Université de Sherbrooke, du CRCHUS et du D2R.
 [Mathieu Quesnel-Vallières](mailto:mathieu.quesnel-vallieres@usherbrooke.ca).**
 
 &nbsp;
-![funding](/img/funding.png)
+![funding](/img/logos_funding.png)
