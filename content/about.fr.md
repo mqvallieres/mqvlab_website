@@ -109,6 +109,23 @@ Essayer de surmonter le syndrome de l’imposteur est une affaire quotidienne en
 un combat perdu d’avance. Disons que j’essaie de faire de mon mieux, on verra si ça passe.
 
 
+![Carla Bernal-Espinoza](/img/carla_small.jpg "Carla in ...")
+
+### Carla Bernal-Espinoza
+#### M.Sc. Student in Immunology
+
+While I had a strong curiosity for biology, the promise of innovation in genetics and
+biotechnology is what truly hooked me. Since then, I have had the opportunity to explore
+diverse environments, spanning clinical biology, molecular biology, and bioinformatics.
+Now, my motivation is to invest myself in using these tools to find novel biomarkers
+and investigate new therapies that can make a tangible difference in people's lives.
+
+**On the daily:**
+I love exploring new places and staying active through walking, hitting the gym, and
+playing volleyball. Now in Quebec, I'm even excited to try ice activities! To balance
+this out, I’m a huge foodie who loves cooking, music, and enjoying a great meal.
+
+
 ![Tony-Carlo Blanchette](/img/tony_small.jpg "Tony dans le labo")
 
 ### Tony-Carlo Blanchette
@@ -124,6 +141,7 @@ le foie aux saucisses…
 
 
 ### Alumni
+Yasmine Ben Jemia, Stagiaire MITACS 04/26-07/26
 Juan David Millan, Stagiaire COOP 09/25-12/25  
 Sarah Macrides, Stagiaire M1 03/25-08/25  
 Virginie Cyr, Stagiaire COOP 01/24-04/24  

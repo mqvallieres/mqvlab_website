@@ -107,6 +107,23 @@ with cooking, painting, listening to musique and napping. Overcoming the imposte
 is a daily battle that is lost in advance. I'm trying my best, let's see what comes of it.
 
 
+![Carla Bernal-Espinoza](/img/carla_small.jpg "Carla in ...")
+
+### Carla Bernal-Espinoza
+#### M.Sc. Student in Immunology
+
+While I had a strong curiosity for biology, the promise of innovation in genetics and
+biotechnology is what truly hooked me. Since then, I have had the opportunity to explore
+diverse environments, spanning clinical biology, molecular biology, and bioinformatics.
+Now, my motivation is to invest myself in using these tools to find novel biomarkers
+and investigate new therapies that can make a tangible difference in people's lives.
+
+**On the daily:**
+I love exploring new places and staying active through walking, hitting the gym, and
+playing volleyball. Now in Quebec, I'm even excited to try ice activities! To balance
+this out, I’m a huge foodie who loves cooking, music, and enjoying a great meal.
+
+
 ![Tony-Carlo Blanchette](/img/tony_small.jpg "Tony in the lab")
 
 ### Tony-Carlo Blanchette
@@ -122,6 +139,7 @@ for hospital gastronomy… except for liver with sausages…
 
 
 ### Alumni
+Yasmine Ben Jemia, MITACS intern 04/26-07/26
 Juan David Millan, COOP intern 09/25-12/25  
 Sarah Macrides, M1 intern 03/25-08/25  
 Virginie Cyr, COOP intern 01/24-04/24  

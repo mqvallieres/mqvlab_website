@@ -11,6 +11,11 @@ Current lines of investigation include:
 - Understanding gene sequence  
 
 ### News
+09/2026 Carla is awarded a highly competitive D2R Master's Scholarship  
+08/2026 Tony returns for a 4-month COOP internship  
+07/2026 Amina joins the lab for a 3-month internship on a prestigious Mitacs GRI scholarship  
+07/2026 Estrella joins the lab for a 3-month internship on a prestigious Mitacs GRI scholarship  
+06/2026 Roy joins the lab for a 4-month internship on a prestigious Mitacs GRA scholarship  
 05/2026 Carla joins the lab for her grad studies  
 04/2026 Emma wins a presentation award for her talk at the D2R Symposium  
 04/2026 Yasmine joins the lab for a 4-month internship on a prestigious Mitacs GRI scholarship  
@@ -33,10 +38,10 @@ for the development of personalized vaccines against childhood sarcoma
 02/2025 Our collaborative project with Pr. Lee-Hwa Tai is awarded a CCS-Hecht Foundation
 Disruptive Innovation Grant for the development of targeted immunotherapies against cholangiocarcinoma  
 01/2025 Tony joins the lab for a 4-month COOP internship  
+<!--
 10/2024 Nassima and Emma present posters at the RiboClub meeting  
 09/2024 Léo joins the lab for his grad studies  
 08/2024 The lab receives a Startup Grant from D2R  
-<!--
 04/2024 Mathieu is awarded a FRQS J1 career scholarship  
 01/2024 Virginie is awarded a prestigious NSERC Undergraduate Student Research Award  
 01/2024 Emma and Nassima join the lab for their grad studies  
@@ -59,4 +64,4 @@ as well as startup funds from the Université de Sherbrooke, CRCHUS and D2R.
 
 &nbsp;
 
-![funding](/img/logos_funding.png)
+![funding](/img/funding.png)

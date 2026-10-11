@@ -11,6 +11,11 @@ Nos thèmes de recherche incluent:
 - Compréhension de la séquence du gène
 
 ### Nouvelles
+09/2026 Carla reçoit une bourse à la maîtrise hautement compétitive du programme D2R  
+08/2026 Tony revient pour un stage COOP de 4 mois  
+07/2026 Amina se joint au labo pour un stage de 3 mois avec une prestigieuse bourse Mitacs SRG  
+07/2026 Estrella se joint au labo pour un stage de 3 mois avec une prestigieuse bourse Mitacs SRG  
+06/2026 Roy se joint au labo pour un stage de 4 mois avec une prestigieuse bourse Mitacs BRG  
 05/2026 Carla se joint au labo pour ses études supérieures  
 04/2026 Emma remporte un prix pour sa présentation orale au Symposium du D2R  
 04/2026 Yasmine se joint au labo pour un stage de 4 mois avec une prestigieuse bourse Mitacs SRG  
@@ -36,10 +41,10 @@ thérapeutiques personalisés contre les sarcomes pédiatriques
 un financement de la Société canadienne du cancer-Fondation Hecht pour le développement d'immunothérapies
 ciblées contre le cholangiocarcinome  
 01/2025 Tony se joint au labo pour un stage COOP de 4 mois  
+<!--
 10/2024 Nassima et Emma présentent des affiches au congrès du RiboClub  
 09/2024 Léo se joint au labo pour ses études supérieures  
 08/2024 Le labo reçoit des fonds de démarrage du D2R  
-<!--
 04/2024 Mathieu QV reçoit une bourse Chercheur-boursier J1 du FRQS  
 01/2024 Virginie reçoit une prestigieuse bourse de recherche au 1er cycle du CRSNG  
 01/2024 Emma et Nassima se joignent au labo pour leurs études supérieures  
